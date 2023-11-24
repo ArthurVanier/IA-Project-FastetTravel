@@ -1,0 +1,1577 @@
+depart;arrivee;duree
+Gare de Le Havre;Gare de Paris-St-Lazare;138
+Gare de Dieppe;Gare de Paris-St-Lazare;145
+Gare de Paris-St-Lazare;Gare de Rouen-Rive-Droite;97
+Gare de Cherbourg;Gare de Paris-St-Lazare;194
+Gare de Caen;Gare de Paris-St-Lazare;149
+Gare de Paris-St-Lazare;Gare de Trouville-Deauville;147
+Gare de Granville;Gare de Paris-Montp.;3201
+Gare de Granville;Gare de Paris-Montparnasse ;12195
+Gare de Dreux;Gare de Granville;142
+Gare de Bourges;Gare de Paris-Austerlitz;122
+Gare de Paris-Austerlitz;Gare de Vierzon;101
+Gare de Bourges;Gare de Paris-Bercy;131
+Gare de Bourges;Gare de Paris-Bercy;131
+Gare de Nevers;Gare de Paris-Austerlitz;177
+Gare de Bourges;Gare de Nevers;38
+Gare de Nevers;Gare de Paris-Bercy;154
+Gare de Nevers;Gare de Paris-Gare-de-Lyon;146
+Gare de Argentan;Gare de Paris-Montp.;3121
+Gare de Orléans;Gare de Paris-Austerlitz;75
+Gare de Paris-Austerlitz;Gare de Tours;131
+Gare de Orléans;Gare de Tours;72
+Gare de Aubrais-(les);Gare de Paris-Austerlitz;71
+Gare de Paris-Bercy;Gare de Tours;146
+Gare de Orléans;Gare de Paris-Bercy;84
+Gare de Paris-Austerlitz;Gare de St-Pierre-des-Corps;118
+Gare de Calais Ville;Gare de Paris Gare du Nord;183
+Gare de Boulogne Ville;Gare de Paris Gare du Nord;145
+Gare de Amiens;Gare de Calais Ville;107
+Gare de Boulogne Ville;Gare de Calais Ville;28
+Gare de Amiens;Gare de Boulogne Ville;75
+Gare de Amiens;Gare de Paris Gare du Nord;74
+Gare de Cambrai Ville;Gare de Paris Gare du Nord;155
+Gare de Maubeuge;Gare de Paris Gare du Nord;119
+Gare de Paris Gare du Nord;Gare de St Quentin;100
+Gare de Compiègne;Gare de Maubeuge;80
+Gare de Argentan;Gare de Dreux;69
+Gare de Caen;Gare de Le Mans;111
+Gare de Caen;Gare de Tours;182
+Gare de Le Mans;Gare de Paris-Montparnasse ;12135
+Gare de Nogent-le-Rotrou;Gare de Paris-Montparnasse ;12102
+Gare de Chartres;Gare de Paris-Montparnasse ;1270
+Gare de Chartres;Gare de Le Mans;70
+Gare de Blois-Chambord;Gare de Tours;38
+Gare de Lyon-Perrache;Gare de Tours;366
+Gare de Lyon-Perrache;Gare de Nevers;211
+Gare de Latour-de-Carol-Enveitg;Gare de Villefranche-Vernet-l.B;174
+Gare de Font-Romeu-Odeillo-Via;Gare de Villefranche-Vernet-l.B;88
+Gare de Briançon;Gare de Romans-Bourg-de-Péage;241
+Gare de Briançon;Gare de Veynes-Dévoluy;97
+Gare de Romans-Bourg-de-Péage;Gare de Veynes-Dévoluy;153
+Gare de Gap;Gare de Romans-Bourg-de-Péage;172
+Gare de Briançon;Gare de Gap;75
+Gare de Briançon;Gare de Valence-Ville;247
+Gare de Briançon;Gare de Marseille-St-Charles;302
+Gare de Gap;Gare de Marseille-St-Charles;216
+Gare de Aix-en-Provence;Gare de Marseille-St-Charles;50
+Gare de Marseille-St-Charles;Gare de Nice-Ville;159
+Gare de Les Arcs-Draguignan;Gare de Marseille-St-Charles;83
+Gare de Grenoble;Gare de Valence-Ville;74
+Gare de Chambéry-Chal.-les-Eaux;Gare de Valence-Ville;125
+Gare de Annecy;Gare de Valence-Ville;181
+Gare de Annecy;Gare de Chambéry-Chal.-les-Eaux;53
+Gare de Annecy;Gare de Avignon-Centre;277
+Gare de Annecy;Gare de Grenoble;103
+Gare de Grenoble;Gare de Lyon-Part-Dieu;82
+Gare de Avignon-Centre;Gare de Lyon-Part-Dieu;141
+Gare de Lyon-Part-Dieu;Gare de Marseille-St-Charles;246
+Gare de Avignon-Centre;Gare de Marseille-St-Charles;78
+Gare de Dijon-Ville;Gare de Paris-Bercy;171
+Gare de Dijon-Ville;Gare de Paris-Gare-de-Lyon;170
+Gare de Lyon-Part-Dieu;Gare de Sens;262
+Gare de Lyon-Part-Dieu;Gare de Paris-Bercy;308
+Gare de Dijon-Ville;Gare de Lyon-Part-Dieu;124
+Gare de Lyon-Part-Dieu;Gare de Paris-Gare-de-Lyon;309
+Gare de Mâcon-Ville;Gare de Paris-Bercy;262
+Gare de Dijon-Ville;Gare de Mâcon-Ville;74
+Gare de Mâcon-Ville;Gare de Paris-Gare-de-Lyon;263
+Gare de Lyon-Perrache;Gare de Paris-Bercy;324
+Gare de Dijon-Ville;Gare de Lyon-Perrache;137
+Gare de Lyon-Perrache;Gare de Paris-Gare-de-Lyon;323
+Gare de Bourg-St-Maurice;Gare de Lyon-Part-Dieu;217
+Gare de Bourg-St-Maurice;Gare de Bourgoin-Jallieu;188
+Gare de Albertville;Gare de Bourgoin-Jallieu;119
+Gare de Chambéry-Chal.-les-Eaux;Gare de Lyon-Part-Dieu;80
+Gare de Bourgoin-Jallieu;Gare de Chambéry-Chal.-les-Eaux;55
+Gare de La Chaux-de-Fonds;Gare de Morteau;29
+Gare de Besançon-Viotte;Gare de La Chaux-de-Fonds;118
+Gare de Besançon-Mouillère;Gare de La Chaux-de-Fonds;112
+Gare de Pontarlier;Gare de Vallorbe-Cff;33
+Gare de Frasne;Gare de Neuchâtel;60
+Gare de Neuchâtel;Gare de Travers;22
+Gare de Dole-Ville;Gare de Vallorbe-Cff;63
+Gare de Frasne;Gare de Vallorbe-Cff;17
+Gare de Delémont;Gare de Meroux;69
+Gare de Delle;Gare de Delémont;52
+Gare de Biel;Gare de Meroux;99
+Gare de Biel;Gare de Delle;82
+Gare de Lyon-Part-Dieu;Gare de Modane;182
+Gare de Aix-les-Bains-le-Revard;Gare de Lyon-Part-Dieu;78
+Gare de St-Gervais-L-B-Le-Fayet;Gare de Vallorcine;95
+Gare de Chamonix-Mont-Blanc;Gare de Vallorcine;33
+Gare de Chamonix-Mont-Blanc;Gare de St-Gervais-L-B-Le-Fayet;45
+Gare de Aulnoye Aymeries;Gare de Mons;28
+Gare de Courtrai/Kortrijk;Gare de Lille Flandres;36
+Gare de Maubeuge;Gare de Namur;84
+Gare de Lille Flandres;Gare de Tournai;30
+Gare de Brive-la-Gaillarde;Gare de Ussel;106
+Gare de Dijon-Ville;Gare de Nevers;203
+Gare de Le Creusot;Gare de Montchanin;11
+Gare de Nice-Ville;Gare de Tende;137
+Gare de Breil-sur-Roya;Gare de Nice-Ville;70
+Gare de Annemasse;Gare de Coppet;51
+Gare de Decize;Gare de Nevers;33
+Gare de Annemasse;Gare de Genève;23
+Gare de Coppet;Gare de Evian-les-Bains;94
+Gare de Coppet;Gare de Thonon-les-Bains;85
+Gare de Annemasse;Gare de Thonon-les-Bains;33
+Gare de Annecy;Gare de Genève;89
+Gare de Annecy;Gare de Coppet;117
+Gare de Coppet;Gare de La Roche-sur-Foron;79
+Gare de Coppet;Gare de St-Gervais-L-B-Le-Fayet;132
+Gare de Cluses (Hte-Savoie);Gare de Coppet;108
+Gare de Forbach;Gare de Metz-Ville;47
+Gare de Bening;Gare de Metz-Ville;41
+Bitche;Gare de Haguenau;69
+Bitche;Gare de Niederbronn;26
+Bitche-Camp;Gare de Niederbronn;38
+Gare de Haguenau;Gare de Niederbronn;40
+Bitche-Camp;Gare de Haguenau;76
+Gare de Haguenau;Gare de Strasbourg;50
+Gare de Haguenau;Gare de Wissembourg;37
+Bouxwiller-Schattenmann;Haguenau-Moulin-Neuf.;43
+Gare de Saverne;Niedermodern/Uberach;50
+Gare de Ingwiller;Haguenau-Moulin-Neuf.;41
+Dossenheim-(Mairie);Haguenau-Moulin-Neuf.;69
+Gare de Obermodern;Saverne-(Ht-Barr);47
+Gare de Ingwiller;Saverne-(Ht-Barr);56
+Gare de Saverne;Haguenau-Moulin-Neuf.;81
+Bouxwiller-Babenhausen;Dossenheim-(Mairie);20
+Bouxwiller-Schattenmann;Niedermodern/Uberach;25
+Bouxwiller-Schattenmann;Gare de Obermodern;10
+Gare de Obermodern;Haguenau-Moulin-Neuf.;31
+Gare de Obermodern;Gare de Saverne;36
+Gare de Obermodern;Niedermodern/Uberach;12
+Bouxwiller-Babenhausen;Niedermodern/Uberach;20
+Dossenheim-(Mairie);Gare de Obermodern;23
+Gare de Saverne;Neuwiller-R.-Bouxwiller;18
+Gare de Obermodern;Pfaffenhoffen-(Mairie).;8
+Gare de Saverne;Pfaffenhoffen-(Mairie).;43
+Gare de Strasbourg;Gare de Sélestat;53
+Gare de Benfeld;Gare de Strasbourg;42
+Gare de Colmar;Gare de Raedersheim;45
+Buswiller-Eglise;Gare de Mommenheim;19
+Ettendorf-Pl-de-L'ecol;Gare de Mommenheim;15
+Ettendorf-(Angle-Pont);Gare de Mommenheim;13
+Bouxwiller-Babenhausen;Gare de Mommenheim;30
+Gare de Diemeringen;Gare de Sarreguemines;31
+Gare de Sarreguemines;Gare de Strasbourg;125
+Gare de Diemeringen;Gare de Strasbourg;91
+Gare de Strasbourg;Gare de Wingen-sur-Moder;64
+Gare de Ingwiller;Reipertswiller-SP.;18
+Gare de Ingwiller;Lichtenberg-(Eglise).;23
+Gare de Saverne;Gare de Strasbourg;57
+Gare de Lutzelbourg;Gare de Saverne;15
+Gare de Kruth;Thann Arrêt La Poste;32
+Gare de Kruth;Gare de Mulhouse;77
+Gare de Kruth;Gare de Thann;32
+Gare de Kruth;Gare de Wesserling;7
+Gare de Colmar;Gare de Metzeral;43
+Gare de Cernay (Haut-Rhin);Sewen-(Eglise);60
+Cernay-(Lycée);Sewen-(Eglise);66
+Gare de Basel-SBB;Gare de Mulhouse;60
+Gare de Ingwiller;Saverne-(Lycée-Verne);64
+Frohmuhl- (Lavoir);Saverne-(Ht-Barr);83
+Frohmuhl- (Lavoir);Gare de Saverne;58
+Frohmuhl- (Lavoir);Saverne-(Lycée-Verne);85
+Gare de Saverne;Hattmatt-S.-Polyvalente;20
+Hattmatt-S.-Polyvalente;Saverne-(Pl.-Dragons);33
+Hattmatt-S.-Polyvalente;Saverne-(Lycée-Verne);42
+Hattmatt-S.-Polyvalente;Saverne-(Ht-Barr);43
+Gare de Herrlisheim (Bas-Rhin);Gare de Strasbourg;51
+Gare de Lauterbourg;Gare de Roeschwoog;30
+Gare de Entzheim-Aéroport;Gare de Strasbourg;20
+Gare de Barr;Gare de Molsheim;33
+Gare de Molsheim;Gare de Strasbourg;40
+Gare de Barr;Gare de Strasbourg;89
+Gare de Molsheim;Gare de Sélestat;76
+Gare de Rothau;Gare de Strasbourg;72
+Gare de Saales;Gare de Strasbourg;104
+Gare de Altkirch;Gare de Mulhouse;25
+Gare de Belfort-Ville;Gare de Mulhouse;77
+Gare de Belfort-Ville;Gare de Montreux-Vieux;30
+Gare de Sélestat;Ribeauville-Gare-Routiè;20
+Gare de Sélestat;Riquewihr-Poste;36
+Gare de Sélestat;Ste-Marie-/-Mines-Maire;35
+Gare de St-Dié-des-Vosges;Gare de Sélestat;71
+Gare de Sélestat;Ste-Marie/-Ms-(-Théâtre;36
+Ste-Croix/Mines-Sq-de-G;Sèlestat-(Schwilgué);55
+Gare de Sélestat;Ste-Marie-/-Ms-Pl-.CdG;35
+Ste-Marie-/-Mines-Maire;Sèlestat-(Schwilgué);64
+Liepvre-(-R.-GUTH-);Sèlestat-(Schwilgué);49
+Ste-Marie-/-Ms-Pl-.CdG;Sélestat-(Schweisguth);69
+Gare de Sélestat;Lièpvre-(Rte-Vancelle);45
+Gare de Montluçon-Ville;Gare de Vierzon;125
+Laqueuille;Le-Mont-Dore-Gare;24
+Gare de Clermont-Ferrand;Gare de Gannat;57
+Gare de Gannat;Gare de Riom-Châtel-Guyon;46
+Gare de Aurillac;Gare de St-Denis-près-Martel;111
+Gare de Aurillac;Gare de Capdenac;88
+Gare de Montluçon-Ville;Gare de Vichy;108
+Gare de Clermont-Ferrand;Le-Mont-Dore-Gare;84
+Gare de Clermont-Ferrand;Saint-Etienne-Chtx GR;156
+Gare de Thiers;Saint-Etienne-Chtx GR;118
+Gare de Clermont-Ferrand;Gare de Le Puy-en-Velay;184
+Gare de Clermont-Ferrand;Gare de Montluçon-Ville;146
+Gare de Montluçon-Ville;Gare de Riom-Châtel-Guyon;120
+Gare de Arvant;Gare de Aurillac;121
+Gare de Moulins-sur-Allier;Gare de Vichy;78
+Gare de Clermont-Ferrand;Gare de Thiers;71
+Gare de Clermont-Ferrand;Gare de Volvic;39
+Ancizes-St-Georges-Bour;Gare de Volvic;39
+Gare de Montluçon-Ville;Urcay-Hotel-du-Lyon-d'O;44
+Gare de Montluçon-Ville;Gare de St-Amand-Montrond-Orval;59
+Gare de Thiers;Gare de Vertaizon;40
+Gare de Montluçon-Ville;St-Eloy;40
+Gare de Lapeyrouse(Puy-de-Dôme);St-Eloy-les-Mines-Lycée;20
+Ancizes-St-Georges-Bour;Gare de Clermont-Ferrand;69
+Gare de Clermont-Ferrand;St-Gervais-Mairie;91
+Gare de Clermont-Ferrand;Le Mont Dore Ski;98
+Gare de Clermont-Ferrand;Gare de Vertaizon;32
+Gare de Volvic;St-Eloy;113
+Gare de Arvant;St-Flour-les-Allées;50
+Gare de Massiac-Blesle;St-Flour-les-Allées;30
+Gare de Arvant;Gare de St-Chély-d'Apcher;77
+Gare de Clermont-Ferrand;Mauriac-Lycée-Cortat;136
+Gare de Lapeyrouse(Puy-de-Dôme);St-Eloy;15
+Gare de Clermont-Ferrand;Mauriac;133
+Gare de Riom-Châtel-Guyon;St-Gervais-Ch-LPA.;54
+Gare de Montluçon-Ville;St-Gervais-Ch-LPA.;60
+Gare de Neussargues;Riom_Es_M_la_Poste.;69
+Gare de Clermont-Ferrand;St-Flour-les-Allées;93
+Gare de Neussargues;Gare de St-Chély-d'Apcher;56
+Gare de Neussargues;Gare de St-Flour-Chaudes-Aigues;31
+Gare de St-Chély-d'Apcher;St-Flour-les-Allées;30
+Gare de Massiac-Blesle;Gare de St-Chély-d'Apcher;49
+Gare de Volvic;Pontgibaud-Ville;22
+Brioude-Lycée-Lafayette;Gare de Brioude;5
+Gare de Langeac;Gare de St-Georges-d'Aurac;10
+Gare de Langeac;St-George-d'Aurac-Bourg;12
+Gare de Brioude;Gare de Langeac;37
+Gare de Brioude;Gare de Le Puy-en-Velay;64
+Gare de Langeac;Gare de Le Puy-en-Velay;49
+Gare de Le Puy-en-Velay;Gare de St-Georges-d'Aurac;53
+Gare de Arvant;Gare de Le Puy-en-Velay;81
+Gare de Le Puy-en-Velay;Saint-Etienne-Chtx GR;80
+Gare de Le Puy-en-Velay;La Chaise-Dieu;47
+Ambert;Gare de Le Puy-en-Velay;107
+Ambert;Gare de Vichy;119
+Gare de Pont-de-Dore;Gare de Vichy;66
+Gare de Ussel;Laqueuille;39
+Gare de Arvant;Gare de Issoire;46
+Gare de Vic-le-Comte;Issoire-Lycée-Deville;30
+Gare de Issoire;Le-Breuil-sur-Couze-Lyc;13
+Gare de Brioude;Gare de Issoire;54
+Gare de Clermont-Ferrand;Gare de Ussel;100
+Gare de Luzy(Nièvre);Gare de Nevers;98
+Gare de Cercy-la-Tour;Gare de Nevers;68
+Gare de Autun;Gare de Etang;21
+Gare de Autun;Gare de Le Creusot;49
+Gare de Autun;Gare de Montchanin;62
+Gare de Moulins-sur-Allier;Gare de Nevers;68
+Gare de Nevers;Gare de St-Pierre-le-Moûtier;33
+Gare de Moulins-sur-Allier;Gare de Paray-le-Monial;82
+Chauffailles-Gambetta;Gare de Digoin;67
+Gare de Digoin;Gare de Lozanne;133
+Gare de Louhans;Gare de Seurre;48
+Gare de Bourg-en-Bresse;Gare de Seurre;103
+Gare de Auxerre-St-Gervais;Gare de Avallon;63
+Gare de Auxerre-St-Gervais;Gare de Clamecy;76
+Gare de Auxerre-St-Gervais;Gare de Corbigny;111
+Gare de Clamecy;Gare de Corbigny;35
+Gare de Lorient;Gare de Quimperlé;22
+Châteaubriant;Gare de Janzé;57
+Châteaubriant;Gare de Retiers;33
+Gare de Dinan;Gare de Dol;30
+Gare de Valençay;Luçay-le-Male;15
+Gare de Romorantin-Blanc-Argent;Gare de Salbris;50
+Gare de Faubourg-d'Orléans;Gare de Romorantin-Blanc-Argent;5
+Gare de Faubourg-d'Orléans;Gare de Valençay;55
+La Ferté-sur-Chiers;Sedan-Place-Calonne;59
+Gare de Châlons-en-Champagne;Gare de Verdun;108
+Gare de St-Dizier;Gare de Vitry-le-François;51
+Gare de Joinville;Gare de St-Dizier;50
+Gare de Chaumont;Gare de St-Dizier;123
+Gare de Chaumont;Gare de Joinville;77
+Gare de Chaumont;Langres-Gendarmerie;67
+Gare de Chaumont;Gare de Troyes;100
+Gare de Bar-sur-Aube;Juvancourt;32
+Gare de Bar-sur-Aube;Gare de Troyes;98
+Gare de Troyes;Gare de Vendeuvre (Aube);55
+Bayel-Eglise;Juvancourt;18
+Gare de Chaumont;Gare de Vendeuvre (Aube);60
+Gare de Vendeuvre (Aube);Juvancourt;85
+Gare de Chaumont;Ville-sous-La-Ferté;48
+Bricon(la Poste);Gare de Chaumont;19
+Gare de St-Florentin-Vergigny;Gare de Troyes;97
+Gare de Laroche-Migennes;Gare de Troyes;130
+Gare de Romilly-sur-Seine;Gare de Troyes;78
+Gare de Troyes;Payns Abri Savières;26
+Gare de Nogent-sur-Seine;Gare de Romilly-sur-Seine;35
+Gare de Charleville-Mézières;Gare de Hirson;60
+Gare de Fismes;Gare de Reims;58
+Gare de Aillevillers;Gare de Belfort-Ville;102
+Gare de Aillevillers;Gare de Lure;37
+Gare de Besançon-Viotte;Gare de Morteau;88
+Gare de Le Locle;Gare de Morteau;20
+Gare de Le Valdahon;Gare de Morteau;54
+Gare de Dole-Ville;Gare de Mouchard;47
+Gare de Lons-le-Saunier;Gare de Mouchard;84
+Gare de Mouchard;Gare de Poligny;28
+Gare de Besançon-Viotte;Gare de Mouchard;58
+Gare de Frasne;Gare de Pontarlier;30
+Dompierre-Halte-Rout.;Gare de Pontarlier;21
+Gare de Pontarlier;Les Granges-Narboz;10
+Gare de Frasne;Jougne;56
+Gare de Champagnole;Gare de Saint-Claude;87
+Gare de Champagnole-PE-Victor;Gare de Dole-Ville;102
+Gare de Andelot;Gare de Saint-Claude;107
+Gare de Dole-Ville;Gare de Saint-Claude;204
+Gare de Mouchard;Gare de Saint-Claude;124
+Gare de Alès;Gare de Nîmes;50
+Gare de La Bastide-St-Laurent;Gare de Langogne;25
+Gare de Langogne;Gare de Mende;90
+Gare de La Bastide-St-Laurent;Gare de Mende;68
+Gare de Millau;Marvejols Place Chayla;75
+Gare de Clermont-Ferrand;Gare de Mende;180
+Gare de Le Puy-en-Velay;Gare de Marvejols;135
+Gare de Mende;Gare de St-Chély-d'Apcher;84
+Gare de La Bastide-St-Laurent;Gare de Marvejols;133
+Gare de Mende;Marvejols Place Chayla;50
+Gare de Carcassonne;Quillan;90
+Gare de Carcassonne;Gare de Limoux;55
+Gare de Limoux;Quillan;45
+Gare de Bédarieux;Gare de Béziers;60
+Gare de Guéret;Gare de Montluçon-Ville;66
+Gare de Tulle;Gare de Ussel;89
+Gare de Egletons;Gare de Tulle;40
+Gare de Egletons;Gare de Meymac;25
+Gare de Brive-la-Gaillarde;Gare de Egletons;63
+Bort-les-Orgues;Gare de Ussel;35
+Gare de Nancy-Ville;Mirecourt;74
+Martigny-les-B-Thiebaut;Vézelise Beauregard;90
+Damblain Eglise;Gare de Nancy-Ville;150
+Gare de Contrexéville;Gare de Nancy-Ville;116
+Gare de Contrexéville;Mirecourt;39
+Gare de Vittel;Mirecourt;26
+Gare de Nancy-Ville;Martigny-les-B-Thiebaut;133
+Gare de Nancy-Ville;Gare de Vittel;92
+Gare de Nancy-Ville;Mirecourt (Lycée Agric);71
+Gare de Bening;Gare de Sarreguemines;34
+Bitche-Quartier-Driant;Gare de Bening;71
+Gare de Charmes (Vosges);Gare de Vittel;60
+Gare de Charmes (Vosges);Mirecourt;30
+Gare de Charmes (Vosges);Mirecourt (Lycée Agric);33
+Igney (Centre);Sarrebourg-LP-Messmer;45
+Gare de Sarrebourg;Igney (Centre);39
+Gare de Longuyon;Gare de Longwy;32
+Gare de Longuyon;Gare de Montmédy;39
+Gare de Longuyon;Vezin-Carrefour;33
+Gare de Morhange;Gare de Sarrebourg;94
+Gare de Sarrebourg;Loudrefing;34
+Gare de Morhange;Gare de Rémilly;48
+Longuyon (Collège);Vezin-Carrefour;23
+Gare de Sarrebourg;St-Jean-de-Bassel-Eglis;35
+Gare de Nancy-Ville;Gare de Neufchâteau;62
+Fénétrange (Gendarm.);Sarrebourg-Hôpital;42
+Loudrefing;Sarrebourg-LP-Messmer;54
+Sarrebourg (Place Math);St-Jean-de-Bassel-Eglis;24
+Sarrebourg-LP-Messmer;St-Jean-de-Bassel-Eglis;31
+Gare de Neufchâteau;Gare de Toul;45
+Gare de Toul;Neufchateau-Lp;59
+Gare de Nancy-Ville;Neufchateau-Lp;88
+Allamps-Esat;Gare de Toul;30
+Creutzwald G.R.;Gare de Thionville;110
+Fénétrange (Gendarm.);Sarrebourg-LP-Messmer;30
+Gare de St-Dié-des-Vosges;Laveline-d-Bruy. Mairie;64
+Gare de Epinal;Gare de St-Dié-des-Vosges;65
+Bruyères (Vosges);Gare de Epinal;43
+Bruyères (Vosges);Gare de St-Dié-des-Vosges;48
+Bouzonville;Gare de Thionville;67
+Gare de Epinal;Laveline-d-Bruy. Mairie;52
+Gare de Thionville;Kédange (Eglise);22
+Gare de Thionville;Hombourg (Chapelle);26
+Gare de Epinal;Saint-Léonard Centre;94
+Corcieux Le Conti;Gare de Epinal;81
+Gare de Arches;Gare de St-Dié-des-Vosges;85
+Bruyères Chanzy Gare;Gare de Epinal;35
+Gare de Arches;Gare de Epinal;20
+Bruyères Chanzy Gare;Gare de St-Dié-des-Vosges;48
+Gare de Thionville;Perl Gare DB;39
+Gare de Sarreguemines;Sarre-Union;52
+Herbitzheim R. Hambach;Sarre-Union;25
+Gare de Sarreguemines;Sarralbe Centre;33
+Loudrefing;Sarrebourg (Place Math);50
+Herbitzheim Mairie;Sarre-Union;23
+Gare de Sarrebourg;Gare de Sarreguemines;85
+Fénétrange (Gendarm.);Sarrebourg-Abri-Phalsbo;33
+Gare de Sarreguemines;Sarrebourg (Place Math);116
+Berthelming-Mairie;Sarrebourg-Abri-Phalsbo;17
+Gare de Metz-Ville;Gare de Nancy-Ville;105
+Gare de Saverne;Sarralbe;64
+Keskastel;Sarre-Union;11
+Gare de Saverne;Sarre-Union;45
+Bruyères (Vosges);Saint-Léonard Centre;39
+Gare de Bar-le-Duc;Gare de Revigny;21
+Gare de Charmes (Vosges);Gare de Epinal;40
+Gare de Conflans-Jarny;Gare de Pagny-sur-Moselle;45
+Gare de Figeac;Gare de Gramat;52
+Gare de Mazamet;Gare de Toulouse-Matabiau;133
+Gare de Muret;Gare de Pau;218
+Gare de Pau;Gare de Toulouse-Matabiau;253
+Gare de Agen;Gare de Castelsarrasin;56
+Gare de Longages-Noé;St-Sulpice-sur-Lèze;11
+Gare de Montréjeau-Gourdan-Pol.;Luchon-Richelieu;56
+Gare de Ax-les-Thermes;Gare de Toulouse-Matabiau;145
+Gare de Ax-les-Thermes;Gare de Foix;47
+Gare de Ax-les-Thermes;Gare de Pamiers;83
+Gare de Montréjeau-Gourdan-Pol.;Luchon;50
+Gare de Ax-les-Thermes;Latour de Carol;49
+Gare de Foix;Gare de Pamiers;33
+Gare de Souillac;Gare de St-Denis-près-Martel;27
+Gare de Albi-Ville;Gare de Toulouse-Matabiau;90
+Gare de Foix;Gare de Toulouse-Matabiau;139
+Comines (France);Gare de Lille Flandres;54
+Gare de Lille Flandres;Wambrechies;30
+Gare de Abbeville;Gare de Boulogne Ville;104
+Gare de Abbeville;Gare de Rue;40
+Gare de Lens;Gare de Lille Flandres;80
+Gare de Avesnes;Gare de Hirson-Ecoles;55
+Gare de Arras;Gare de Douai;40
+Gare de Hazebrouck;Gare de Lille Flandres;77
+Gare de Busigny;Gare de St Quentin;60
+Gare de Calais Fréthun;Gare de Calais Ville;15
+Gare de Coutances;Gare de Lison;54
+Gare de Granville;Gare de Lison;84
+Gare de Coutances;Gare de Granville;36
+Gare de Coutances;Gare de Pontorson-Mt-St-Michel;85
+Gare de Granville;Vire-Centre;75
+Gare de Argentan;Gare de Flers;53
+Bagnoles- Orne Egl.Mad.;Gare de Briouze;40
+Bagnoles- Orne Egl.Mad.;Gare de Argentan;60
+Gare de Alençon;Gare de Surdon;34
+Gare de L'Aigle;Gare de Surdon;58
+Gare de Dreux;Gare de L'Aigle;79
+Gare de Lisieux;Gare de Trouville-Deauville;50
+Gare de Dives-Cabourg;Gare de Trouville-Deauville;35
+Gare de Caen;Gare de Rouen-Rive-Droite;100
+Gare de Evreux;Normandie;50
+Gare de Villedieu (Gare);Le Mont St Michel;45
+Gare de Granville;Gare de Rennes;110
+Gare de Caen;Gare de Rennes;170
+Gare de Bréauté-Beuzeville;Gare de Fécamp;30
+Gare de Mantes-la-Jolie;Gare de Rouen-Rive-Droite;125
+Pont-Audemer-Gare-SNCF;Rouen-Gare-Routière;65
+Rouen-Gare-Routière;Routot-Place-de-mairie;50
+Bourg-Achard Champ de F;Pont-Audemer-Gare-SNCF;35
+Gare de Nantes;Gare de St-Gilles-Croix-de-Vie;104
+Gare de Cholet;Gare de Nantes;85
+Gare de Cholet;Gare de Clisson;60
+Gare de Albert;Gare de Amiens;46
+Gare de Beauvais-Gare-SNCF;Gare de Creil;70
+Gare de Hirson;Laon-Gare-Routière-Poma;80
+Gare de Compiègne;Gare de Ribécourt;28
+Gare de Compiègne;Gare de St Quentin;100
+Gare de Compiègne;Gare de Tergnier;94
+Gare de Chatellerault;Gare de Poitiers;44
+Gare de Mauzé;Gare de Niort;40
+Gare de Niort;Gare de Prissé-la-Charrière;49
+Gare de Bressuire;Gare de Saumur;87
+Gare de Bressuire;Gare de Thouars;37
+Gare de La Roche-sur-Yon;Gare de Saumur;177
+Gare de Chambéry-Chal.-les-Eaux;Lyon-Part-Dieu-Gare-Rou;90
+Gare de Annecy;Lyon-Part-Dieu-Gare-Rou;112
+Gare de Aix-les-Bains-le-Revard;Gare de Annecy;35
+Gare de Valence-TGV;Grenoble-Gare-Routière;60
+Gare de Chambéry-Chal.-les-Eaux;Grenoble-Gare-Routière;70
+Grenoble-Gare-Routière;Valence-Gare-Routière;100
+Grenoble-Gare-Routière;Lyon-Part-Dieu-Gare-Rou;119
+Gare de St-André-le-Gaz;Lyon-Perrache-Gare-Rout;110
+Lyon-Part-Dieu-Gare-Rou;Saint-Etienne-Chtx GR;71
+Gare de Lozanne;Gare de Lyon-Gorge-de-Loup;37
+Gare de Lozanne;Lyon-St-Paul-Quai-Bondy;48
+Lyon-Part-Dieu-Gare-Rou;Roanne-Gare-Routière;115
+Gare de Lozanne;Grandris-Centre;42
+Gare de Lamure-sur-Azergues;Gare de Lozanne;46
+Gare de Lozanne;Poule-Mairie;60
+Gare de Lozanne;Gare de Paray-le-Monial;120
+Bois-d'Oingt-Centre;Gare de Lozanne;23
+Gare de Die;Valence-Gare-Routière;75
+Gare de Valence-TGV;Gare de Veynes-Dévoluy;185
+Gare de Veynes-Dévoluy;Valence-Gare-Routière;165
+Gare de Luc-en-Diois;Valence-Gare-Routière;105
+Gare de Luc-en-Diois;Gare de Valence-TGV;125
+Gare de Evian-les-Bains;Grenoble-Gare-Routière;210
+Saint-Etienne-Chtx GR;Valence-Gare-Routière;110
+Gare de Modane;Grenoble-Gare-Routière;130
+Gare de Annecy;Gare de Chamonix-Mont-Blanc;120
+Annonay-Gare-Route;Grenoble-Gare-Routière;170
+Gare de St-Gervais-L-B-Le-Fayet;Grenoble-Gare-Routière;190
+Privas-Cours-du-Palais;Valence-Gare-Routière;50
+Gare de Annemasse;Grenoble-Gare-Routière;180
+Grenoble-Gare-Routière;Montélimar-G-Routière;127
+Gare de Moûtiers-Salins-Brides;Grenoble-Gare-Routière;105
+Gare de Chambéry-Chal.-les-Eaux;Gare de Cluses (Hte-Savoie);130
+Gare de Bonneville;Lyon-Part-Dieu-Gare-Rou;145
+Gare de Chambéry-Chal.-les-Eaux;Gare de St-Gervais-L-B-Le-Fayet;165
+Aubenas-Pl.-de-la-Paix;Grenoble-Gare-Routière;198
+Gare de Annemasse;Gare de Chambéry-Chal.-les-Eaux;110
+Gare de Chambéry-Chal.-les-Eaux;Gare de Chamonix-Mont-Blanc;200
+Gare de Annemasse;Gare de Evian-les-Bains;60
+Grenoble-Gare-Routière;Privas-Cours-du-Palais;130
+Bourg-en-Bresse Gare R;Gare de Chambéry-Chal.-les-Eaux;170
+Gare de Oyonnax;Lyon-Part-Dieu-Gare-Rou;90
+Gare de Chambéry-Chal.-les-Eaux;Gare de Evian-les-Bains;180
+Lyon-Part-Dieu-Gare-Rou;Morez Lycée;195
+Gare de Chamonix-Mont-Blanc;Lyon-Part-Dieu-Gare-Rou;240
+Gare de Chambéry-Chal.-les-Eaux;Gare de Thonon-les-Bains;165
+Gare de Chamonix-Mont-Blanc;Grenoble-Gare-Routière;220
+Chamberry-Jacob;Gare de St-Gervais-L-B-Le-Fayet;165
+Gare de Bonneville;Gare de Chambéry-Chal.-les-Eaux;130
+Gare de Bourg-St-Maurice;Grenoble-Gare-Routière;160
+Aubenas-Pl.-de-la-Paix;St-Martin-d'Hères;185
+Montélimar-G-Routière;St-Martin-d'Hères;120
+Privas-Cours-du-Palais;St-Martin-d'Hères;145
+Annonay-Gare-Route;St-Martin-d'Hères;160
+Gare de Saint-Claude;Lyon-Part-Dieu-Gare-Rou;135
+Gare de Bourgoin-Jallieu;Lyon-Part-Dieu-Gare-Rou;51
+Gare de Bourg-St-Maurice;Gare de Chambéry-Chal.-les-Eaux;145
+Gare de Chambéry-Chal.-les-Eaux;Gare de Pont-de-Beauvoisin;48
+Gare de Thonon-les-Bains;Grenoble-Gare-Routière;200
+Gare de Mâcon-Ville;Lyon-Part-Dieu-Gare-Rou;75
+Gare de Diemeringen;Sarralbe Centre;36
+Gare de Diemeringen;Sarre-Union;20
+Gare de Dinan;Gare de St-Brieuc;60
+Gare de Dinan;Gare de Lamballe;73
+Gare de Franois;Gare de St-Vit;14
+Gare de Auxonne;Gare de Villers-les-Pots;10
+Gare de Dijon-Ville;Gare de Neuilly-lès-Dijon;25
+Gare de Bellegarde-s-V. Gare;Gare de St-Gervais-L-B-Le-Fayet;135
+Gare de Bellegarde-s-V. Gare;Gare de Evian-les-Bains;115
+Gare de Annemasse;Gare de St-Gervais-L-B-Le-Fayet;111
+Gare de Bellegarde-s-V. Gare;Gare de Chamonix-Mont-Blanc;185
+Gare de Annemasse;Gare de Bellegarde-s-V. Gare;71
+Gare de Evian-les-Bains;Gare de Thonon-les-Bains;20
+Gare de Cluses (Hte-Savoie);Gare de St-Gervais-L-B-Le-Fayet;40
+Gare de Annemasse;Gare de La Roche-sur-Foron;30
+Gare de Annecy;Gare de Annemasse;60
+Gare de Ambérieu-en-Bugey;Gare de St-Rambert-en-Bugey;15
+Gare de Ambérieu-en-Bugey;Gare de Virieu-le-Grand-Belley;52
+Gare de Boën;Noirétable;26
+Gare de Boën;Saint-Etienne-Chtx GR;92
+Gare de Montbrison;Noirétable;44
+Noirétable;Saint-Etienne-Chtx GR;108
+Gare de Boën;Gare de Montbrison;18
+Gare de Montbrison;Saint-Etienne-Chtx GR;60
+Bourg-en-Bresse Gare R;Lyon-Part-Dieu-Gare-Rou;81
+Bourg-en-Bresse Gare R;Gare de Mâcon-Loché-TGV;42
+Bourg-en-Bresse Gare R;Gare de Mâcon-Ville;62
+Gare de Ambérieu-en-Bugey;Lyon-Part-Dieu-Gare-Rou;63
+Gare de Chambéry-Chal.-les-Eaux;Gare de St-André-le-Gaz;71
+Gare de Chambéry-Chal.-les-Eaux;Gare de La Tour-du-Pin;86
+Gare de Gap;Grenoble-Gare-Routière;127
+Gare de Clelles-Mens;Gare de Gap;80
+Clelles-Mairie;Grenoble-Gare-Routière;81
+Gare de Vif;Grenoble-Gare-Routière;51
+Gare de Clelles-Mens;Grenoble-Gare-Routière;73
+Gare de Sain-Bel;Lyon-St-Paul-la-Feuilée;60
+Gare de Sain-Bel;Lyon-St-Paul-Quai-Bondy;60
+Lyon-Perrache-Gare-Rout;Vienne-Gare-Routière;53
+Bourg-en-Bresse Gare R;Gare de Ambérieu-en-Bugey;40
+Argentine;Gare de St-Pierre-d'Albigny;28
+Gare de St-Priest;St-Pierre-de-Chandieu-R;21
+Gare de Villefranche-sur-Saône;Lyon-Perrache-Gare-Rout;60
+Gare de La Tour-du-Pin;Gare de Rives;55
+Gare de Moûtiers-Salins-Brides;Gare de St-Pierre-d'Albigny;50
+Gare de Albertville;Gare de Moûtiers-Salins-Brides;45
+Gare de Aix-les-Bains-le-Revard;Gare de Chambéry-Chal.-les-Eaux;30
+Gare de Bourg-St-Maurice;Gare de Moûtiers-Salins-Brides;37
+Gare de Chambéry-Chal.-les-Eaux;Gare de Modane;113
+Gare de Chambéry-Chal.-les-Eaux;Gare de Epierre-St-Léger;82
+Gare de Aix-les-Bains-le-Revard;Gare de Modane;157
+Gare de Chambéry-Chal.-les-Eaux;Gare de Culoz;65
+Gare de Feurs;Saint-Etienne-Chtx GR;60
+Gare de Albens;Gare de Annecy;45
+Gare de Annecy;Gare de Rumilly;25
+Gare de Sérézin;Ternay-Barbières;13
+Communay-Stade;Gare de Sérézin;15
+Gare de Epierre-St-Léger;Gare de Montmélian;52
+Gare de Epierre-St-Léger;Gare de St-Pierre-d'Albigny;36
+Gare de St-Jean-de-Maurienne-A.;Gare de St-Pierre-d'Albigny;70
+Aiton-Salle-Polyvalente;Gare de St-Jean-de-Maurienne-A.;58
+Gare de Chinon;Gare de Tours;82
+Chinon-Lycée-Rabelais;Gare de Tours;75
+Gare de Tours;St Christophe / Nais C.;60
+Gare de Château-du-Loir;Gare de Tours;75
+Droué (Centre);Gare de Courtalain-St-Pellerin;10
+Courtalain-Centre;Droué (Centre);10
+Chartres-Gare-Routière;Gare de Brou;55
+Droué (Centre);Gare de Brou;36
+Gare de Brou;Gare de Chartres;50
+Droué (Centre);Gare de Chartres;92
+Gare de Vendôme;Mondoubleau-Rue-Leroy;60
+Aubigny-sur-Nere-Mail;Gare de Gien;44
+Gare de Gien;Montargis-OT;49
+Gare de Cosne-sur-Loire;Sancerre-Porte-Cesar;27
+Bourges-Gare-Routière;nan;65
+Bourges-Gare-Routière;Gare de St-Amand-Montrond-Orval;76
+Gare de Bourges;Gare de St-Amand-Montrond-Orval;65
+Châteauroux Gare Rout.;Gare de Bourges;106
+Gare de Bourges;Issoudun-Place-de-la-G.;71
+Châteauroux Gare Rout.;Issoudun-Jardin;40
+Gare de Vierzon;Issoudun-Place-de-la-G.;50
+Gare de Issoudun;Gare de Vierzon;56
+Châteauroux Gare Rout.;Poitiers-Gare-Routière;135
+Le-Blanc-Pl-du-Bateau;Poitiers-Gare-Routière;68
+Gare de Nouan-le-Fuzelier;Romorantin-BA-G.R.;55
+Chaumont-sur-Tharonne;Romorantin-BA-G.R.;31
+Gare de Lamotte-Beuvron;Romorantin-BA-G.R.;40
+Gare de Lamotte-Beuvron;Romorantin-Lycée-de-F;35
+Châteauroux-Ly-B-Pascal;Gare de Eguzon;60
+Châteauroux Gare Rout.;Gare de Argenton-sur-Creuse;45
+Châteauroux-Ly-B-Pascal;Gare de Argenton-sur-Creuse;60
+Châteauroux-Lycée-Agric;Gare de Argenton-sur-Creuse;55
+Châteauroux Gare Rout.;Gare de Eguzon;80
+Châteauroux Gare Rout.;Issoudun-Place-de-la-G.;36
+Gare de Thesee;Romorantin-BA-G.R.;60
+Romorantin-BA-G.R.;St-Aignan-Lep;55
+Romorantin-BA-G.R.;St-Aignan-Pl-Wilson;53
+Gare de Loches;Gare de Tours;58
+Buzançais;Châteauroux Gare Rout.;30
+Châteauroux Gare Rout.;Gare de Tours;150
+Chatillon-Mail;Châteauroux-Charmilles;100
+Clion-sur-Indre;Gare de Loches;40
+Chatillon-Mail;Châteauroux Gare Rout.;90
+Châteauroux Gare Rout.;Gare de Loches;101
+Gare de Cormery;Gare de La Douzillère;47
+Gare de Loches;Gare de Montbazon;65
+Chambourg-Chopin;Gare de Cormery;25
+Loches-Lycee-St-Denis;Truyes-St-Blaise;40
+Gare de Cormery;Gare de Loches;29
+Gare de Loches;TOURS LYCEE GRANDMONT;55
+Gare de Esvres;Gare de Loches;45
+Gare de Tours;Reignac-Bourg-Du-Fau;74
+Gare de Loches;Truyes-Pl-Du-Souvenir;40
+Gare de La Douzillère;Gare de Veigné;15
+Loches-LEP;Truyes-Pl-Du-Souvenir;25
+Gare de Tours;Loches-LEP;80
+Gare de Cormery;Gare de Tours;43
+Buzançais;Châteauroux-Ly-B-Pascal;59
+Gare de Esvres;Gare de La Douzillère;20
+Chatillon-Mail;Châteauroux-L-Giraudoux;93
+Chatillon-Mail;Gare de Tours;95
+Gare de Vierzon;Romorantin-BA-G.R.;43
+Romorantin-BA-G.R.;Vierzon-Médiathèque;48
+Gare de Blois-Chambord;Gare de Limeray;35
+Gare de Châteaudun;Gare de Dourdan;90
+Châteaudun-LEP-Paulsen;Gare de Dourdan;102
+Chartres-Gare-Routière;Gare de Tours;159
+Chartres-Gare-Routière;Gare de Vendôme;84
+Gare de Châteaudun;Gare de Vendôme;55
+Gare de Tours;Gare de Vendôme;65
+Chartres-Gare-Routière;Gare de Châteaudun;56
+Gare de Châteaudun;Gare de Tours;111
+Gare de Château-Renault;Gare de Vendôme-Villiers-s-Loir;47
+Gare de Epinal;Gare de Neufchâteau;109
+Gare de Neufchâteau;Gare de Vittel;45
+Gare de Lunéville;Rambervillers (;1154
+Gare de Lunéville;Moyen;41
+Luneville-LP;Rambervillers (;1172
+Lunéville (Cité Scolai);Rambervillers;60
+Gare de Lunéville;Rambervillers;52
+Lunéville (Cité Scolai);Rambervillers (;1171
+Gare de Epinal;Mirecourt;44
+Bruyères (Vosges);Gare de Lunéville;80
+Gare de Remiremont;Gérardmer La Mauselaine;45
+Gare de Contrexéville;Gare de Epinal;60
+Gare de Longwy;Gare de Metz-Ville;55
+Bussang (Gare SNCF);Gare de Remiremont;54
+Bresse-Claudel (la);Gare de Remiremont;57
+Gare de Remiremont;La-Bresse (Pl Champtel);63
+Gare de Remiremont;La Bresse Le Lispach;83
+Gare de Audun-le-Roman;Gare de Thionville;40
+Bitche;Gare de Sarreguemines;48
+Bitche-Quartier-Driant;Gare de Sarreguemines;56
+Gare de Sarrebourg;St-Louis-;5727
+Gare de Lutzelbourg;Gare de Sarrebourg;50
+Gare de Conflans-Jarny;Gare de Metz-Ville;40
+Gare de Metz-Ville;Gare de Verdun;90
+Gare de Conflans-Jarny;Gare de Verdun;45
+Gare de Marle-sur-Serre;Lugny;5
+BarentonÂ Cel;Gare de Verneuil-sur-Serre;5
+Barenton-sur-Serre;Gare de Verneuil-sur-Serre;5
+Gare de Strasbourg;Gare de WOERTH RHEIN;66
+Gare de Neustadt (Weinstr) Hbf;Gare de Wissembourg;62
+Gare de WINDEN PFALZ;Gare de Wissembourg;16
+Gare de Landau-Pfalz-Hbf;Gare de Wissembourg;28
+Gare de Lauterbourg;Gare de WOERTH RHEIN;15
+Gare de Fougères;Gare de Rennes;70
+Gare de Nice-Ville;Gare de Ventimiglia-Stazione;53
+Gare de Grasse;Gare de Nice-Ville;71
+Gare de Grasse;Gare de Ventimiglia-Stazione;127
+Gare de Grasse;Gare de Menton;113
+Gare de Menton;Gare de Nice-Ville;39
+Gare de Cannes-la-Bocca;Gare de Ventimiglia-Stazione;107
+Gare de Cannes-la-Bocca;Gare de Menton;90
+Gare de Les Arcs-Draguignan;Gare de Ventimiglia-Stazione;138
+Gare de Les Arcs-Draguignan;Gare de Menton;118
+Gare de Cannes-la-Bocca;Gare de Monaco-Monte-Carlo;73
+Gare de Grasse;Gare de Monaco-Monte-Carlo;99
+Gare de Monaco-Monte-Carlo;Gare de Nice-Ville;24
+Gare de Cannes;Gare de Ventimiglia-Stazione;101
+Gare de Cannes;Gare de Monaco-Monte-Carlo;70
+Gare de Menton;Gare de Ventimiglia-Stazione;16
+Gare de Monaco-Monte-Carlo;Gare de Ventimiglia-Stazione;30
+Gare de Saarbrücken /Sarrebruck;Gare de Strasbourg;102
+Gare de Mommenheim;Gare de Strasbourg;15
+Gare de Metz-Ville;Gare de Trier-Hbf (Trèves);96
+Gare de Longwy;Gare de Luxembourg;35
+Gare de Luxembourg;Gare de Rodange;27
+Gare de Perpignan;Gare de Port-Bou;59
+Gare de Avignon-Centre;Gare de Port-Bou;259
+Gare de Narbonne;Gare de Port-Bou;102
+Gare de Nîmes;Gare de Port-Bou;209
+Gare de Port-Bou;Gare de Toulouse-Matabiau;220
+Gare de Montpellier-Saint-Roch;Gare de Port-Bou;171
+Gare de Saarbrücken /Sarrebruck;Gare de Sarreguemines;29
+Gare de Offenburg;Gare de Strasbourg;32
+Gare de Kehl;Gare de Offenburg;22
+Gare de Mulhouse;Gare de Mullheim-Baden-Bf;23
+Gare de Freiburg-Breisgau;Gare de Mulhouse;45
+Gare de Luxembourg;Gare de Nancy-Ville;92
+Gare de Luxembourg;Gare de Thionville;25
+Gare de Nancy-Ville;Gare de Thionville;65
+Gare de Bettembourg;Gare de Nancy-Ville;79
+Gare de Luxembourg;Gare de Metz-Ville;49
+Gare de Bettembourg;Gare de Metz-Ville;36
+Gare de Metz-Ville;Gare de Thionville;27
+Gare de Forbach;Gare de Saarbrücken /Sarrebruck;10
+Gare de Metz-Ville;Gare de Saarbrücken /Sarrebruck;60
+Gare de Basel-SBB;Gare de Strasbourg;89
+Gare de Basel-SBB;Gare de Sélestat;69
+Gare de Genève;Gare de Lyon-Part-Dieu;117
+Gare de Bellegarde-s-V. Gare;Gare de Genève;28
+Gare de Lyon-Part-Dieu;Gare de St-Gervais-L-B-Le-Fayet;228
+Gare de Genève;Gare de Grenoble;144
+Gare de Genève;Gare de Valence-Ville;195
+Gare de St-Pierre-des-Corps;Gare de Tours;5
+Gare de Mommenheim;Gare de Sarreguemines;113
+Gare de Mommenheim;Gare de Saarbrücken /Sarrebruck;154
+Gare de Ingwiller;Gare de Mommenheim;35
+Gare de Ingwiller;Gare de Strasbourg;66
+Gare de Roeschwoog;Gare de Strasbourg;84
+Gare de Lauterbourg;Gare de Strasbourg;114
+Gare de Colmar;Gare de Munster;36
+Gare de Kehl;Gare de Strasbourg;25
+Gare de Saales;Gare de St-Dié-des-Vosges;28
+Gare de Molsheim;Gare de St-Dié-des-Vosges;105
+Gare de Rothau;Gare de St-Dié-des-Vosges;50
+Gare de Molsheim;Gare de Rothau;55
+Gare de Rothau;Gare de Saales;22
+Gare de Kruth;Gare de Thann-Saint-Jacques;28
+Gare de Molsheim;Gare de Saales;76
+Gare de Thann-Saint-Jacques;Gare de Wesserling;19
+Gare de Molsheim;Mutzig-Passage-A-Niveau;8
+Gare de Erstein;Gare de Strasbourg;26
+Gare de Colmar;Gare de Mulhouse;50
+Gare de Bayonne;Gare de Pau;145
+Gare de Bayonne;Gare de Puyoô;70
+Gare de Mont-de-Marsan;Gare de Morcenx;45
+Gare de Bordeaux-St-Jean;Gare de Mont-de-Marsan;185
+Gare de Lesparre;Gare de Pauillac;25
+Gare de Bordeaux-St-Jean;Gare de Lesparre;157
+Gare de Bordeaux-St-Jean;Gare de Le-Verdon;200
+Gare de Dax;Gare de Lourdes;170
+Gare de Dax;Gare de Pau;110
+Gare de Dax;Gare de Tarbes;205
+Gare de Arcachon;Gare de Biganos-Facture;47
+Gare de Brive-la-Gaillarde;Gare de Périgueux;105
+Gare de Condat-le-Lardin;Gare de Tulle;85
+Gare de Brive-la-Gaillarde;Gare de Condat-le-Lardin;44
+Gare de Bedous;Gare de Pau;86
+Gare de Oloron-Ste-Marie;Gare de Pau;52
+Gare de Bidos;Gare de Pau;58
+Gare de Bedous;Gare de Oloron-Ste-Marie;35
+Gare de Bayonne;Gare de St-Jean-Pied-de-Port;81
+Gare de Bayonne;Gare de Cambo-les-Bains;38
+Gare de Dax;Gare de Hendaye;140
+Gare de Bayonne;Gare de Morcenx;105
+Gare de Bordeaux-St-Jean;Gare de Dax;170
+Gare de Bergerac;Gare de Libourne;104
+Gare de Libourne;Gare de St-Emilion;19
+Gare de Bergerac;Gare de Sarlat;94
+Gare de Bordeaux-St-Jean;Gare de Langon;87
+Gare de Agen;Gare de Bordeaux-St-Jean;174
+Gare de Agen;Gare de Périgueux;212
+Gare de Agen;Gare de Monsempron-Libos;65
+Gare de Commentry;Gare de Montluçon-Ville;25
+Gare de Clermont-Ferrand;Gare de Moulins-sur-Allier;165
+Gare de Clermont-Ferrand;Gare de Riom-Châtel-Guyon;25
+Gare de Clermont-Ferrand;Gare de Vichy;85
+Gare de Gannat;Gare de Vichy;32
+Gare de Arvant;Gare de Brioude;12
+Gare de Alès;Gare de Clermont-Ferrand;344
+Gare de Alès;Gare de Brioude;254
+Gare de Arvant;Gare de Langeac;46
+Gare de Arvant;Gare de Nîmes;334
+Gare de Aurillac;Gare de Neussargues;74
+Gare de Aurillac;Gare de Figeac;80
+Gare de Aurillac;Gare de Brive-la-Gaillarde;162
+Gare de Firminy;Gare de Le Puy-en-Velay;129
+Gare de Le Puy-en-Velay;Gare de Vorey;41
+Gare de Dijon-Ville;Gare de Laroche-Migennes;216
+Gare de Laroche-Migennes;Gare de Tonnerre;69
+Gare de Frasne;Gare de Travers;56
+Gare de Laroche-Migennes;Gare de Montereau;148
+Gare de Clamecy;Gare de Laroche-Migennes;113
+Gare de Auxerre-St-Gervais;Gare de Laroche-Migennes;28
+Gare de Dijon-Ville;Gare de Is-sur-Tille;65
+Gare de Dijon-Porte-Neuve;Gare de Is-sur-Tille;32
+Gare de Dijon-Ville;Gare de Seurre;98
+Gare de Besançon-Viotte;Gare de Dijon-Ville;164
+Gare de Dijon-Ville;Gare de Les Laumes-Alésia;107
+Gare de Avallon;Gare de Laroche-Migennes;110
+Gare de Chagny;Gare de Montchanin;57
+Gare de Decize;Gare de Luzy(Nièvre);54
+Gare de Cosne-sur-Loire;Gare de Nevers-Le-Banlay;118
+Gare de Nevers;Gare de Nevers-Le-Banlay;13
+Gare de Lyon-Perrache;Gare de Paray-le-Monial;150
+Gare de Besançon-Viotte;Gare de Dole-Ville;78
+Gare de Belfort-Ville;Gare de Vesoul;115
+Gare de Besançon-Viotte;Gare de Le Valdahon;62
+Gare de Luzy(Nièvre);Gare de Montchanin;68
+Gare de Le Creusot;Gare de Luzy(Nièvre);54
+Gare de Bourg-en-Bresse;Gare de Lons-le-Saunier;89
+Gare de Belfort-Ville;Gare de Meroux;24
+Gare de Belfort-Ville;Gare de Delle;75
+Gare de Besançon-Franche-Comté;Gare de Besançon-Viotte;23
+Gare de Rennes;Gare de Vitré;60
+Gare de Rennes;Gare de St-Brieuc;115
+Gare de Montauban-de-Bretagne;Gare de Rennes;50
+Gare de Messac-Guipry;Gare de Rennes;75
+Gare de Nantes;Gare de Rennes;100
+Gare de Rennes;Gare de Vannes;150
+Gare de Messac-Guipry;Gare de Vannes;115
+Gare de Redon;Gare de Rennes;105
+Gare de Beslé;Gare de Redon;35
+Gare de Lorient;Gare de Quimper;95
+Gare de Lorient;Gare de Rosporden;65
+Gare de Lorient;Gare de Vannes;80
+Gare de Lorient;Gare de Redon;140
+Gare de Brest;Gare de Morlaix;85
+Gare de Brest;Gare de Quimper;130
+Gare de Landerneau;Gare de Quimper;95
+Gare de Brest;Gare de La Forest;35
+Gare de Brest;Gare de Landerneau;45
+Gare de Lannion;Gare de St-Brieuc;65
+Gare de Guingamp;Gare de Lannion;55
+Gare de Carhaix;Gare de Guingamp;75
+Gare de Aubrais-(les);Gare de Cosne-sur-Loire;135
+Gare de Port-de-Piles;Gare de Tours;85
+Gare de Châteauroux;Gare de Vierzon;90
+Gare de Argenton-sur-Creuse;Gare de Vierzon;130
+Gare de Aubrais-(les);Gare de Toury;45
+Gare de Bourges;Gare de Vierzon;70
+Gare de Bourges;Gare de Montluçon-Ville;160
+Gare de Port-Boulet;Gare de Tours;77
+Gare de Aubrais-(les);Gare de Tours;160
+Gare de Aubrais-(les);Gare de Château-Gaillard;45
+Gare de Romorantin-Blanc-Argent;Gare de Valençay;45
+Gare de Chartres;Gare de Nogent-le-Rotrou;91
+Gare de Chartres;Gare de La Verrière;108
+Gare de Chartres;Gare de Versailles-Chantiers;110
+Gare de Chartres;Gare de Courtalain-St-Pellerin;90
+Gare de Charleville-Mézières;Gare de Givet;107
+Gare de Charleville-Mézières;Gare de Nouzonville;20
+Gare de Charleville-Mézières;Gare de Reims;80
+Gare de Reims;Gare de Sedan;163
+Gare de Charleville-Mézières;Gare de Sedan;43
+Gare de Rethel;Gare de Sedan;113
+Gare de Laon;Gare de Reims;110
+Gare de Chaumont;Gare de Châlons-en-Champagne;164
+Gare de Châlons-en-Champagne;Gare de St-Dizier;75
+Gare de Châlons-en-Champagne;Gare de Château-Thierry;105
+Gare de Dormans;Gare de Epernay;30
+Gare de Bar-le-Duc;Gare de Epernay;155
+Gare de Bar-le-Duc;Gare de St-Dizier;35
+Gare de Bar-le-Duc;Gare de Châlons-en-Champagne;110
+Gare de Culmont-Chalindrey;Gare de Troyes;161
+Gare de Dijon-Ville;Gare de Troyes;145
+Gare de Cerbère;Gare de Perpignan;107
+Gare de Le Grau-du-Roi;Gare de Vauvert;44
+Gare de Le Grau-du-Roi;Gare de Nîmes;93
+Gare de Carcassonne;Gare de Castelnaudary;59
+Gare de Narbonne;Gare de Toulouse-Matabiau;218
+Gare de Castelnaudary;Gare de Narbonne;134
+Gare de Alès;Gare de Génolhac;57
+Gare de Alès;Gare de La Bastide-St-Laurent;111
+Gare de Alès;Gare de Mende;187
+Gare de Alès;Gare de Langogne;136
+Gare de Marvejols;Gare de Mende;48
+Gare de Alès;Gare de Arvant;263
+Gare de Langogne;Gare de Nîmes;180
+Gare de Mende;Gare de Nîmes;247
+Gare de Marvejols;Gare de Nîmes;297
+Gare de Castelnaudary;Gare de Toulouse-Matabiau;83
+Gare de Perpignan;Gare de Villefranche-Vernet-l.B;64
+Gare de Guéret;Gare de Limoges-Bénédictins;111
+Gare de Le Dorat;Gare de Limoges-Bénédictins;70
+Gare de Limoges-Bénédictins;Gare de Poitiers;205
+Gare de Limoges-Bénédictins;Gare de Saillat-Chassenon;91
+Gare de Limoges-Bénédictins;Gare de Périgueux;147
+Gare de St-Yrieix-la-Perche;Pompadour;47
+Gare de Nexon;Pompadour;83
+Gare de Limoges-Bénédictins;Gare de Nexon;33
+Gare de Objat;Pompadour;31
+Gare de Brive-la-Gaillarde;Gare de Objat;46
+Gare de Brive-la-Gaillarde;Gare de Limoges-Bénédictins;174
+Gare de Limoges-Bénédictins;Gare de Ussel;192
+Gare de Brive-la-Gaillarde;Gare de Tulle;44
+Gare de Lunéville;Gare de Nancy-Ville;71
+Gare de Epinal;Gare de Nancy-Ville;79
+Gare de Longwy;Gare de Rodange;16
+Gare de Bening;Gare de Saarbrücken /Sarrebruck;53
+Gare de Longwy;Gare de Nancy-Ville;172
+Gare de Conflans-Jarny;Gare de Longwy;86
+Gare de Nancy-Ville;Gare de Pont-St-Vincent;60
+Gare de Bar-le-Duc;Gare de Metz-Ville;138
+Gare de Bar-le-Duc;Gare de Nancy-Ville;88
+Gare de Nancy-Ville;Gare de Remiremont;160
+Gare de Châlons-en-Champagne;Gare de Metz-Ville;228
+Gare de Epinal;Gare de Remiremont;37
+Gare de Baroncourt;Gare de Nancy-Ville;109
+Gare de Conflans-Jarny;Gare de Hagondange;64
+Gare de Hagondange;Gare de Verdun;113
+Gare de Nancy-Ville;Gare de St-Dié-des-Vosges;121
+Gare de Nancy-Ville;Gare de Revigny;144
+Gare de Liverdun;Gare de Nancy-Ville;25
+Gare de Bar-le-Duc;Gare de Toul;77
+Gare de Lunéville;Gare de St-Dié-des-Vosges;41
+Gare de Longwy;Gare de Sedan;108
+Gare de Charleville-Mézières;Gare de Longwy;151
+Gare de Diemeringen;Gare de Saarbrücken /Sarrebruck;75
+Gare de Nancy-Ville;Gare de Verdun;108
+Gare de Dijon-Ville;Gare de Neufchâteau;120
+Gare de Dijon-Ville;Gare de Nancy-Ville;190
+Gare de Bettembourg;Gare de Luxembourg;20
+Gare de Millau;Gare de Rodez;85
+Gare de Millau;Laissac-Foirail;60
+Gare de Mazamet;Gare de St-Sulpice (Tarn);103
+Gare de Castres;Gare de St-Sulpice (Tarn);60
+Gare de Capdenac;Gare de Figeac;20
+Gare de Figeac;Gare de Tessonnières;160
+Gare de Aurillac;Gare de Toulouse-Matabiau;244
+Gare de Auch;Gare de L'Isle-Jourdain (Gers);51
+Gare de Auch;Gare de Toulouse-Matabiau;122
+Gare de Auch;Gare de Colomiers;94
+Gare de L'Isle-Jourdain (Gers);Gare de Toulouse-Matabiau;72
+Gare de Colomiers;Gare de L'Isle-Jourdain (Gers);48
+Gare de Brive-la-Gaillarde;Gare de Montauban-Ville-Bourbon;198
+Gare de Cahors;Gare de Montauban-Ville-Bourbon;78
+Gare de Boussens;Gare de Pau;183
+Gare de Muret;Gare de Tarbes;182
+Gare de Boussens;Gare de Muret;93
+Gare de Boussens;Gare de Montréjeau-Gourdan-Pol.;55
+Gare de Montréjeau-Gourdan-Pol.;Gare de Muret;138
+Gare de Pau;Gare de Tarbes;93
+Gare de Lourdes;Gare de Tarbes;35
+Gare de Agen;Gare de Montauban-Ville-Bourbon;106
+Gare de Capdenac;Gare de Rodez;86
+Gare de Brive-la-Gaillarde;Gare de Capdenac;148
+Gare de Cambrai Ville;Gare de St Quentin;101
+Gare de Boulogne Ville;Gare de Calais Fréthun;30
+Gare de Calais Fréthun;Gare de Rang du Fl. Verton Ber.;96
+Gare de Lille Flandres;Gare de Mouscron / Moeskroen;49
+Gare de Douai;Gare de Lille Flandres;118
+Gare de Cambrai Ville;Gare de Valenciennes;95
+Gare de Aulnoye Aymeries;Gare de Jeumont;50
+Gare de Aulnoye Aymeries;Gare de Maubeuge;28
+Gare de Maubeuge;Gare de St Quentin;116
+Gare de Aulnoye Aymeries;Gare de Busigny;82
+Gare de Amiens;Gare de Arras;104
+Gare de Aulnoye Aymeries;Gare de Hirson;104
+Gare de Lille Flandres;Gare de Valenciennes;127
+Gare de Jeumont;Gare de Maubeuge;15
+Gare de Jeumont;Gare de Valenciennes;128
+Gare de Charleroi Sud;Gare de Maubeuge;60
+Gare de Calais Ville;Gare de Hazebrouck;109
+Gare de Arras;Gare de St Pol sur Ternoise;63
+Gare de Abbeville;Gare de Amiens;56
+Gare de Arras;Gare de Lens;42
+Gare de Arras;Gare de Lille Flandres;99
+Gare de Amiens;Gare de Lille Flandres;223
+Gare de Albert;Gare de Douai;119
+Gare de Amiens;Gare de Douai;164
+Gare de Albert;Gare de Arras;62
+Gare de Dunkerque;Gare de Lille Flandres;150
+Gare de Caen;Gare de Cherbourg;174
+Gare de Evreux;Normandie;84
+Gare de Le Mans;Gare de Tours;133
+Gare de Amiens;Gare de Rouen-Rive-Droite;186
+Gare de La Roche-sur-Yon;Gare de La Rochelle-Ville;120
+Gare de Angers-St-Laud;Gare de Sablé-sur-Sarthe;83
+Gare de Le Mans;Gare de Nogent-le-Rotrou;95
+Gare de Connerré-Beillé;Gare de Le Mans;50
+Gare de Laval;Gare de Le Mans;135
+Gare de Angers-St-Laud;Gare de Saumur;95
+Gare de Angers-St-Laud;Gare de Cholet;100
+Gare de Beauvais-Gare-SNCF;Gare de Persan-Beaumont;90
+Gare de Tergnier;Laon-Gare-Routière-Poma;67
+Gare de Amiens;Gare de Tergnier;159
+Gare de Amiens;Gare de St Quentin;93
+Gare de Creil;Gare de Laon;171
+Gare de Creil;Laon-Gare-Routière-Poma;200
+Gare de St Quentin;Gare de Tergnier;28
+Gare de Creil;Gare de St-Just-SNCF;56
+Gare de Amiens;Gare de St-Just-SNCF;87
+Gare de Amiens;Gare de Creil;95
+Gare de Abancourt;Le Tréport-Mers-Les-B;83
+Gare de Angoulême;Gare de Poitiers;158
+Gare de La Rochelle-Ville;Gare de Saintes;98
+Gare de La-Rochelle-Pt-Dauphine;Gare de Rochefort;64
+Gare de La Rochelle-Ville;Gare de St-Mariens-St-Yzan;184
+Gare de La Rochelle-Ville;Gare de La-Rochelle-Pt-Dauphine;9
+Gare de La-Rochelle-Pt-Dauphine;Gare de Saintes;133
+Gare de Niort;Gare de Saintes;95
+Gare de Niort;Gare de Royan;139
+Gare de Angoulême;Gare de Saintes;98
+Gare de Angoulême;Gare de Royan;145
+Gare de Breil-sur-Roya;Gare de Tende;40
+Gare de Cannes;Gare de Grasse;50
+Gare de Marseille-St-Charles;Gare de Toulon;125
+Gare de Les Arcs-Draguignan;Gare de St-Raphaël-Valescure;30
+Gare de Nice-Ville;Gare de Sospel;65
+Gare de Nice-Ville;Gare de Touet-de-l'Escarène;65
+Gare de Avignon-Centre;Gare de Miramas;100
+Aix-Gare-Routière;Gare de Marseille-St-Charles;55
+Aix-Gare-Routière;Gare de Gardanne;20
+Gare de Marseille-St-Charles;Gare de Sisteron;175
+Gare de Marseille-St-Charles;Gare de Martigues;70
+Roanne-Gare-Routière;Saint-Etienne-Chtx GR;119
+Lyon-Perrache-Gare-Rout;Roanne-Gare-Routière;142
+Gare de Clelles-Mens;Gare de Veynes-Dévoluy;56
+Gare de Gap;Gare de Veynes-Dévoluy;30
+Gare de La Roche-sur-Foron;Gare de St-Gervais-L-B-Le-Fayet;108
+Gare de Annecy;Gare de La Roche-sur-Foron;55
+Gare de Chedde;Gare de St-Gervais-L-B-Le-Fayet;10
+Gare de Sarrebourg;Gare de Strasbourg;59
+Gare de Krimmeri-Meinau;Gare de Strasbourg;7
+Gare de Metz-Ville;Gare de Strasbourg;86
+Gare de Strasbourg;Gare de Wissembourg;58
+Gare de Krimmeri-Meinau;Gare de Sarreguemines;92
+Gare de Colmar;Gare de Strasbourg;53
+Gare de Obernai;Gare de Strasbourg;31
+Gare de St-Dié-des-Vosges;Gare de Strasbourg;112
+Gare de Mulhouse;Gare de Strasbourg;61
+Gare de Erstein;Gare de Mulhouse;53
+Gare de Mulhouse;Gare de Sélestat;40
+Gare de Lutterbach Tram-train;Gare de Mulhouse-Gare-Centrale;19
+Gare de Mulhouse-Gare-Centrale;Gare de Thann-Saint-Jacques;46
+Gare de Mulhouse-Gare-Centrale;Gare de Thann;41
+Gare de Mulhouse;Gare de Thann-Saint-Jacques;32
+Gare de Mulhouse;Gare de Willer-sur-Thur;36
+Gare de Mulhouse;Gare de Thann;26
+Gare de Mulhouse;Gare de Wesserling;47
+Gare de Niederbronn;Gare de Strasbourg;53
+Gare de Conflans-Jarny;Gare de Nancy-Ville;51
+Gare de Longuyon;Gare de Thionville;39
+Gare de Longwy;Gare de Thionville;55
+Gare de Bar-le-Duc;Gare de Lunéville;98
+Gare de Lunéville;Gare de Revigny;108
+Gare de Epernay;Gare de Nancy-Ville;123
+Gare de Epernay;Gare de Lunéville;165
+Gare de Epernay;Gare de Metz-Ville;117
+Gare de Lunéville;Gare de Toul;68
+Gare de Epinal;Gare de Metz-Ville;120
+Gare de Metz-Ville;Gare de Remiremont;135
+Gare de Metz-Ville;Gare de Sarrebourg;62
+Gare de Metz-Ville;Gare de Sarreguemines;62
+Gare de Nancy-Ville;Gare de Strasbourg;89
+Gare de Lunéville;Gare de Strasbourg;67
+Gare de Lunéville;Gare de Metz-Ville;73
+Gare de Nancy-Ville;Gare de Toul;23
+Gare de Culmont-Chalindrey;Gare de Vittel;49
+Gare de Paris-Est;Gare de Vittel;230
+Gare de Charleville-Mézières;Gare de Longuyon;60
+Gare de Charleville-Mézières;Gare de Thionville;96
+Gare de Champagne-Ardenne;Gare de Charleville-Mézières;71
+Gare de Champagne-Ardenne;Gare de Reims;12
+Gare de Château-Thierry;Gare de Reims;66
+Gare de Bar-le-Duc;Gare de Paris-Est;150
+Gare de Château-Thierry;Gare de Paris-Est;53
+Gare de Bar-le-Duc;Gare de Château-Thierry;95
+Gare de Châlons-en-Champagne;Gare de Paris-Est;101
+Gare de Paris-Est;Gare de St-Dizier;140
+Gare de Epernay;Gare de Paris-Est;84
+Gare de Château-Thierry;Gare de St-Dizier;85
+Gare de Paris-Est;Gare de Strasbourg;359
+Gare de Paris-Est;Gare de Sarrebourg;270
+Gare de Nancy-Ville;Gare de Paris-Est;199
+Gare de Bar-le-Duc;Gare de Strasbourg;158
+Gare de Paris-Est;Gare de Troyes;90
+Gare de Culmont-Chalindrey;Gare de Paris-Est;188
+Gare de Chaumont;Gare de Culmont-Chalindrey;33
+Gare de Chaumont;Gare de Paris-Est;145
+Gare de Mulhouse;Gare de Paris-Est;294
+Gare de Mulhouse;Gare de Troyes;182
+Gare de Chaumont;Gare de Mulhouse;137
+Gare de Belfort-Ville;Gare de Paris-Est;247
+Gare de Belfort-Ville;Gare de Troyes;163
+Gare de Longueville (S.-et-M.);Gare de Mulhouse;234
+Gare de Belfort-Ville;Gare de Chaumont;105
+Gare de Dijon-Ville;Gare de Paris-Est;223
+Gare de Culmont-Chalindrey;Gare de Dijon-Ville;46
+Gare de Châlons-en-Champagne;Gare de Reims;44
+Gare de Reims;Gare de St-Dizier;93
+Gare de Culmont-Chalindrey;Gare de Reims;171
+Gare de Chaumont;Gare de Reims;130
+Gare de Culmont-Chalindrey;Gare de St-Dizier;89
+Gare de Dijon-Ville;Gare de Reims;216
+Gare de Dijon-Ville;Gare de St-Dizier;128
+Gare de Epernay;Gare de Reims;35
+Gare de Champagne-Ardenne;Gare de Sedan;105
+Gare de Aulnoye Aymeries;Gare de Valenciennes;29
+Gare de Maubeuge;Gare de Valenciennes;42
+Gare de Hirson;Gare de Valenciennes;90
+Gare de Busigny;Gare de Maubeuge;36
+Gare de Aulnoye Aymeries;Gare de Tergnier;71
+Gare de Aulnoye Aymeries;Gare de St Quentin;48
+Gare de Lille Flandres;Gare de Maubeuge;72
+Gare de Aulnoye Aymeries;Gare de Lille Flandres;60
+Gare de Jeumont;Gare de Lille Flandres;81
+Gare de Hirson;Gare de Lille Flandres;108
+Gare de Charleville-Mézières;Gare de Lille Flandres;146
+Gare de Béthune;Gare de Lille Flandres;39
+Gare de Calais Ville;Gare de Rang du Fl. Verton Ber.;68
+Gare de Calais Ville;Gare de Etaples Le Touquet;62
+Gare de Cambrai Ville;Gare de Douai;34
+Gare de Douai;Gare de Valenciennes;38
+Gare de Douai;Gare de Lens;31
+Gare de Lille Flandres;Gare de St Quentin;107
+Gare de Cambrai Ville;Gare de Lille Flandres;59
+Gare de Douai;Gare de St Quentin;93
+Gare de Lille Flandres;Gare de Tourcoing;14
+Gare de Boulogne Ville;Gare de Lille Europe;72
+Gare de Calais Ville;Gare de Lille Europe;49
+Gare de Arras;Gare de Calais Fréthun;67
+Gare de Lille Europe;Gare de Rang du Fl. Verton Ber.;94
+Gare de Calais Fréthun;Gare de Lille Europe;29
+Gare de Dunkerque;Gare de Lille Europe;31
+Gare de Amiens;Gare de Dunkerque;104
+Gare de Calais Ville;Gare de Dunkerque;50
+Gare de Dunkerque;Gare de Hazebrouck;36
+Gare de Lille Flandres;Gare de St Omer;50
+Gare de Calais Ville;Gare de Lille Flandres;75
+Gare de Arras;Gare de Hazebrouck;58
+Gare de Arras;Gare de Dunkerque;93
+Gare de Arras;Gare de Béthune;36
+Gare de Hazebrouck;Gare de Lens;42
+Gare de Béthune;Gare de Lens;17
+Gare de Arras;Gare de Calais Ville;123
+Gare de Hirson;Gare de Laon;51
+Gare de Beauvais-Gare-SNCF;Gare de Paris Gare du Nord;73
+Gare de Paris Gare du Nord;Gare de Persan-Beaumont;63
+Gare de Creil;Gare de Paris Gare du Nord;21
+Gare de Abancourt;Gare de Creil;103
+Gare de Abancourt;Gare de Beauvais-Gare-SNCF;48
+Gare de Compiègne;Gare de Paris Gare du Nord;56
+Gare de Compiègne;Gare de Creil;37
+Gare de Paris Gare du Nord;Gare de Tergnier;88
+Gare de Creil;Gare de St Quentin;104
+Gare de Abbeville;Gare de Albert;80
+Gare de Amiens;Gare de Compiègne;60
+Gare de Paris Gare du Nord;Gare de St-Just-SNCF;64
+Gare de Clermont-de-l'Oise;Gare de Paris Gare du Nord;50
+Gare de Amiens;Gare de Laon;84
+Gare de Laon;Gare de Tergnier;26
+Gare de Lille Flandres;Gare de Rouen-Rive-Droite;168
+Gare de Abancourt;Gare de Amiens;35
+Gare de Aulnoye Aymeries;Gare de Laon;111
+Gare de Laon;Gare de Paris Gare du Nord;90
+Gare de Crépy-en-Valois;Gare de Laon;69
+Gare de Paris-St-Lazare;Gare de Vernon-Giverny;60
+Gare de Oissel;Gare de Paris-St-Lazare;94
+Gare de Mantes-la-Jolie;Gare de Vernon-Giverny;17
+Gare de Le Havre;Gare de Montivilliers;15
+Gare de Le Havre;Gare de Rolleville;26
+Gare de Fécamp;Gare de Le Havre;46
+Gare de Le Havre;Gare de Rouen-Rive-Droite;61
+Gare de Elbeuf-St-Aubin;Gare de Yvetot;63
+Gare de Rouen-Rive-Droite;Gare de Yvetot;34
+Gare de Evreux;Normandie;69
+Gare de Paris-St-Lazare;Gare de Serquigny;105
+Gare de Bueil;Gare de Mantes-la-Jolie;15
+Gare de Dieppe;Gare de Rouen-Rive-Droite;63
+Gare de Evreux;Normandie;52
+Gare de Caen;Gare de Lisieux;33
+Gare de Caen;Gare de Coutances;75
+Gare de Caen;Gare de St-Lô;51
+Gare de Caen;Gare de Dol;167
+Gare de Dol;Gare de Granville;59
+Gare de Argentan;Gare de Granville;83
+Gare de Caen;Gare de Granville;103
+Gare de Alençon;Gare de Caen;71
+Gare de Argentan;Gare de Caen;40
+Gare de Rennes;Gare de Retiers;42
+Gare de Janzé;Gare de Rennes;36
+Gare de Dol;Gare de Rennes;33
+Gare de Montreuil-sur-Ille;Gare de Rennes;30
+Gare de Rennes;Gare de St-Malo;55
+Gare de Lannion;Gare de Plouaret-Trégor;16
+Gare de Callac;Gare de Carhaix;26
+Gare de Callac;Gare de Guingamp;41
+Gare de Guingamp;Gare de Paimpol;47
+Gare de La Brohinière;Gare de Rennes;32
+Gare de Brest;Gare de Lannion;91
+Gare de Brest;Gare de Rennes;139
+Gare de Quimper;Gare de Vannes;86
+Gare de Quimper;Gare de Rennes;141
+Gare de Château-du-Loir;Gare de Le Mans;50
+Gare de Alençon;Gare de Le Mans;53
+Gare de Alençon;Gare de Tours;145
+Gare de Alençon;Gare de Château-du-Loir;106
+Gare de Le Mans;Gare de Nantes;94
+Gare de Angers-St-Laud;Gare de Nantes;43
+Gare de Le Croisic;Gare de Le Mans;177
+Gare de Angers-St-Laud;Gare de Le Mans;66
+Gare de Le Mans;Gare de Sablé-sur-Sarthe;22
+Gare de Laval;Gare de Rennes;55
+Gare de Le Mans;Gare de Rennes;103
+Gare de Laval;Gare de Nantes;101
+Gare de Le Croisic;Gare de Rennes;222
+Gare de Nantes;Gare de St-Nazaire;51
+Gare de Le Croisic;Gare de Nantes;74
+Gare de Nantes;Gare de Redon;58
+Gare de Nantes;Gare de Quimper;174
+Gare de Brest;Gare de Nantes;203
+Gare de Nantes;Gare de Savenay;34
+Gare de Nantes;Gare de Saumur;86
+Gare de Cholet;Gare de Saumur;85
+Gare de La Roche-sur-Yon;Gare de Nantes;55
+Gare de Les Sables-d'Olonne;Gare de Nantes;87
+Gare de Chantonnay;Gare de La Roche-sur-Yon;31
+Gare de Les Sables-d'Olonne;Gare de Saumur;158
+Gare de Nantes;Gare de Ste-Pazanne;32
+Gare de Nantes;Gare de Pornic;60
+Gare de Ancenis;Gare de Nantes;28
+Gare de Nantes;Gare de Sucé-Sur-Erdre;27
+Gare de Nantes;Gare de Nort-sur-Erdre;40
+Gare de Châteaubriant-TT;Gare de Nantes;67
+Gare de Clisson;Gare de Nantes;29
+Gare de Nantes;Gare de Orléans;170
+Gare de Le Croisic;Gare de Orléans;258
+Gare de Le Croisic;Gare de Tours;190
+Gare de Nantes;Gare de Tours;93
+Gare de Angers-St-Laud;Gare de Tours;78
+Gare de Saumur;Gare de Tours;51
+Gare de Thouars;Gare de Tours;78
+Gare de Bressuire;Gare de Tours;103
+Gare de Angers-St-Laud;Gare de Thouars;68
+Gare de Blois-Chambord;Gare de Orléans;49
+Gare de Orléans;Gare de St-Pierre-des-Corps;58
+Gare de Reignac;Gare de Tours;45
+Gare de Paris-Austerlitz;Gare de Vendôme;139
+Gare de Châteaudun;Gare de Paris-Austerlitz;95
+Gare de Châteaudun;Gare de Paris-Gare-de-Lyon;97
+Gare de Paris-Gare-de-Lyon;Gare de Vendôme;132
+Gare de Paris-Bercy;Gare de Vendôme;149
+Gare de Châteaudun;Gare de Voves;21
+Gare de Tours;Gare de Voves;137
+Gare de Bléré-la-Croix;Gare de Tours;28
+Gare de St-Aignan-Noyers;Gare de Tours;57
+Gare de Tours;Gare de Vierzon;87
+Gare de Bourges;Gare de Tours;110
+Gare de Nevers;Gare de Tours;146
+Gare de Saumur;Gare de Thouars;30
+Gare de Montluçon-Ville;Gare de Vallon-en-Sully;31
+Gare de Commentry;Gare de Vallon-en-Sully;47
+Gare de Commentry;Gare de St-Amand-Montrond-Orval;98
+Gare de Bourges;Gare de Commentry;121
+Gare de Salbris;Gare de Valençay;87
+Gare de Bourges;Gare de Orléans;73
+Gare de Orléans;Gare de Vierzon;51
+Gare de Nevers;Gare de Orléans;132
+Gare de Nevers;Gare de Vierzon;69
+Gare de Argenton-sur-Creuse;Gare de Orléans;117
+Gare de Châteauroux;Gare de Orléans;95
+Gare de Limoges-Bénédictins;Gare de Orléans;203
+Gare de Limoges-Bénédictins;Gare de Vierzon;129
+Gare de Argenton-sur-Creuse;Gare de Limoges-Bénédictins;74
+Gare de Chartres;Gare de Voves;23
+Gare de Angers-St-Laud;Gare de Chartres;163
+Gare de Poitiers;Gare de Tours;74
+Gare de Niort;Gare de Poitiers;59
+Gare de La Rochelle-Ville;Gare de Poitiers;100
+Gare de La Rochelle-Ville;Gare de Niort;44
+Gare de La Roche-sur-Yon;Gare de Tours;199
+Gare de La Rochelle-Ville;Gare de Rochefort;30
+Gare de Bordeaux-St-Jean;Gare de Saintes;99
+Gare de Royan;Gare de Saintes;26
+Gare de Angoulême;Gare de La-Rochelle-Pt-Dauphine;138
+Gare de Angoulême;Gare de La Rochelle-Ville;126
+Gare de Bordeaux-St-Jean;Gare de La-Rochelle-Pt-Dauphine;164
+Gare de Bordeaux-St-Jean;Gare de La Rochelle-Ville;162
+Gare de Angoulême;Gare de Bordeaux-St-Jean;89
+Gare de Bordeaux-St-Jean;Gare de Libourne;35
+Gare de Angoulême;Gare de Coutras;55
+Gare de Bordeaux-St-Jean;Gare de Coutras;47
+Gare de Bordeaux-St-Jean;Gare de St-Mariens-St-Yzan;43
+Gare de Bordeaux-St-Jean;Gare de Brive-la-Gaillarde;143
+Gare de Bordeaux-St-Jean;Gare de Périgueux;82
+Gare de Bordeaux-St-Jean;Gare de Condat-le-Lardin;121
+Gare de Bordeaux-St-Jean;Gare de Tulle;193
+Gare de Condat-le-Lardin;Gare de Périgueux;34
+Gare de Mussidan;Gare de Périgueux;30
+Gare de Bordeaux-St-Jean;Gare de Limoges-Bénédictins;145
+Gare de Bergerac;Gare de Bordeaux-St-Jean;76
+Gare de Bordeaux-St-Jean;Gare de Sarlat;144
+Gare de Bordeaux-St-Jean;Gare de Le Buisson;110
+Gare de Le Buisson;Gare de Périgueux;53
+Gare de Agen;Gare de Limoges-Bénédictins;216
+Gare de Monsempron-Libos;Gare de Périgueux;104
+Gare de Bordeaux-St-Jean;Gare de Morcenx;60
+Gare de Bordeaux-St-Jean;Gare de Pauillac;59
+Gare de Lesparre;Gare de Pessac;72
+Gare de Bordeaux-St-Jean;Gare de Macau;41
+Gare de Macau;Gare de Pessac;34
+Gare de Arcachon;Gare de Bordeaux-St-Jean;52
+Gare de Biganos-Facture;Gare de Bordeaux-St-Jean;29
+Gare de Bordeaux-St-Jean;Gare de Hendaye;178
+Gare de Bayonne;Gare de Dax;44
+Gare de Bayonne;Gare de Hendaye;37
+Gare de Agen;Gare de Marmande;36
+Gare de Bordeaux-St-Jean;Gare de Marmande;67
+Gare de Agen;Gare de Langon;69
+Gare de Bayonne;Gare de Tarbes;145
+Gare de Bordeaux-St-Jean;Gare de Pau;132
+Gare de Bordeaux-St-Jean;Gare de Tarbes;188
+Gare de Bordeaux-St-Jean;Gare de Lourdes;174
+Gare de Le Dorat;Gare de Poitiers;60
+Gare de Limoges-Bénédictins;Gare de St-Junien;38
+Gare de Limoges-Bénédictins;Gare de St-Yrieix-la-Perche;39
+Gare de Eymoutiers-Vassiviere;Gare de Limoges-Bénédictins;45
+Gare de Limoges-Bénédictins;Gare de Montluçon-Ville;131
+Gare de Felletin-Gare;Gare de Guéret;52
+Gare de Bordeaux-St-Jean;Gare de Montluçon-Ville;259
+Gare de Bordeaux-St-Jean;Gare de Guéret;208
+Gare de Bordeaux-St-Jean;Gare de Ussel;262
+Gare de Périgueux;Gare de Ussel;169
+Gare de La Souterraine;Gare de Limoges-Bénédictins;47
+Gare de Châteauroux;Gare de Limoges-Bénédictins;86
+Gare de Rodez;Gare de Toulouse-Matabiau;137
+Gare de Carmaux;Gare de Toulouse-Matabiau;76
+Gare de Brive-la-Gaillarde;Gare de Rodez;145
+Gare de Colomiers;Gare de Toulouse-Matabiau;22
+Gare de L'Isle-Jourdain (Gers);Gare de Saint-Cyprien-Arènes;33
+Gare de Colomiers;Gare de Saint-Cyprien-Arènes;13
+Gare de Carcassonne;Gare de Toulouse-Matabiau;74
+Gare de Capdenac;Gare de Toulouse-Matabiau;137
+Gare de Tessonnières;Gare de Toulouse-Matabiau;53
+Gare de Aurillac;Gare de Clermont-Ferrand;152
+Gare de Arvant;Gare de Clermont-Ferrand;47
+Gare de Pamiers;Gare de Toulouse-Matabiau;57
+Gare de Latour-de-Carol-Enveitg;Gare de Toulouse-Matabiau;174
+Gare de Foix;Gare de Latour-de-Carol-Enveitg;105
+Gare de Brive-la-Gaillarde;Gare de Toulouse-Matabiau;147
+Gare de Cahors;Gare de Toulouse-Matabiau;74
+Gare de Montauban-Ville-Bourbon;Gare de Toulouse-Matabiau;43
+Gare de Brive-la-Gaillarde;Gare de Cahors;66
+Gare de Agen;Gare de Toulouse-Matabiau;81
+Gare de St-Sulpice (Tarn);Gare de Toulouse-Matabiau;24
+Gare de Muret;Gare de Toulouse-Matabiau;19
+Gare de Boussens;Gare de Toulouse-Matabiau;58
+Gare de Montréjeau-Gourdan-Pol.;Gare de Toulouse-Matabiau;86
+Gare de Tarbes;Gare de Toulouse-Matabiau;109
+Gare de Clermont-Ferrand;Gare de Durtol-Nohanent;13
+Gare de Clermont-Ferrand;Gare de St-Germain-des-Fossés;40
+Gare de Clermont-Ferrand;Gare de Nevers;106
+Gare de Clermont-Ferrand;Gare de Vic-le-Comte;21
+Gare de Brioude;Gare de Clermont-Ferrand;67
+Gare de Clermont-Ferrand;Gare de Issoire;40
+Gare de Clermont-Ferrand;Gare de Le Lioran;111
+Gare de Brive-la-Gaillarde;Gare de Neussargues;168
+Gare de Clermont-Ferrand;Gare de Nîmes;307
+Gare de Nevers;Gare de Vic-le-Comte;124
+Gare de Moulins-sur-Allier;Gare de Vic-le-Comte;92
+Gare de St-Germain-des-Fossés;Gare de Vic-le-Comte;66
+Gare de Issoire;Gare de Moulins-sur-Allier;113
+Gare de Issoire;Gare de Riom-Châtel-Guyon;57
+Gare de Riom-Châtel-Guyon;Gare de Vic-le-Comte;38
+Gare de Issoire;Gare de St-Germain-des-Fossés;88
+Gare de Gannat;Gare de Issoire;81
+Gare de Gannat;Gare de Vic-le-Comte;66
+Gare de Brioude;Gare de Gannat;100
+Gare de Brioude;Gare de Moulins-sur-Allier;149
+Gare de Clermont-Ferrand;Gare de Dijon-Ville;260
+Gare de Dijon-Ville;Gare de Moulins-sur-Allier;178
+Gare de Clermont-Ferrand;Gare de Lyon-Perrache;171
+Gare de Narbonne;Gare de Perpignan;46
+Gare de Lunel;Gare de Narbonne;100
+Gare de Montpellier-Saint-Roch;Gare de Narbonne;71
+Gare de Cerbère;Gare de Narbonne;87
+Gare de Montpellier-Saint-Roch;Gare de Perpignan;130
+Gare de Nîmes;Gare de Toulouse-Matabiau;210
+Gare de Montpellier-Saint-Roch;Gare de Toulouse-Matabiau;176
+Gare de Carcassonne;Gare de Narbonne;36
+Gare de Carcassonne;Gare de Nîmes;140
+Gare de Perpignan;Gare de Toulouse-Matabiau;154
+Gare de Cerbère;Gare de Toulouse-Matabiau;199
+Gare de Carcassonne;Gare de Perpignan;91
+Gare de Avignon-Centre;Gare de Sète;109
+Gare de Montpellier-Saint-Roch;Gare de Nîmes;43
+Gare de Avignon-Centre;Gare de Montpellier-Saint-Roch;76
+Gare de Avignon-Centre;Gare de Narbonne;144
+Gare de Nîmes;Gare de Sète;66
+Gare de Lunel;Gare de Sète;54
+Gare de Montpellier-Saint-Roch;Gare de Sète;23
+Gare de Lunel;Gare de Montpellier-Saint-Roch;20
+Gare de Avignon-Centre;Gare de Nîmes;37
+Gare de Nîmes;Gare de Perpignan;160
+Gare de Narbonne;Gare de Nîmes;98
+Gare de Cerbère;Gare de Nîmes;197
+Gare de Avignon-Centre;Gare de Perpignan;196
+Gare de Avignon-Centre;Gare de Cerbère;238
+Gare de Béziers;Gare de Marseille-St-Charles;171
+Gare de Marseille-St-Charles;Gare de Narbonne;188
+Gare de Marseille-St-Charles;Gare de Montpellier-Saint-Roch;119
+Gare de Cerbère;Gare de Montpellier-Saint-Roch;154
+Gare de Génolhac;Gare de Nîmes;77
+Gare de La Bastide-St-Laurent;Gare de Nîmes;114
+Gare de Nîmes;Gare de Vauvert;24
+Gare de Béziers;Gare de St-Chély-d'Apcher;244
+Gare de Béziers;Gare de Millau;117
+Gare de Millau;Gare de St-Chély-d'Apcher;111
+Gare de Montpellier-Saint-Roch;Gare de St-Chély-d'Apcher;297
+Gare de Marseille-St-Charles;Gare de Miramas;33
+Gare de Avignon-Centre;Gare de Orange;26
+Gare de Avignon-Centre;Gare de Avignon-TGV;5
+Gare de Avignon-Centre;Gare de Carpentras;28
+Gare de Avignon-TGV;Gare de Carpentras;41
+Gare de Avignon-TGV;Gare de Marseille-St-Charles;133
+Gare de Cavaillon;Gare de Marseille-St-Charles;70
+Gare de Gardanne;Gare de Marseille-St-Charles;36
+Gare de Aix-en-Provence;Gare de Manosque-Gréoux;45
+Gare de Manosque-Gréoux;Gare de Marseille-St-Charles;95
+Gare de Aubagne;Gare de Marseille-St-Charles;31
+Gare de Aubagne;Gare de Marseille-Blancarde;22
+Gare de Cannes;Gare de Menton;69
+Gare de Antibes;Gare de Grasse;41
+Gare de Cannes;Gare de Les Arcs-Draguignan;55
+Gare de Cannes;Gare de St-Raphaël-Valescure;38
+Gare de Hyères;Gare de Marseille-St-Charles;84
+Gare de Hyères;Gare de Toulon;21
+Gare de Les Arcs-Draguignan;Gare de Toulon;60
+Gare de Carnoules;Gare de Toulon;31
+Gare de Marseille-St-Charles;Gare de Menton;205
+Gare de Ambérieu-en-Bugey;Gare de Mâcon-Ville;54
+Gare de Ambérieu-en-Bugey;Gare de Bourg-en-Bresse;23
+Gare de Bourg-en-Bresse;Gare de Mâcon-Ville;29
+Gare de Chambéry-Chal.-les-Eaux;Gare de Moûtiers-Salins-Brides;80
+Gare de Aix-les-Bains-le-Revard;Gare de Bourg-St-Maurice;129
+Gare de Ambérieu-en-Bugey;Gare de Chambéry-Chal.-les-Eaux;73
+Gare de Chambéry-Chal.-les-Eaux;Gare de Grenoble;53
+Gare de Annecy;Gare de St-Gervais-L-B-Le-Fayet;97
+Gare de Bellegarde-s-V. Gare;Gare de La Roche-sur-Foron;65
+Gare de Grenoble U.-Gières;Gare de Valence-Ville;97
+Gare de Grenoble U.-Gières;Gare de St-Marcellin;53
+Gare de St-Marcellin;Gare de Valence-Ville;39
+Gare de Grenoble;Gare de St-Marcellin;40
+Gare de Grenoble U.-Gières;Gare de Rives;43
+Gare de Grenoble U.-Gières;Gare de St-André-le-Gaz;69
+Gare de Grenoble;Gare de St-André-le-Gaz;62
+Gare de Grenoble;Gare de Rives;30
+Gare de Gap;Gare de Grenoble;181
+Gare de Clelles-Mens;Gare de Grenoble;71
+Gare de Grenoble;Gare de Veynes-Dévoluy;134
+Gare de Chambéry-Chal.-les-Eaux;Gare de Rives;90
+Gare de Lyon-Part-Dieu;Gare de Mâcon-Ville;62
+Gare de Lyon-Perrache;Gare de Mâcon-Ville;60
+Gare de Lyon-Perrache;Gare de Valence-Ville;70
+Gare de Lyon-Part-Dieu;Gare de Valence-Ville;71
+Gare de Mâcon-Ville;Gare de Valence-Ville;138
+Gare de Marseille-St-Charles;Gare de Valence-Ville;145
+Gare de Mâcon-Ville;Gare de Pierrelatte;189
+Gare de Avignon-Centre;Gare de Mâcon-Ville;235
+Gare de Avignon-Centre;Gare de Valence-Ville;89
+Gare de Avignon-Centre;Gare de Lyon-Perrache;168
+Gare de Firminy;Gare de Lyon-Perrache;82
+Gare de Firminy;Gare de St-Etienne-Châteaucreux;22
+Gare de Lyon-Perrache;Gare de St-Etienne-Châteaucreux;55
+Gare de Givors-Ville;Gare de Lyon-Perrache;25
+Gare de Bourg-en-Bresse;Gare de Oyonnax;53
+Gare de Lyon-Perrache;Gare de Oyonnax;130
+Gare de Bourg-en-Bresse;Gare de Lyon-Perrache;65
+Gare de Bourg-en-Bresse;Gare de Lyon-Part-Dieu;42
+Gare de Lyon-Perrache;Gare de Roanne;89
+Gare de Ambérieu-en-Bugey;Gare de St-Etienne-Châteaucreux;97
+Gare de Ambérieu-en-Bugey;Gare de Givors-Ville;64
+Gare de Lyon-Part-Dieu;Gare de St-Etienne-Châteaucreux;46
+Gare de Givors-Ville;Gare de Lyon-Part-Dieu;17
+Gare de Ambérieu-en-Bugey;Gare de Lyon-Part-Dieu;41
+Gare de Roanne;Gare de St-Etienne-Châteaucreux;73
+Gare de Lyon-Perrache;Gare de Vienne;34
+Gare de Vienne;Gare de Villefranche-sur-Saône;74
+Gare de Mâcon-Ville;Gare de Vienne;98
+Gare de Lyon-Perrache;Gare de Villefranche-sur-Saône;36
+Gare de Lyon-Perrache;Gare de St-André-le-Gaz;56
+Gare de Bourgoin-Jallieu;Gare de Lyon-Perrache;37
+Gare de Die;Gare de Romans-Bourg-de-Péage;83
+Gare de Lyon-Perrache;Gare de Sathonay-Rillieux;19
+Gare de Montbrison;Gare de St-Etienne-Châteaucreux;40
+Gare de Boën;Gare de St-Etienne-Châteaucreux;53
+Gare de Le Puy-en-Velay;Gare de St-Etienne-Châteaucreux;113
+Gare de Bas-Monistrol;Gare de St-Etienne-Châteaucreux;55
+Gare de Lyon-St-Paul;Gare de Sain-Bel;42
+Gare de L'Arbresle;Gare de Lyon-St-Paul;37
+Gare de Lozanne;Gare de Tassin;25
+Gare de Brignais;Gare de Lyon-St-Paul;25
+Gare de Laroche-Migennes;Gare de Paris-Gare-de-Lyon;125
+Gare de Montereau;Gare de Paris-Gare-de-Lyon;57
+Gare de Laroche-Migennes;Gare de Paris-Bercy;124
+Gare de Corbigny;Gare de Paris-Bercy;213
+Gare de Corbigny;Gare de Paris-Gare-de-Lyon;215
+Gare de Auxerre-St-Gervais;Gare de Paris-Bercy;105
+Gare de Clamecy;Gare de Paris-Bercy;165
+Gare de Clamecy;Gare de Paris-Gare-de-Lyon;159
+Gare de Avallon;Gare de Paris-Bercy;158
+Gare de Avallon;Gare de Paris-Gare-de-Lyon;160
+Gare de Auxerre-St-Gervais;Gare de Paris-Gare-de-Lyon;119
+Gare de Auxerre-St-Gervais;Gare de Dijon-Ville;114
+Gare de Chalon-sur-Saône;Gare de Dijon-Ville;43
+Gare de Is-sur-Tille;Gare de Les Laumes-Alésia;76
+Gare de Bourg-en-Bresse;Gare de Dijon-Ville;102
+Gare de Chalon-sur-Saône;Gare de Mâcon-Ville;39
+Gare de Corbigny;Gare de Laroche-Migennes;113
+Gare de Dijon-Ville;Gare de Montchanin;45
+Gare de Dijon-Ville;Gare de Le Creusot;53
+Gare de Autun;Gare de Dijon-Ville;91
+Gare de Chalon-sur-Saône;Gare de Montchanin;39
+Gare de Etang;Gare de Montchanin;30
+Gare de Autun;Gare de Nevers;94
+Gare de Montchanin;Gare de Paray-le-Monial;43
+Gare de Decize;Gare de Moulins-sur-Allier;75
+Gare de Cosne-sur-Loire;Gare de Nevers;48
+Gare de Cosne-sur-Loire;Gare de Decize;89
+Gare de Belfort-Ville;Gare de Besançon-Viotte;71
+Gare de Dijon-Ville;Gare de Dole-Ville;28
+Gare de Belfort-Ville;Gare de Epinal;92
+Gare de Belfort-Ville;Gare de Montbéliard-Ville;15
+Gare de Delle;Gare de Meroux;17
+Gare de Besançon-Mouillère;Gare de Le Valdahon;43
+Gare de Besançon-Mouillère;Gare de Morteau;82
+Gare de Besançon-Viotte;Gare de Saint-Claude;148
+Gare de Dole-Ville;Gare de Pontarlier;75
+Gare de Andelot;Gare de Dole-Ville;41
+Gare de Besançon-Viotte;Gare de Lyon-Perrache;176
+Gare de Lyon-Part-Dieu;Gare de Mouchard;128
+Gare de Besançon-Viotte;Gare de Lyon-Part-Dieu;159
+Gare de Lyon-Perrache;Gare de Mouchard;139
+Gare de Besançon-Viotte;Gare de Bourg-en-Bresse;118
+Gare de Belfort-Ville;Gare de Lyon-Part-Dieu;230
+Gare de Belfort-Ville;Gare de Bourg-en-Bresse;186
+Gare de Belfort-Ville;Gare de Lyon-Perrache;244
+Gare de Lons-le-Saunier;Gare de Lyon-Perrache;103
+Gare de Belfort-Ville;Gare de Lons-le-Saunier;144
+Gare de Besançon-Viotte;Gare de Lons-le-Saunier;89
+Gare de Bourg-en-Bresse;Gare de Mouchard;81

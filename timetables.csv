@@ -1,4 +1,3 @@
-trip_id	trajet	duree
 OCESN003100F140147152	Gare de Le Havre - Gare de Paris-St-Lazare	138
 OCESN003190F040047309	Gare de Dieppe - Gare de Paris-St-Lazare	145
 OCESN003198F030037315	Gare de Paris-St-Lazare - Gare de Rouen-Rive-Droite	97
@@ -151,7 +150,7 @@ OCESN030148R0200218147	Gare de Strasbourg - Gare de Sélestat	53
 OCESN030150R0200218149	Gare de Benfeld - Gare de Strasbourg	42
 OCESN030157R0300318151	Gare de Colmar - Gare de Raedersheim	45
 OCESN030163R0400418153	Buswiller-Eglise - Gare de Mommenheim	19
-OCESN030164R0400418154	Ettendorf-Pl,-de-L'ecol - Gare de Mommenheim	15
+OCESN030164R0400418154	Ettendorf-Pl-de-L'ecol - Gare de Mommenheim	15
 OCESN030165R0400418155	Ettendorf-(Angle-Pont) - Gare de Mommenheim	13
 OCESN030166R0300318156	Bouxwiller-Babenhausen - Gare de Mommenheim	30
 OCESN030190R0200218175	Gare de Diemeringen - Gare de Sarreguemines	31
