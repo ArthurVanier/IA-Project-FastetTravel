@@ -1,0 +1,3820 @@
+;Station;City
+0;chars;chars
+1;imphy;imphy
+2;verberie;verberie
+3;vulaines-sur-seine-samoreau;vulaines-sur-seine
+4;montgeroult-courcelles;montgeroult
+5;civry-st-cloud;civry
+6;le chambon-feugerolles;chambon-feugerolles (le )
+7;nantes;nantes
+8;briouze;briouze
+9;dreux;dreux
+10;arques (pas-de-calais);arques
+11;bouchain;bouchain
+12;caudrot;caudrot
+13;dunkerque-port-est;grande-synthe
+14;st-bonnet-de-rochefort;saint-bonnet-de-rochefort
+15;lantenay;lantenay
+16;st-aubin-st-luperce;saint-aubin-des-bois
+17;tonnerre;tonnerre
+18;margaux;margaux
+19;st-cergues-les-voirons;saint-cergues
+20;ferrière-la-grande;ferrière-la-grande
+21;quimperlé;quimperle
+22;verdun;verdun
+23;dardilly-les-mouilles;ecully
+24;zoufftgen (ie);zoufftgen
+25;bartenheim;bartenheim
+26;brion-laizy;laizy
+27;jeumont;jeumont
+28;gagny;gagny
+29;aumale;aumale
+30;alençon;alencon
+31;faulquemont;faulquemont
+32;plaintel;plaintel
+33;bourg-en-bresse;bourg-en-bresse
+34;figeac;figeac
+35;tacoignières-richebourg;tacoignières
+36;bellac;bellac
+37;saincaize;saincaize-meauce
+38;beillant;saint-sever-de-saintonge
+39;conflans-jarny;jarny
+40;villepinte;villepinte
+41;auray;auray
+42;st-quentin-en-yvelines;montigny-le-bretonneux
+43;la roche-sur-foron;la roche-sur-foron
+44;st-dalmas-de-tende;tende
+45;prunay;prunay
+46;les ancizes-st-georges;saint-georges-de-mons
+47;pontivy;pontivy
+48;corbie;corbie
+49;blanc-misseron;crespin
+50;vendenheim;vendenheim
+51;haguenau;haguenau
+52;ancy-sur-moselle;ancy-sur-moselle
+53;blaye;blaye
+54;golfe-juan-vallauris;vallauris
+55;baume-les-dames;baume-les-dames
+56;st-jean-de-losne;saint-usage
+57;montigny-beauchamp;montigny-les-cormeilles
+58;chanteloup-les-vignes;chanteloup-les-vignes
+59;st-remy-en-l'eau;saint-remy-en-l'eau
+60;meurchin;meurchin
+61;ruminghem;ruminghem
+62;magny-blandainville;magny
+63;villeparisis;mitry-mory
+64;rosheim;rosheim
+65;royan;royan
+66;aubergenville-élisabethville;aubergenville
+67;st-denis-catus;saint-denis-catus
+68;bar-sur-seine;bar-sur-seine
+69;lisieux;lisieux
+70;la trinité-victor;trinite (la )
+71;servas-lent;servas
+72;paris-st-lazare;paris
+73;st-germain-au-mont-d'or;saint-germain-au-mont-d'or
+74;versailles-rive-gauche;versailles
+75;mennessis;mennessis
+76;la teste;teste-de-buch (la )
+77;fourmies;fourmies
+78;bauvin-provin;bauvin
+79;montbizot;montbizot
+80;facture-biganos;biganos
+81;pins-justaret;pins-justaret
+82;glos-montfort;glos-sur-risle
+83;pontanevaux;la chapelle-de-guinchay
+84;tulle;tulle
+85;briançon;briancon
+86;concarneau;concarneau
+87;les grésillons;gennevilliers
+88;aulnay-sous-bois;aulnay-sous-bois
+89;souillac;souillac
+90;st-germain-sur-ille;melesse
+91;st-maixent-l'ecole;saint-maixent-l'école
+92;thun-le-paradis;meulan
+93;cognac;cognac
+94;troyes;saint-julien-les-villas
+95;éloyes;éloyes
+96;montmélian;montmélian
+97;andelot;andelot-en-montagne
+98;st-jory;saint-jory
+99;milly-sur-thérain;milly-sur-thérain
+100;clichy-levallois;clichy
+101;ouges;ouges
+102;viry;viry
+103;boisleux;boisleux-au-mont
+104;ste-cécile-d'andorge;sainte-cécile-d'andorge
+105;millau;millau
+106;ste-gauburge;sainte-gauburge-sainte-colombe
+107;st-florentin-vergigny;vergigny
+108;fontaines-d'ozillac;fontaines-d'ozillac
+109;maisons-alfort-alfortville;maisons-alfort
+110;st-amand-les-eaux;saint-amand-les-eaux
+111;servon;servon-sur-vilaine
+112;dommartin-remiencourt;dommartin
+113;montaignac-st-hippolyte;montaignac-saint-hippolyte
+114;metz-marchandises;metz
+115;ste-pazanne;sainte-pazanne
+116;châtillon-sur-seine;châtillon-sur-seine
+117;pont-de-claix;pont-de-claix (le )
+118;sarreguemines;sarreguemines
+119;clérac-charente;clérac
+120;bry-sur-marne;bry-sur-marne
+121;la celle-st-cloud;celle-saint-cloud (la )
+122;le havre;havre (le )
+123;malause;malause
+124;reignac;reignac-sur-indre
+125;le stade;colombes
+126;bischheim;schiltigheim
+127;quillan;quillan
+128;gonfaron;gonfaron
+129;tournan;tournan-en-brie
+130;persan-beaumont;persan
+131;besançon-mouillère;besancon
+132;boucoiran;boucoiran-et-nozières
+133;clion-sur-seugne;clion
+134;bailleau-le-pin;bailleau-le-pin
+135;franois;franois
+136;montpellier sud-de-france;lattes
+137;poitiers;poitiers
+138;picon-busserine;marseille
+139;lorcy;corbeilles
+140;étais (gs);étais-la-sauvin
+141;la membrolle-sur-choisille;saint-cyr-sur-loire
+142;pruniers;gièvres
+143;biffontaine;biffontaine
+144;culoz;culoz
+145;bussière-galant;bussière-galant
+146;coron-de-méricourt;mericourt
+147;milhaud;milhaud
+148;sierentz;sierentz
+149;meursault;meursault
+150;sausset-les-pins;sausset-les-pins
+151;thoiry;thoiry
+152;ste-eulalie-carbon-blanc;sainte-eulalie
+153;tracy-sancerre;tracy-sur-loire
+154;massy-palaiseau;palaiseau
+155;st-sever;saint-sever-calvados
+156;cugand;cugand
+157;st-jean-de-luz-ciboure;saint-jean-de-luz
+158;pontfaverger;pontfaverger-moronvilliers
+159;besançon-franche-comté-tgv;auxon-dessus
+160;cubzac-les-ponts;cubzac-les-ponts
+161;saumur;saumur
+162;les rosiers-sur-loire;les rosiers-sur-loire
+163;périgueux;perigueux
+164;la rochelle-ville;rochelle (la )
+165;ailly-sur-noye;ailly-sur-noye
+166;salles-courbatiès;salles-courbatiès
+167;rouxmesnil;rouxmesnil-bouteilles
+168;la haie-fouassière;la haie-fouassière
+169;croix-wasquehal;wasquehal
+170;colombes;colombes
+171;gudmont;gudmont-villiers
+172;heyrieux;grenay
+173;senozan;senozan
+174;portes;portes-lès-valence
+175;serdinya;serdinya
+176;ustaritz;ustaritz
+177;anché-voulon;anché
+178;laigneville;laigneville
+179;pessac;pessac
+180;wardrecques;racquinghem
+181;assier;assier
+182;pont-de-bois;villeneuve-d'ascq
+183;ayron-latillé;ayron
+184;vignory;vignory
+185;st-antoine-du-rocher;saint-antoine-du-rocher
+186;villers-cotterêts;villers-cotterêts
+187;parthenay;parthenay
+188;ste-foy-la-grande;pineuilh
+189;tournon-st-martin;tournon-saint-martin
+190;somain;somain
+191;pérenchies;pérenchies
+192;le plessis-belleville;le plessis-belleville
+193;estavar;saillagouse
+194;torfou;torfou
+195;sévérac-le-château;sévérac-le-château
+196;mulhouse-nord;mulhouse
+197;maurecourt;andresy
+198;dombasle-sur-meurthe;dombasle-sur-meurthe
+199;brioude;brioude
+200;kurtzenhouse;kurtzenhouse
+201;lauterbourg;lauterbourg
+202;st-gratien;saint-gratien
+203;st-martory;saint-martory
+204;vayres;vayres
+205;cobrieux;genech
+206;aiffres;aiffres
+207;gironcourt-houécourt;gironcourt-sur-vraine
+208;herbeauvilliers;buthiers
+209;chambly;chambly
+210;nanteuil-le-haudouin;nanteuil-le-haudouin
+211;retiers;retiers
+212;pont-sur-yonne;pont-sur-yonne
+213;l'estaque;marseille
+214;barenton-bugny;barenton-bugny
+215;chamarande;chamarande
+216;andrézieux;andrezieux-boutheon
+217;nouzonville;nouzonville
+218;kerhuon;relecq-kerhuon (le )
+219;selles-sur-cher;selles-sur-cher
+220;nuits-st-georges;nuits-saint-georges
+221;rimaucourt;rimaucourt
+222;nîmes-pont du gard;manduel
+223;bram;bram
+224;annemasse;annemasse
+225;labarthe-inard;labarthe-inard
+226;le bousquet-d'orb;le bousquet-d'orb
+227;colombiers;colombiers
+228;martigny-les-bains;martigny-les-bains
+229;garancières-la-queue;garancières
+230;vinça;vinça
+231;st-louis;saint-louis
+232;st-dié-des-vosges;saint-die
+233;brionne;brionne
+234;schiltigheim;schiltigheim
+235;mauco-benquet;haut-mauco
+236;domfront;domfront-en-champagne
+237;st-jean-de-verges;crampagna
+238;nonancourt;nonancourt
+239;villefranche-de-rouergue;villefranche-de-rouergue
+240;st-pierre-d'aurillac;saint-pierre-d'aurillac
+241;vaux-en-bugey;vaux-en-bugey
+242;laval-de-cère;laval-de-cère
+243;caudry;caudry
+244;moret-veneux-les-sablons;veneux-les-sablons
+245;joué-lès-tours;joue-les-tours
+246;boussens;boussens
+247;thiviers;thiviers
+248;contrexéville;contrexéville
+249;noyal-acigné;noyal-sur-vilaine
+250;pont-cardinet;paris
+251;marcheprime;marcheprime
+252;grand-quevilly;grand-quevilly (le )
+253;paris-bercy;paris
+254;corbehem;corbehem
+255;épinay-villetaneuse;epinay-sur-seine
+256;couffoulens-leuc;couffoulens
+257;bibliothèque-françois-mitterrand;paris
+258;la porcherie;la porcherie
+259;morvillars;morvillars
+260;st-gilles;wintzenheim
+261;gros-noyer-st-prix;ermont
+262;belleville-sur-saône;belleville
+263;champagne-sur-oise;champagne-sur-oise
+264;manduel-redessan;manduel
+265;montélimar;montelimar
+266;limeyrat;limeyrat
+267;cesson-sévigné;cesson-sevigne
+268;miramas;miramas
+269;chevrières;chevrières
+270;mazamet;mazamet
+271;illiers-combray;illiers-combray
+272;gensac-la-pallue;gensac-la-pallue
+273;saléchan-siradan;saléchan
+274;iteuil;iteuil
+275;dingé;dingé
+276;tournes;tournes
+277;rémilly;rémilly
+278;sartrouville;sartrouville
+279;sorcy;sorcy-saint-martin
+280;parempuyre;parempuyre
+281;varennes-sur-fouzon;varennes-sur-fouzon
+282;pamproux;pamproux
+283;sézanne;sézanne
+284;liancourt-rantigny;rantigny
+285;servoz;les houches
+286;hazebrouck;hazebrouck
+287;st-cyprien-arènes;toulouse
+288;la possonnière;la possonnière
+289;blonville-sur-mer-benerville;blonville-sur-mer
+290;rosières;rosières-en-santerre
+291;boissise-le-roi;boissise-le-roi
+292;moirans-la-galifette;moirans
+293;morgny;morgny-la-pommeraye
+294;fougeré;fougeré
+295;houdemont;houdemont
+296;chalais;chalais
+297;paray-le-monial;paray-le-monial
+298;lacapelle-viescamp;lacapelle-viescamp
+299;flamboin-gouaix;gouaix
+300;ste-colombe-sur-seine;sainte-colombe-sur-seine
+301;la bleuse-borne;anzin
+302;aulnoye-aymeries;aulnoye-aymeries
+303;montpaon;fondamente
+304;crépy-en-valois;crepy-en-valois
+305;boves;boves
+306;bondy;bondy
+307;viroflay-rive-droite;viroflay
+308;beuvrages;beuvrages
+309;penhoët;saint-nazaire
+310;chaumont;chaumont
+311;le mée;mee-sur-seine (le )
+312;tressin;tressin
+313;neuvy-pailloux;neuvy-pailloux
+314;pompadour;arnac-pompadour
+315;vic-le-comte;vic-le-comte
+316;agde;agde
+317;bauvin-provin;bauvin
+318;st-jean-de-maurienne-arvan;saint-jean-de-maurienne
+319;langres;langres
+320;thuès-les-bains;nyer
+321;mulhouse-dornach (tram/train);mulhouse
+322;villefranche-vernet-les-bains;villefranche-de-conflent
+323;maintenon;maintenon
+324;st-brieuc;saint-brieuc
+325;orange;orange
+326;pont-petit;saint-ouen-l'aumone
+327;cagnes-sur-mer;cagnes-sur-mer
+328;tourville;tourville-la-rivière
+329;clermont-les-fermes;clermont-les-fermes
+330;la courneuve-aubervilliers;courneuve (la )
+331;martigues;martigues
+332;montbarrey;montbarrey
+333;mont-st-martin;mont-saint-martin
+334;bussière-galant;bussière-galant
+335;guichen-bourg-des-comptes;guichen
+336;mérens-les-vals;mérens-les-vals
+337;la rochelle-porte-dauphine;rochelle (la )
+338;montroc-le-planet;chamonix-mont-blanc
+339;beaulieu-sur-mer;beaulieu-sur-mer
+340;voves;voves
+341;rochy-condé;rochy-condé
+342;albert;albert
+343;le poirier-université;trith-saint-léger
+344;nexon;nexon
+345;massy-tgv;palaiseau
+346;juan-les-pins;antibes
+347;bresles;bresles
+348;clelles-mens;clelles
+349;martigues;martigues
+350;chartres;chartres
+351;limersheim;hipsheim
+352;lure;lure
+353;grenoble;grenoble
+354;bologne;bologne
+355;chamonix-aiguille du midi;chamonix-mont-blanc
+356;bouffémont-moisselles;bouffemont
+357;coutras;coutras
+358;vieilleville;mourioux-vieilleville
+359;arrou;arrou
+360;thieux-nantouillet;nantouillet
+361;hoffen;hoffen
+362;châtillon-sur-loire;briare
+363;gallargues;gallargues-le-montueux
+364;bords;bords
+365;betton;betton
+366;castelsarrasin;castelsarrasin
+367;st-germain-en-laye-grande-ceinture;saint-germain-en-laye
+368;st-senoux-pléchâtel;saint-senoux
+369;ennezat-clerlande;ennezat
+370;romans-bourg-de-péage;romans-sur-isere
+371;dunkerque;dunkerque
+372;limoges-montjovis;limoges
+373;bourg-en-bresse;bourg-en-bresse
+374;don-sainghin;sainghin-en-weppes
+375;belz-ploemel;ploemel
+376;couliboeuf;morteaux-couliboeuf
+377;monéteau-gurgy;monéteau
+378;les clairières-de-verneuil;verneuil-sur-seine
+379;saintes;saintes
+380;autet;autet
+381;montrond-les-bains;montrond-les-bains
+382;mohon;charleville-mezieres
+383;la rochelle-pallice;rochelle (la )
+384;sain-bel;sain-bel
+385;bornel-belle-église;bornel
+386;montreuil-sur-thérain;montreuil-sur-thérain
+387;belle-isle-bégard;louargat
+388;nice-ville;nice
+389;ferrières-fontenay;fontenay-sur-loing
+390;le bec-d'ambès;ambès
+391;génolhac;génolhac
+392;fleurieux-sur-l'arbresle;fleurieux-sur-l'arbresle
+393;tantonville;tantonville
+394;bayonne-allées-marines;bayonne
+395;bavay;bavay
+396;deville;deville
+397;kuntzig;kuntzig
+398;conchil-le-temple;conchil-le-temple
+399;remise-à-jorelle;bondy
+400;seyssel-corbonod;corbonod
+401;schweighouse-sur-moder;schweighouse-sur-moder
+402;semur-en-auxois;semur-en-auxois
+403;tain-l'hermitage-tournon;tain-l'hermitage
+404;châtellerault;chatellerault
+405;rouen-orléans;rouen
+406;bonnemain;bonnemain
+407;chemilly-appoigny;chemilly-sur-yonne
+408;bénestroff;bénestroff
+409;vaucresson;vaucresson
+410;trouville-deauville;deauville
+411;sérifontaine;sérifontaine
+412;st-germain-du-puy;saint-germain-du-puy
+413;drulingen;drulingen
+414;la rivière-de-mansac;mansac
+415;nomain;nomain
+416;poliénas;poliénas
+417;la wantzenau;la wantzenau
+418;sevran-livry;sevran
+419;la mothe-st-héray;sainte-eanne
+420;igney;igney
+421;ormoy-villers;ormoy-villers
+422;marienthal;haguenau
+423;paris-st-lazare;paris
+424;cenon;cenon
+425;st-ouen;saint-ouen
+426;herchies;herchies
+427;la guerche-sur-l'aubois;la guerche-sur-l'aubois
+428;tronsanges;tronsanges
+429;montsûrs;brée
+430;st-léonard;saint-léonard
+431;rosult;rosult
+432;marchezais-broué;marchezais
+433;deûlémont;quesnoy-sur-deûle
+434;ranguin;mougins
+435;st-florent-sur-cher;saint-florent-sur-cher
+436;bréval;bréval
+437;eichhoffen;eichhoffen
+438;coulombiers;coulombiers
+439;ay;ay
+440;volvic;volvic
+441;st-béron-la bridoire;saint-béron
+442;st-romain-le-puy;saint-romain-le-puy
+443;la bastide-st-laurent-les-bains;la bastide-puylaurent
+444;réding;réding
+445;albi-madeleine;albi
+446;mâcon-ville;macon
+447;vienne;vienne
+448;bugeat;bugeat
+449;st-aubin-sur-scie;saint-aubin-sur-scie
+450;pont-de-l'alma;paris
+451;mériel;mériel
+452;brax-léguevin;brax
+453;lavilledieu;la ville-dieu-du-temple
+454;gennes-longuefuye;longuefuye
+455;aix-en-provence;aix-en-provence
+456;lycée-henri-sellier;livry-gargan
+457;louverné;louverné
+458;condé-sur-vire;condé-sur-vire
+459;frépillon;frépillon
+460;anzeling;anzeling
+461;vertaizon;vertaizon
+462;pierrelatte;pierrelatte
+463;avignon-centre;avignon
+464;avignon-centre;avignon
+465;septèmes;septemes-les-vallons
+466;les noues;goussainville
+467;babinière;chapelle-sur-erdre (la )
+468;bruyères;bruyères
+469;quesnoy-le-montant;quesnoy-le-montant
+470;cravant-bazarnes;bazarnes
+471;bruyères;bruyères
+472;st-étienne-de-montluc;saint-étienne-de-montluc
+473;damiatte-st-paul;damiatte
+474;herbitzheim;herbitzheim
+475;feignies;feignies
+476;issou-porcheville;issou
+477;luxé;luxé
+478;anchamps;anchamps
+479;strasbourg-ville;strasbourg
+480;longwy;longwy
+481;novéant;novéant-sur-moselle
+482;pierrefitte-stains;pierrefitte-sur-seine
+483;bailleul-sur-thérain;bailleul-sur-thérain
+484;houilles-carrières-sur-seine;houilles
+485;gien;gien
+486;montbré;montbré
+487;st-quentin;saint-quentin
+488;anould;anould
+489;étriché-châteauneuf;étriché
+490;st-brieuc;saint-brieuc
+491;ostricourt;ostricourt
+492;plouaret-trégor;plouaret
+493;ermont-eaubonne;ermont
+494;vigeois;vigeois
+495;argentière;chamonix-mont-blanc
+496;évry;evry
+497;les tines;chamonix-mont-blanc
+498;le bouchet;la roche-rigault
+499;marseille-maritime-arenc;marseille
+500;auterive;auterive
+501;monthermé;bogny-sur-meuse
+502;morcenx;morcenx
+503;garches-marnes-la-coquette;marnes-la-coquette
+504;puteaux;puteaux
+505;joinville;joinville
+506;farschviller;loupershouse
+507;daours;aubigny
+508;la chapelle-st-mesmin;la chapelle-saint-mesmin
+509;orchies;orchies
+510;dourges;dourges
+511;diemeringen;diemeringen
+512;givet;givet
+513;paris-gare-de-lyon-souterrain;paris
+514;cattenières;cattenières
+515;lamure-sur-azergues;lamure-sur-azergues
+516;morhange;morhange
+517;épinal;epinal
+518;la pointe-bouchemaine;bouchemaine
+519;quimper;quimper
+520;verdun-sur-le-doubs;verdun-sur-le-doubs
+521;viarmes;viarmes
+522;st-marcellin;saint-marcellin
+523;margival;margival
+524;wittring;wittring
+525;brion-montréal-la-cluse;brion
+526;montastruc-la-conseillère;montastruc-la-conseillère
+527;la roche-sur-yon;roche-sur-yon (la )
+528;crotelles;villedômer
+529;strasbourg-ville;strasbourg
+530;clermont-ferrand;clermont-ferrand
+531;tieffenbach-struth;tieffenbach
+532;tours;tours
+533;mesvres;mesvres
+534;muizon;muizon
+535;montreuil-bellay;montreuil-bellay
+536;la chaize-le-vicomte;la chaize-le-vicomte
+537;viry-noureuil;viry-noureuil
+538;précy-sur-oise;précy-sur-oise
+539;longecourt;longecourt-en-plaine
+540;barr;barr
+541;vaux-sur-seine;vaux-sur-seine
+542;brignais;brignais
+543;paray-le-monial;paray-le-monial
+544;la couronne;la couronne
+545;larche;saint-pantaléon-de-larche
+546;champbenoist-poigny;poigny
+547;souvigny;souvigny
+548;pleine-fougères;pleine-fougères
+549;thenissey;thenissey
+550;varilhes;varilhes
+551;st-étienne-châteaucreux;saint-etienne
+552;miribel;miribel
+553;attichy;couloisy
+554;souppes-château-landon;souppes-sur-loing
+555;nyers;nyer
+556;turckheim;turckheim
+557;sallèles-d'aude;sallèles-d'aude
+558;la folie-nanterre;nanterre
+559;neufchâteau;neufchâteau
+560;cadaujac;cadaujac
+561;brienne-le-château;brienne-le-château
+562;le légué;saint-brieuc
+563;la croix-du-prince;jurancon
+564;le merlerault;le merlerault
+565;porte-de-clichy;paris
+566;blagny;blagny
+567;fontenoy-sur-moselle;fontenoy-sur-moselle
+568;fossé-marolles;marolles
+569;sablé-sur-sarthe;sable-sur-sarthe
+570;la tour-du-pin;la tour-du-pin
+571;alleyras;alleyras
+572;les essarts-le-roi;les essarts-le-roi
+573;torpes-boussières;torpes
+574;les quatre-routes;les quatre-routes-du-lot
+575;myennes;myennes
+576;gergy;gergy
+577;st-paterne;saint-paterne-racan
+578;cavaillon;cavaillon
+579;chalonnes;chalonnes-sur-loire
+580;la basse-indre-st-herblain;saint-herblain
+581;chézy-sur-marne;chézy-sur-marne
+582;collonges;collonges-lès-premières
+583;la chapelle-centre;chapelle-sur-erdre (la )
+584;raon-l'étape;raon-l'étape
+585;la marche;la marche
+586;lezennes;lille
+587;willer-sur-thur;willer-sur-thur
+588;balsièges-bourg;balsièges
+589;azay-le-rideau;azay-le-rideau
+590;quesnoy-sur-deûle;quesnoy-sur-deûle
+591;metzervisse;metzervisse
+592;st-agnan;saint-agnan
+593;créteil-pompadour;creteil
+594;vincey;portieux
+595;épinay-sur-seine;epinay-sur-seine
+596;hangest;hangest-sur-somme
+597;le mans;mans (le )
+598;grisolles;grisolles
+599;rive-de-gier;rive-de-gier
+600;mérignac-arlac;merignac
+601;fenouillet-st-alban;fenouillet
+602;vaucelles;taverny
+603;clichy-levallois;levallois-perret
+604;clichy-levallois;clichy
+605;auchy-lès-hesdin;le parcq
+606;oulchy-breny;breny
+607;neussargues;neussargues-moissac
+608;morteau;morteau
+609;bordeaux-st-jean;bordeaux
+610;darsac;vernassal
+611;ormoy-villers;ormoy-villers
+612;labruguière;labruguière
+613;clamecy;clamecy
+614;st-michel-sur-orge;saint-michel-sur-orge
+615;aix-les-bains-le revard;aix-les-bains
+616;ermont-halte;ermont
+617;st-germain-les-belles;saint-germain-les-belles
+618;le teich;le teich
+619;paulhaguet;salzuit
+620;lépin-le-lac-la bauche;lépin-le-lac
+621;sarrebourg;sarrebourg
+622;malling;malling
+623;villers-bretonneux;villers-bretonneux
+624;nogent-l'artaud-charly;nogent-l'artaud
+625;champigneulles;champigneulles
+626;hagondange;mondelange
+627;villeneuve-l'archevêque;molinons
+628;chivres-en-laonnois;chivres-en-laonnois
+629;luxeuil-les-bains;luxeuil-les-bains
+630;la pauline-hyères;garde (la )
+631;dontrien;dontrien
+632;bologne;bologne
+633;petit-quevilly;petit-quevilly (le )
+634;nevers-le banlay;nevers
+635;brimeux;brimeux
+636;st-andré-de-l'eure;saint-andré-de-l'eure
+637;coucy-lès-eppes;coucy-lès-eppes
+638;bressuire;bressuire
+639;hoelschloch;surbourg
+640;monte-carlo-country-club;roquebrune-cap-martin
+641;engenville;engenville
+642;valenciennes;valenciennes
+643;vernou-sur-seine;vernou-la-celle-sur-seine
+644;bannalec;bannalec
+645;st-nazaire;saint-nazaire
+646;ancenis;ancenis
+647;vélines;vélines
+648;soultz-sous-forêts;soultz-sous-forêts
+649;lamagistère;lamagistère
+650;lille-délivrance;lille
+651;istres;istres
+652;fontenay-le-comte;fontenay-le-comte
+653;fors;fors
+654;avignonet;avignonet-lauragais
+655;port-boulet;chouzé-sur-loire
+656;sarrance;sarrance
+657;seltz;seltz
+658;toulouse-matabiau;toulouse
+659;la défense;puteaux
+660;boves;boves
+661;st-jacques-de-la-lande;saint-jacques-de-la-lande
+662;lestelle;lestelle-de-saint-martory
+663;aix-les-bains-le revard;aix-les-bains
+664;taillebourg;taillebourg
+665;connerré-beillé;beillé
+666;bergues;bergues
+667;chamalières-sur-loire;chamalières-sur-loire
+668;st-jean-de-losne;saint-usage
+669;anse;anse
+670;matzenheim;matzenheim
+671;brassac-les-mines-ste-florine;brassac-les-mines
+672;châteauneuf-sur-loire;châteauneuf-sur-loire
+673;pleudihen;pleudihen-sur-rance
+674;nevers;nevers
+675;argenton-sur-creuse;argenton-sur-creuse
+676;trouville-deauville;deauville
+677;chasse-sur-rhône;chasse-sur-rhône
+678;villenouvelle;villenouvelle
+679;bléré-la-croix;la croix-en-touraine
+680;la bâthie;la bâthie
+681;évry-courcouronnes;evry
+682;ligny;ligny-en-barrois
+683;bourgtheroulde-thuit-hébert;thuit-hébert
+684;roppenheim;beinheim
+685;batilly;batilly
+686;enghien-les-bains;enghien-les-bains
+687;st-aubin (jura);saint-aubin
+688;serres;serres
+689;trélazé;trelaze
+690;aiffres;aiffres
+691;boigneville;boigneville
+692;le puy-en-velay;puy-en-velay (le )
+693;st-martin-d'oney;saint-martin-d'oney
+694;cormery;cormery
+695;igney-avricourt;avricourt
+696;bailleul-sir-berthoult;bailleul-sir-berthoult
+697;fouday;fouday
+698;la crau;crau (la )
+699;tournemire-roquefort;tournemire
+700;retournac;retournac
+701;menton;menton
+702;belfort-montbéliard-tgv;meroux
+703;bayon;virecourt
+704;choisy-le-roi;choisy-le-roi
+705;creutzwald;creutzwald
+706;montceau-les-mines;montceau-les-mines
+707;vendôme-villiers-sur-loir;villiers-sur-loir
+708;turenne;turenne
+709;remoulins-pont-du-gard;remoulins
+710;lannemezan;lannemezan
+711;lyon-st-exupéry-tgv;colombier-saugnieu
+712;le bruel;esclanèdes
+713;l'hospitalet-près-l'andorre;l'hospitalet-près-l'andorre
+714;le sablon;grigny
+715;sarliève-cournon;cournon-d'auvergne
+716;narbonne;narbonne
+717;epernay;epernay
+718;bessé-sur-braye;bessé-sur-braye
+719;voivres;voivres-lès-le-mans
+720;baroncourt;dommary-baroncourt
+721;embrun;embrun
+722;val-d'argenteuil;argenteuil
+723;bertrichamps;bertrichamps
+724;lacq;lacq
+725;avenay;avenay-val-d'or
+726;arzembouy;arzembouy
+727;steenwerck;bailleul
+728;schirmeck-la broque;schirmeck
+729;vraincourt-viéville;vraincourt
+730;le meux-la-croix-st-ouen;le meux
+731;sospel;sospel
+732;oiry;oiry
+733;viviers-du-lac;viviers-du-lac
+734;franchet-d'esperey;reims
+735;bons-en-chablais;bons-en-chablais
+736;st-just-en-chaussée;saint-just-en-chaussée
+737;le bras-de-fer;evry
+738;berre;berre-l'etang
+739;toulon;toulon
+740;ste-colombe-les-vienne-st-romain-en-gal;saint-romain-en-gal
+741;plouharnel-carnac;plouharnel
+742;le cendre-orcet;le cendre
+743;montaut-bétharram;montaut
+744;velars;velars-sur-ouche
+745;béning;béning-lès-saint-avold
+746;sevran-beaudottes;sevran
+747;ambronay-priay;ambronay
+748;goussainville;goussainville
+749;cambo-les-bains;cambo-les-bains
+750;decize;decize
+751;les praz-de-chamonix;chamonix-mont-blanc
+752;badan;grigny
+753;albertville;albertville
+754;labenne;labenne
+755;les salelles;les salelles
+756;l'isle-sur-le-doubs;l'isle-sur-le-doubs
+757;balbigny;balbigny
+758;montgeron-crosne;montgeron
+759;hendaye;hendaye
+760;pont-st-vincent;pont-saint-vincent
+761;lens;lens
+762;somain;somain
+763;vaumoise;coyolles
+764;surgères;surgères
+765;baule;baule
+766;landévant;landévant
+767;stenay;stenay
+768;pont-de-beauvoisin;le pont-de-beauvoisin
+769;sévérac;sévérac
+770;st-joseph-le castellas;marseille
+771;charbonnières-les-bains;charbonnières-les-bains
+772;bidarray-pont-noblia;bidarray
+773;steinbourg;steinbourg
+774;quintin;saint-brandan
+775;graffenstaden;geispolsheim
+776;oudon;oudon
+777;esches;esches
+778;loreux;loreux
+779;arches;arches
+780;collonges-fontaines;collonges-au-mont-d'or
+781;lusignan;lusignan
+782;paris-st-lazare;paris
+783;ebersheim;ebersheim
+784;beaucaire;beaucaire
+785;périgueux-st-georges;perigueux
+786;île-napoléon;illzach
+787;kalhausen;kalhausen
+788;pont-de-l'arche;alizay
+789;tournemire-roquefort;tournemire
+790;jouy-en-josas;jouy-en-josas
+791;cires-lès-mello;cires-lès-mello
+792;conflans-fin-d'oise;conflans-sainte-honorine
+793;chindrieux;chindrieux
+794;mouchard;mouchard
+795;lussac-les-châteaux;lussac-les-châteaux
+796;rouen-martainville;rouen
+797;porchefontaine;versailles
+798;arpajon;arpajon
+799;lamballe;lamballe
+800;foug;foug
+801;preignac;preignac
+802;st-amand-les-eaux;saint-amand-les-eaux
+803;manosque-gréoux-les-bains;manosque
+804;béthune;bethune
+805;lezoux;lezoux
+806;dreuil-lès-amiens;dreuil-lès-amiens
+807;sucy-bonneuil;sucy-en-brie
+808;épinay-villetaneuse tt;montmagny
+809;marmagne;marmagne
+810;tarascon;tarascon
+811;la crèche;la crèche
+812;bièvres;bièvres
+813;rai-aube;rai
+814;cahors;cahors
+815;rieux-angicourt;rieux
+816;jouy;jouy
+817;lalbenque-fontanes;fontanes
+818;theillay;theillay
+819;laifour;laifour
+820;chantilly-gouvieux;chantilly
+821;vénissieux-nord;saint-priest
+822;villeneuve-triage;villeneuve-saint-georges
+823;l'abbaye;livry-gargan
+824;argelès-sur-mer;argeles-sur-mer
+825;grenoble-université-gières;gières
+826;magnac-vicq;vicq-sur-breuilh
+827;châbons;châbons
+828;pulligny-autrey;autrey
+829;yutz;yutz
+830;liancourt-st-pierre;liancourt-saint-pierre
+831;viroflay-rive-gauche;viroflay
+832;arques (pas-de-calais);arques
+833;st-florentin-vergigny;vergigny
+834;st-savinien-sur-charente;saint-savinien
+835;marne-la-vallée-chessy;chessy
+836;quéménéven;quéménéven
+837;riom-châtel-guyon;riom
+838;najac;najac
+839;carnolès;roquebrune-cap-martin
+840;bénesse-maremne;bénesse-maremne
+841;domène;domène
+842;entraigues-sur-la-sorgue;entraigues-sur-la-sorgue
+843;pont-cardinet;paris
+844;blanzy;blanzy
+845;moulin-galant;corbeil-essonnes
+846;orgérus-béhoust;orgerus
+847;châtenois-dolaincourt;châtenois
+848;taverny;taverny
+849;mesves-bulcy;mesves-sur-loire
+850;salses;salses-le-château
+851;vigneux-sur-seine;vigneux-sur-seine
+852;artonges;artonges
+853;maromme;notre-dame-de-bondeville
+854;longueville;longueville
+855;metz-ville;metz
+856;montmélian;montmélian
+857;gièvres;gièvres
+858;mennetou-sur-cher;mennetou-sur-cher
+859;sermaise;sermaise
+860;pont-cardinet;paris
+861;cize-bolozon;bolozon
+862;le valdahon camp militaire;valdahon
+863;serquigny;serquigny
+864;bédarrides;bedarrides
+865;mignaloux-nouaillé;mignaloux-beauvoir
+866;bétaille;bétaille
+867;rouessé-vassé;rouessé-vassé
+868;cesson;cesson
+869;les ardoines;vitry-sur-seine
+870;longpré-les-corps-saints;longpré-les-corps-saints
+871;villaines;villaines-sous-bois
+872;la plaine-stade-de-france;saint-denis
+873;noeux-les-mines;noeux-les-mines
+874;selles-st-denis;selles-saint-denis
+875;barentin-embranchement;barentin
+876;kruth;oderen
+877;caussade;caussade
+878;avenue-henri-martin;paris
+879;saulieu;saulieu
+880;fougeray-langon;langon
+881;étaples-le touquet;etaples
+882;coulommiers;coulommiers
+883;st-jean-de-sauves;saint-jean-de-sauves
+884;neuilly-st-front;vichel-nanteuil
+885;mézy;mézy-moulins
+886;st-laurent-d'aigouze;saint-laurent-d'aigouze
+887;chelles-gournay;chelles
+888;belfort;belfort
+889;st-andré;saint-andre-lez-lille
+890;colombes;colombes
+891;alençon;alencon
+892;blodelsheim;blodelsheim
+893;audun-le-roman;audun-le-roman
+894;la gorp;ambares-et-lagrave
+895;sarrebourg;sarrebourg
+896;neuilly-porte-maillot;paris
+897;la possonnière;la possonnière
+898;sarreinsming;sarreinsming
+899;châtillon-sur-seine;sainte-colombe-sur-seine
+900;luzarches;luzarches
+901;la tour-de-salvagny;la tour-de-salvagny
+902;aire-sur-la-lys;aire-sur-la-lys
+903;st-émilion;saint-émilion
+904;monistrol-d'allier;monistrol-d'allier
+905;montigny-sur-loing;montigny-sur-loing
+906;châtel-nomexy;nomexy
+907;naintré-les-barres;naintré
+908;penne;penne-d'agenais
+909;chocques;chocques
+910;varetz;varetz
+911;janzé;janzé
+912;rocamadour-padirac;rocamadour
+913;bischoffsheim;bischoffsheim
+914;parc-des-expositions;villepinte
+915;méry (val-d'oise);mery-sur-oise
+916;sallanches-combloux-megève;sallanches
+917;bétheniville;bétheniville
+918;avesnes;avesnes-sur-helpe
+919;neufchâtel-hardelot;neufchâtel-hardelot
+920;challans;challans
+921;boutigny;boutigny-sur-essonne
+922;dives-sur-mer-port-guillaume;dives-sur-mer
+923;puy-guillaume;puy-guillaume
+924;pibrac;pibrac
+925;estressin;vienne
+926;onville;onville
+927;itxassou;itxassou
+928;aiserey;aiserey
+929;carmaux;carmaux
+930;maulde-mortagne;mortagne-du-nord
+931;l'ardoise;laudun
+932;arenc-euroméditerranée;marseille
+933;béning;béning-lès-saint-avold
+934;nieppe;nieppe
+935;le creusot-montceau-montchanin;écuisses
+936;crouy;crouy
+937;osny;osny
+938;millas;millas
+939;fraisses-unieux;fraisses
+940;polliat;polliat
+941;meuse-tgv;les trois-domaines
+942;valleiry;valleiry
+943;hennebont;hennebont
+944;paris-bercy-rapée;paris
+945;entzheim;entzheim
+946;gennevilliers;gennevilliers
+947;baroncourt;dommary-baroncourt
+948;sorgues-châteauneuf-du-pape;sorgues
+949;lavaufranche;lavaufranche
+950;moustéru;bourbriac
+951;manthes-lapeyrouse;manthes
+952;tonnay-charente;tonnay-charente
+953;montataire;montataire
+954;montreuil-sur-ille;montreuil-sur-ille
+955;vauboyen;jouy-en-josas
+956;limoux-flassian;limoux
+957;tamnay-châtillon;tamnay-en-bazois
+958;dunkerque-port-ouest;loon-plage
+959;le bourget;bourget (le )
+960;rombas-clouange;rombas
+961;carhaix;carhaix-plouguer
+962;massy-palaiseau;massy
+963;fronville;fronville
+964;la bachellerie;saint-rabier
+965;st-ouen-l'aumône-église;saint-ouen-l'aumone
+966;le toec;toulouse
+967;bouthéon;andrezieux-boutheon
+968;prades-molitg-les-bains;prades
+969;wesserling;fellering
+970;les houches;les houches
+971;montaigu-vendée;montaigu
+972;villeneuve-d'ingré;ingré
+973;belvezet;belvezet
+974;sotteville;sotteville-les-rouen
+975;bretenoux-biars;biars-sur-cère
+976;herny;herny
+977;les aubrais-orléans;fleury-les-aubrais
+978;venizel;venizel
+979;aigues-mortes;aigues-mortes
+980;ste-colombe;sainte-colombe
+981;épierre-st-léger;épierre
+982;monteux;monteux
+983;schwindratzheim;schwindratzheim
+984;dijon-ville;dijon
+985;hundling;hundling
+986;guérard-la celle-sur-morin;guérard
+987;jassonneix;meymac
+988;gilly-sur-loire;gilly-sur-loire
+989;l'hermitage-mordelles;l'hermitage
+990;ste-marguerite;comines
+991;les moutiers-en-retz;les moutiers-en-retz
+992;aulnay-sous-bois;aulnay-sous-bois
+993;cloyes;cloyes-sur-le-loir
+994;paris-austerlitz-souterrain;paris
+995;revigny;revigny-sur-ornain
+996;aix-en-provence-tgv;aix-en-provence
+997;la ville-gozet;montlucon
+998;vitry-en-artois;vitry-en-artois
+999;limoux;limoux
+1000;béard;béard
+1001;aubin-st-vaast;aubin-saint-vaast
+1002;abbeville;abbeville
+1003;maubourguet;maubourguet
+1004;dourdan;dourdan
+1005;ballan;ballan-miré
+1006;brignac;royères
+1007;lardenne;toulouse
+1008;feurs;feurs
+1009;chevilly;chevilly
+1010;hirson;hirson
+1011;vitry-la-ville;vitry-la-ville
+1012;écommoy;écommoy
+1013;st-armel;saint-armel
+1014;pérols;pérols-sur-vézère
+1015;esbly;esbly
+1016;templeuve;templeuve
+1017;dormans;dormans
+1018;st-mariens-st-yzan;saint-yzan-de-soudiac
+1019;ballancourt;ballancourt-sur-essonne
+1020;pavilly;pavilly
+1021;grandvillars;grandvillars
+1022;brive-la-gaillarde;brive-la-gaillarde
+1023;cholet;cholet
+1024;versailles-rive-droite;versailles
+1025;prouvy-thiant;prouvy
+1026;st-pierre-lès-elbeuf;saint-pierre-les-elbeuf
+1027;pons;pons
+1028;maule;maule
+1029;gandrange-amnéville;amnéville
+1030;labège-village;labège
+1031;coignières;coignières
+1032;versailles-chantiers;versailles
+1033;marmagne-sous-creusot;marmagne
+1034;brion-montréal-la-cluse;brion
+1035;évian-les-bains;évian-les-bains
+1036;chartrettes;chartrettes
+1037;st-péray;saint-péray
+1038;st-nazaire;saint-nazaire
+1039;munchhausen;munchhausen
+1040;mont-sur-meurthe;rehainviller
+1041;les quatre-roues;pruniers-en-sologne
+1042;reichshoffen-ville;reichshoffen
+1043;breuil-romain;breuil
+1044;longueil-ste-marie;longueil-sainte-marie
+1045;le blanc-mesnil;blanc-mesnil (le )
+1046;ruffec;ruffec
+1047;marquise-rinxent;rinxent
+1048;avord;avord
+1049;chasse-sur-rhône;chasse-sur-rhône
+1050;st-antoine-de-breuilh;saint-antoine-de-breuilh
+1051;baziège;baziège
+1052;ille-sur-têt;ille-sur-têt
+1053;parent-coudes-champeix;parent
+1054;beinheim-embranchement;beinheim
+1055;chaingy-fourneaux-plage;chaingy
+1056;montpon-ménestérol;montpon-ménestérol
+1057;landerneau;landerneau
+1058;génelard;génelard
+1059;les saules;orly
+1060;pezou;pezou
+1061;asnières-sur-seine;asnieres-sur-seine
+1062;condom;condom
+1063;rosny-sur-seine;rosny-sur-seine
+1064;bruyères-sur-oise;bruyères-sur-oise
+1065;ste-anne;pluneret
+1066;rouxmesnil;rouxmesnil-bouteilles
+1067;les bossons;chamonix-mont-blanc
+1068;louvroil;louvroil
+1069;pompey;pompey
+1070;évron;évron
+1071;guignicourt;guignicourt
+1072;beuvry (pas-de-calais);beuvry
+1073;folligny;folligny
+1074;sézanne;sézanne
+1075;st-dizier;saint-dizier
+1076;latour-de-carol-enveitg;enveitg
+1077;plouaret-trégor;le vieux-marché
+1078;rodez;rodez
+1079;lubersac;lubersac
+1080;avesnelles;avesnelles
+1081;la ferté-st-aubin;la ferté-saint-aubin
+1082;meudon-val-fleury;meudon
+1083;paris-nord-surface;paris
+1084;vias;vias
+1085;firminy;firminy
+1086;mauzens-miremont;mauzens-et-miremont
+1087;ebblinghem;ebblinghem
+1088;moulins-sur-allier;yzeure
+1089;pont-de-rungis-aéroport-d'orly;thiais
+1090;baisieux;baisieux
+1091;montaudran;toulouse
+1092;reignier;reignier
+1093;étain;étain
+1094;st-dizier;saint-dizier
+1095;beaumont-le-roger;beaumont-le-roger
+1096;loisy-sur-marne;loisy-sur-marne
+1097;l'escarène;l'escarène
+1098;chambourg;chambourg-sur-indre
+1099;buchères-verrières;buchères
+1100;villefranche-du-périgord;loubejac
+1101;pers;pers
+1102;le thor;le thor
+1103;la brillanne-oraison;la brillanne
+1104;tiercé;tiercé
+1105;hymont-mattaincourt;mattaincourt
+1106;montmoreau;saint-amant
+1107;breitenbach;breitenbach-haut-rhin
+1108;giromagny;giromagny
+1109;st-étienne-carnot;saint-etienne
+1110;éragny-neuville;eragny
+1111;bourges;bourges
+1112;drancy;drancy
+1113;veauche-st-galmier;veauche
+1114;st-nabord;saint-nabord
+1115;morez;morez
+1116;laneuveville-devant-nancy;laneuveville-devant-nancy
+1117;l'arbresle;éveux
+1118;montérolier-buchy;buchy
+1119;châteaubourg;châteaubourg
+1120;lorraine-tgv;louvigny
+1121;st-saviol;saint-saviol
+1122;sermizelles-vézelay;givry
+1123;provins;provins
+1124;bains-les-bains;le clerjus
+1125;anstaing;anstaing
+1126;vis-à-marles;marles-les-mines
+1127;clermont-de-l'oise;clermont
+1128;siorac-en-périgord;siorac-en-périgord
+1129;lezennes;lille
+1130;valence;valence
+1131;aniche;aniche
+1132;ste-colombe-septveilles;sainte-colombe
+1133;couzon (loire);rive-de-gier
+1134;nuits-sous-ravières;nuits
+1135;lavaveix-les-mines;lavaveix-les-mines
+1136;marseille-maritime-canet;marseille
+1137;ste-lizaigne;migny
+1138;st-rome-de-cernon;saint-rome-de-cernon
+1139;uzerche;uzerche
+1140;châtel-censoir;châtel-censoir
+1141;bertry;bertry
+1142;le havre-graville;havre (le )
+1143;erstein;erstein
+1144;montdidier;montdidier
+1145;civrieux-d'azergues;civrieux-d'azergues
+1146;maison-dieu (yonne);sceaux
+1147;hénin-beaumont;henin-beaumont
+1148;colayrac;colayrac-saint-cirq
+1149;frouard;frouard
+1150;berlaimont;berlaimont
+1151;ambazac;ambazac
+1152;cordes-vindrac;vindrac-alayrac
+1153;st-vallier-sur-rhône;saint-vallier
+1154;graffenwald;wittelsheim
+1155;marquillies;marquillies
+1156;rue;rue
+1157;marcelcave;marcelcave
+1158;cinq-mars-la-pile;cinq-mars-la-pile
+1159;st-amand-montrond-orval;orval
+1160;pré-en-pail;pré-en-pail
+1161;chantonnay;chantonnay
+1162;chantonnay;chantonnay
+1163;laqueuille;saint-julien-puy-lavèze
+1164;mulhouse-ville;mulhouse
+1165;marquette;marquette-lez-lille
+1166;chauny;chauny
+1167;laissac;laissac
+1168;montigny-en-ostrevent;montigny-en-ostrevent
+1169;stade-de-france-st-denis;saint-denis
+1170;lille-flandres;lille
+1171;colleville-ste-hélène;colleville
+1172;luzy;luzy
+1173;bourg-en-bresse;bourg-en-bresse
+1174;buzançais;buzançais
+1175;port-ste-marie;port-sainte-marie
+1176;ribécourt;ribécourt-dreslincourt
+1177;ciry-sermoise;ciry-salsogne
+1178;dijon-ville;longvic
+1179;bournezeau;bournezeau
+1180;la chaumusse-fort-du-plasne;la chaumusse
+1181;courbevoie;courbevoie
+1182;cannes-la-bocca;cannes
+1183;arvant;bournoncle-saint-pierre
+1184;rouen-rive-droite;rouen
+1185;dannemarie-velesmes;dannemarie-sur-crète
+1186;la garde;garde (la )
+1187;fains-la-folie;fains-la-folie
+1188;coutances;coutances
+1189;st-michel-valloire;saint-michel-de-maurienne
+1190;pontrieux;pontrieux
+1191;la veuve;la veuve
+1192;touët-de-l'escarène;touët-de-l'escarène
+1193;nanterre-université;nanterre
+1194;l'aiguille;bosmie-l'aiguille
+1195;lunel;lunel
+1196;st-méen;saint-méen-le-grand
+1197;thonon-les-bains;thonon-les-bains
+1198;saulon;bretenière
+1199;alès;ales
+1200;drusenheim;drusenheim
+1201;étrépagny;étrépagny
+1202;mérenvielle;mérenvielle
+1203;err;err
+1204;carnoët-locarn;locarn
+1205;machecoul;machecoul
+1206;limeray;limeray
+1207;la ferté-milon;la ferté-milon
+1208;st-brice-courcelles;saint-brice-courcelles
+1209;hagetmau;hagetmau
+1210;nancy-ville;nancy
+1211;orgon;orgon
+1212;blanquefort;blanquefort
+1213;epiry-montreuillon;epiry
+1214;douzies;maubeuge
+1215;la fère;la fère
+1216;neuvy-sur-loire;neuvy-sur-loire
+1217;faubourg-d'orléans;romorantin-lanthenay
+1218;athies-sous-laon;athies-sous-laon
+1219;kogenheim;kogenheim
+1220;crêches-sur-saône;crêches-sur-saône
+1221;saulxures;colroy-la-roche
+1222;paris-nord-souterraine;paris
+1223;sept-saulx;sept-saulx
+1224;st-gilles-croix-de-vie;saint-gilles-croix-de-vie
+1225;arengosse;arengosse
+1226;fontenay-le-fleury;fontenay-le-fleury
+1227;les pélerins;chamonix-mont-blanc
+1228;chevigny-st-sauveur;crimolois
+1229;tiercelet-villers-la-montagne;tiercelet
+1230;st-hilaire-brizambourg;saint-hilaire-de-villefranche
+1231;moyeuvre-grande;moyeuvre-grande
+1232;tende;tende
+1233;luc-primaube;luc-la-primaube
+1234;ablon;ablon-sur-seine
+1235;dreux;dreux
+1236;stains;stains
+1237;pont-de-buis lès quimerc'h;pont-de-buis-lès-quimerch
+1238;tamnay-châtillon;tamnay-en-bazois
+1239;lagnieu;lagnieu
+1240;hayange;hayange
+1241;ingersheim-cité-scolaire;turckheim
+1242;la faloise;la faloise
+1243;la ferté-sous-jouarre;la ferté-sous-jouarre
+1244;beauvoir-sur-niort;beauvoir-sur-niort
+1245;les bons-pères;rousies
+1246;gérard;montreuil-sous-pérouse
+1247;port-vendres;port-vendres
+1248;vierzon-forges;vierzon
+1249;st-cyr-en-val-la source;saint-cyr-en-val
+1250;libourne;libourne
+1251;ruelle;ruelle-sur-touvre
+1252;aubigné-racan;aubigné-racan
+1253;st-aubin-du-vieil-évreux;le vieil-évreux
+1254;choisy-le-roi;choisy-le-roi
+1255;le monastier;le monastier-pin-moriès
+1256;pougny-chancy;pougny
+1257;mignères-gondréville;mignères
+1258;esvres;esvres
+1259;musée-d'orsay;paris
+1260;courcy-brimont;courcy
+1261;ollioules-sanary-sur-mer;ollioules
+1262;l'isle-jourdain;l' isle-jourdain
+1263;thomery;fontainebleau
+1264;grand'combe-la pise;grand-combe (la)
+1265;meudon;meudon
+1266;les cabrils;roqueredonde
+1267;vitry-sur-seine;vitry-sur-seine
+1268;sées;sées
+1269;chagny;chagny
+1270;mondoubleau;mondoubleau
+1271;paris-batignolles;paris
+1272;le bugue;le bugue
+1273;nérac;nérac
+1274;allassac;allassac
+1275;duttlenheim;dachstein
+1276;négrondes;négrondes
+1277;tournes;tournes
+1278;trappes-marchandises;trappes
+1279;loriol;loriol-sur-drôme
+1280;miramas;miramas
+1281;st-georges-d'aurac;mazeyrat-d'allier
+1282;merxheim;merxheim
+1283;poix-terron;poix-terron
+1284;st-astier;saint-astier
+1285;les flachères;charbonnières-les-bains
+1286;gironde;gironde-sur-dropt
+1287;mont-louis-la cabanasse;la cabanasse
+1288;la verpillière;la verpillière
+1289;guingamp;guingamp
+1290;vonnas;vonnas
+1291;yerres;yerres
+1292;la ferté-imbault;la ferté-imbault
+1293;deluz;deluz
+1294;langogne;langogne
+1295;morlaix;morlaix
+1296;st-brice-sur-vienne;saint-brice-sur-vienne
+1297;luzenac-garanou;garanou
+1298;crépieux-la-pape;rillieux-la-pape
+1299;poussay;poussay
+1300;marmande;marmande
+1301;courtenay;courtenay
+1302;chagny;chagny
+1303;lapeyrouse;lapeyrouse
+1304;st-féliu-d'avall;saint-féliu-d'avall
+1305;le buisson;le buisson-de-cadouin
+1306;aiguebelle;aiguebelle
+1307;bricy-boulay;bricy
+1308;dachstein;molsheim
+1309;lentilly-charpenay;lentilly
+1310;fleurance;fleurance
+1311;cernay;cernay
+1312;marbache;marbache
+1313;wambaix;wambaix
+1314;tours;tours
+1315;st-cyprien-en-dordogne;saint-cyprien
+1316;maurois;honnechy
+1317;st-ouen-l'aumône-liesse;saint-ouen-l'aumone
+1318;valmy;valmy
+1319;houdan;houdan
+1320;villeperdue;villeperdue
+1321;faremoutiers-pommeuse;pommeuse
+1322;montendre;montendre
+1323;savigny-le-temple-nandy;savigny-le-temple
+1324;la grave-d'ambarès-gare-inférieure;ambares-et-lagrave
+1325;gambsheim;gambsheim
+1326;beaulieu-le coudray;le coudray
+1327;champ-de-mars-tour-eiffel;paris
+1328;vernet-d'ariège;le vernet
+1329;cavignac;cavignac
+1330;auboué;auboué
+1331;salomé;salomé
+1332;foucart-alvimare;foucart
+1333;menars;menars
+1334;roscoff;roscoff
+1335;plouvara-plerneuf;plouvara
+1336;la souterraine;la souterraine
+1337;pont-du-château;pont-du-château
+1338;longueau;longueau
+1339;lérouville;lérouville
+1340;bourg-st-maurice;bourg-saint-maurice
+1341;liverdun;liverdun
+1342;douai;douai
+1343;rosières-aux-salines;dombasle-sur-meurthe
+1344;trémentines;trémentines
+1345;moulis-listrac;moulis-en-médoc
+1346;walygator-parc;maizieres-les-metz
+1347;meaux;meaux
+1348;wihr-au-val-soultzbach-les-bains;wihr-au-val
+1349;le dramont;saint-raphael
+1350;st-ours-les-roches;saint-ours
+1351;rivesaltes;rivesaltes
+1352;pierre-bénite;pierre-benite
+1353;marigny;marigny
+1354;mareil-marly;mareil-marly
+1355;montluel;montluel
+1356;livry-gargan;pavillons-sous-bois (les)
+1357;vielmur-sur-agout;vielmur-sur-agout
+1358;fos-coussoul;fos-sur-mer
+1359;delle;delle
+1360;château-gaillard;santilly
+1361;veynes-dévoluy;veynes
+1362;bogny-sur-meuse;bogny-sur-meuse
+1363;st-gilles-du-gard;saint-gilles
+1364;la hutte-coulombiers;coulombiers
+1365;agen;agen
+1366;villefranche-sur-cher;villefranche-sur-cher
+1367;heilly;méricourt-l'abbé
+1368;leffrinckoucke;dunkerque
+1369;aire-sur-l'adour;aire-sur-l'adour
+1370;lamotte-beuvron;lamotte-beuvron
+1371;rueil-malmaison;rueil-malmaison
+1372;aulnat-aéroport;aulnat
+1373;clerval;clerval
+1374;liesle;liesle
+1375;port-la-nouvelle;port-la-nouvelle
+1376;breil-sur-roya;breil-sur-roya
+1377;lamonzie-st-martin;lamonzie-saint-martin
+1378;fretin;fretin
+1379;blois-chambord;blois
+1380;teillé;teillé
+1381;labouheyre;labouheyre
+1382;st-pé-de-bigorre;saint-pé-de-bigorre
+1383;montdauphin-guillestre;eygliers
+1384;la madeleine;madeleine (la )
+1385;clisson;clisson
+1386;st-quentin-fallavier;saint-quentin-fallavier
+1387;st-dié-des-vosges;saint-die
+1388;les sables-blancs;plouharnel
+1389;creil;creil
+1390;yffiniac;yffiniac
+1391;bois-le-roi;bois-le-roi
+1392;montargis;chalette-sur-loing
+1393;sarre-union;sarre-union
+1394;la roche-en-brenil;la roche-en-brenil
+1395;st-martin-du-mont;saint-martin-du-mont
+1396;le mans;mans (le )
+1397;colroy-lubine;colroy-la-grande
+1398;mulhouse-musées (tram/train);mulhouse
+1399;luché;luché-thouarsais
+1400;le péage-de-roussillon;le péage-de-roussillon
+1401;wambrechies;wambrechies
+1402;montcornet;montcornet
+1403;st-étienne-bellevue;saint-etienne
+1404;lesparre;lesparre-médoc
+1405;ussel;ussel
+1406;vignols-st-solve;saint-solve
+1407;châteaulin;châteaulin
+1408;louveciennes;louveciennes
+1409;busigny;busigny
+1410;boissy-l'aillerie;boissy-l'aillerie
+1411;gap;gap
+1412;orchamps;orchamps
+1413;audrieu;audrieu
+1414;cannes-la-bocca;cannes
+1415;gaillon-aubevoye;aubevoye
+1416;mitry-claye;mitry-mory
+1417;vivy;vivy
+1418;méru;meru
+1419;vivoin-beaumont;vivoin
+1420;angers-st-laud;angers
+1421;chamborigaud;chamborigaud
+1422;les lacs;saint-aubin-des-landes
+1423;alès;ales
+1424;lyon-st-paul;lyon
+1425;vimy;vimy
+1426;sélestat;selestat
+1427;st-geniès-de-malgoirès;saint-geniès-de-malgoirès
+1428;mirecourt;mirecourt
+1429;rungis-la-fraternelle;rungis
+1430;dax;saint-paul-les-dax
+1431;savenay;savenay
+1432;bois-colombes;bois-colombes
+1433;loures-barbazan;loures-barousse
+1434;bois-colombes;bois-colombes
+1435;époisses;époisses
+1436;mont-de-marsan;mont-de-marsan
+1437;pernes-camblain;camblain-châtelain
+1438;miramas;miramas
+1439;sibelin;solaize
+1440;santes;santes
+1441;trith-st-léger;trith-saint-léger
+1442;pagny-sur-meuse;pagny-sur-meuse
+1443;noyen;noyen-sur-sarthe
+1444;ailly-sur-somme;ailly-sur-somme
+1445;les longevilles-rochejean;longevilles-mont-d'or
+1446;st-pierre-de-chignac;saint-pierre-de-chignac
+1447;ligugé;ligugé
+1448;bollwiller;bollwiller
+1449;moulins-sur-allier;moulins
+1450;st-leu-d'esserent;saint-leu-d'esserent
+1451;st-lô;saint-lo
+1452;naucelle;naucelle
+1453;anglefort;anglefort
+1454;milhac-d'auberoche;milhac-d'auberoche
+1455;manois;manois
+1456;st-omer;saint-omer
+1457;sucy-bonneuil;sucy-en-brie
+1458;séon-st-henry;marseille
+1459;galuzot;saint-vallier
+1460;champigny-sur-yonne;champigny
+1461;allonnes-boisville;boisville-la-saint-père
+1462;bobigny;bobigny
+1463;mussidan;mussidan
+1464;bobigny;bobigny
+1465;st-hilaire-de-chaléons;saint-hilaire-de-chaléons
+1466;entrains;entrains-sur-nohain
+1467;reims-maison-blanche;reims
+1468;essonnes-robinson;corbeil-essonnes
+1469;bellegarde;bellegarde-sur-valserine
+1470;poissy;poissy
+1471;épanvilliers;blanzay
+1472;allée-de-la-tour-rendez-vous;villemomble
+1473;marssac-sur-tarn;marssac-sur-tarn
+1474;ébersviller;ébersviller
+1475;luxeuil-les-bains;luxeuil-les-bains
+1476;gadagne;châteauneuf-de-gadagne
+1477;sarreguemines;sarreguemines
+1478;nançois-tronville;nançois-sur-ornain
+1479;brignoud;villard-bonnot
+1480;les versannes;la douze
+1481;st-florentin-vergigny;vergigny
+1482;sennecey-le-grand;sennecey-le-grand
+1483;buzy-en-béarn;buzy
+1484;nesle;nesle
+1485;sarralbe;sarralbe
+1486;couëron;coueron
+1487;limoges-bénédictins;limoges
+1488;le molay-littry;le molay-littry
+1489;auneau;roinville
+1490;strasbourg-cronenbourg;strasbourg
+1491;arc-et-senans;arc-et-senans
+1492;la couronne-carro;martigues
+1493;lavaufranche;lavaufranche
+1494;bueil;bueil
+1495;tincques;tincques
+1496;scherwiller;scherwiller
+1497;moult-argences;moult
+1498;langeac;langeac
+1499;celon;celon
+1500;la garenne-colombes;colombes
+1501;paris-montparnasse;paris
+1502;ham;muille-villette
+1503;la grande-paroisse;la grande-paroisse
+1504;le méridien;charbonnières-les-bains
+1505;la jarrie;la jarrie
+1506;pierrelaye;pierrelaye
+1507;étang;étang-sur-arroux
+1508;le raincy-villemomble-montfermeil;raincy (le )
+1509;vitrolles-aéroport-marseille-provence;vitrolles
+1510;gournay-ferrières;ferrières-en-bray
+1511;héricy;héricy
+1512;gestel;gestel
+1513;le grand-jardin;lisieux
+1514;verneuil-sur-vienne;verneuil-sur-vienne
+1515;wissous;wissous
+1516;roubaix;roubaix
+1517;chanac;esclanèdes
+1518;reims-st-léonard;saint-léonard
+1519;estrées-st-denis;estrées-saint-denis
+1520;fontainebleau-avon;avon
+1521;ceintrey;ceintrey
+1522;pithiviers;pithiviers
+1523;chamelet;chamelet
+1524;ur-les-escaldes;ur
+1525;trappes;trappes
+1526;la borne-blanche;orry-la-ville
+1527;beau-marais;calais
+1528;feyzin;feyzin
+1529;carignan;carignan
+1530;mamirolle;mamirolle
+1531;lézignan (aude);lezignan-corbieres
+1532;brebières-sud;brebières
+1533;calonne-ricouart;calonne-ricouart
+1534;port-de-piles;la celle-saint-avant
+1535;la villette-st-prest;saint-prest
+1536;le muy;le muy
+1537;donges;donges
+1538;lutterbach (haut-rhin);lutterbach
+1539;courcelles-le-comte;hamelincourt
+1540;gièvres;gièvres
+1541;bessancourt;bessancourt
+1542;sillé-le-guillaume;saint-rémy-de-sillé
+1543;clamecy;clamecy
+1544;pont-du-château (fret);pont-du-château
+1545;lyon-perrache;lyon
+1546;plouigneau;plouigneau
+1547;la pomme;marseille
+1548;vanves-malakoff;vanves
+1549;bolquère-eyne;bolquère
+1550;clichy-levallois;levallois-perret
+1551;villefranche-sur-saône;villefranche-sur-saone
+1552;lafarge;saint-hilaire-les-places
+1553;morre;morre
+1554;couzon-au-mont-d'or;couzon-au-mont-d'or
+1555;cusset;cusset
+1556;lalande-église;toulouse
+1557;les sables-d'olonne;sables-d'olonne (les)
+1558;metz-devant-les-ponts;metz
+1559;broons;broons
+1560;ivry-sur-seine;ivry-sur-seine
+1561;longuyon;longuyon
+1562;le val-d'or;saint-cloud
+1563;bretoncelles;bretoncelles
+1564;crépy-en-valois;crepy-en-valois
+1565;les laumes-alésia;venarey-les-laumes
+1566;maizières-lès-metz;maizieres-les-metz
+1567;farbus;farbus
+1568;étréchy;étréchy
+1569;gan;gan
+1570;st-georges-de-luzençon;saint-georges-de-luzençon
+1571;st-jodard;saint-jodard
+1572;beautiran;beautiran
+1573;pont-melvez;pont-melvez
+1574;la boissière;concarneau
+1575;olonne-sur-mer;olonne-sur-mer
+1576;la suze;la suze-sur-sarthe
+1577;mareil-sur-mauldre;mareil-sur-mauldre
+1578;avenue-du-président-kennedy-radio-france;paris
+1579;st-maur-sur-indre;saint-maur
+1580;luçay-le-mâle;luçay-le-mâle
+1581;isbergues;isbergues
+1582;allenc;allenc
+1583;avallon;avallon
+1584;saubusse-les-bains;saubusse
+1585;bavay;bavay
+1586;beauvais;beauvais
+1587;st-denis-près-martel;saint-denis-lès-martel
+1588;pagny-sur-meuse;pagny-sur-meuse
+1589;lisle-sur-tarn;lisle-sur-tarn
+1590;exideuil-sur-vienne;exideuil
+1591;st-andré;lambersart
+1592;juvisy;juvisy-sur-orge
+1593;st-claude;saint-claude
+1594;carpentras;carpentras
+1595;montaigut;montaigut-le-blanc
+1596;thaon;thaon-les-vosges
+1597;casino-lacroix-laval;marcy-l'étoile
+1598;berthelming;berthelming
+1599;martigues;martigues
+1600;patay;patay
+1601;châtillon-sur-indre;châtillon-sur-indre
+1602;nice-st-roch;nice
+1603;barentin-embranchement;barentin
+1604;rumilly;rumilly
+1605;limoges-puy-imbert;limoges
+1606;troyes;saint-julien-les-villas
+1607;les bardys;saint-priest-taurion
+1608;sathonay-rillieux;rillieux-la-pape
+1609;strasbourg-cronenbourg;strasbourg
+1610;lens;avion
+1611;la voulte-sur-rhône;la voulte-sur-rhône
+1612;fos-viguerat;fos-sur-mer
+1613;st-paul-de-varax;saint-paul-de-varax
+1614;chedde;passy
+1615;paris-tolbiac;paris
+1616;orgères;orgères-en-beauce
+1617;romilly-la-puthenaye;romilly-la-puthenaye
+1618;givors-canal;givors
+1619;les aubrais-orléans;fleury-les-aubrais
+1620;châtelaillon;châtelaillon-plage
+1621;angers-maître-école;angers
+1622;thourotte;thourotte
+1623;chaugey;losne
+1624;romanèche-thorins;romanèche-thorins
+1625;lille-sud;lille
+1626;marseille-blancarde;marseille
+1627;bourbourg;bourbourg
+1628;gorges;gorges
+1629;rémilly;rémilly
+1630;doulon;nantes
+1631;épône-mézières;épône
+1632;coudekerque-branche;coudekerque-branche
+1633;corcy;corcy
+1634;st-thégonnec;saint-thégonnec
+1635;onnaing;onnaing
+1636;coarraze-nay;coarraze
+1637;marmagne-sous-creusot;marmagne
+1638;formerie;formerie
+1639;auvers-sur-oise;auvers-sur-oise
+1640;avranches;avranches
+1641;carry-le-rouet;carry-le-rouet
+1642;gourdon;gourdon
+1643;dieppe;dieppe
+1644;phalempin;phalempin
+1645;st-chamas;saint-chamas
+1646;vaudagne;les houches
+1647;pontmort;cellule
+1648;lille-champ-de-mars;ronchin
+1649;st-germain-du-puy;saint-germain-du-puy
+1650;la redonne-ensuès;ensuès-la-redonne
+1651;st-lothain;saint-lothain
+1652;ludon;ludon-médoc
+1653;revel-sorèze;revel
+1654;auneau;roinville
+1655;la bernerie-en-retz;la bernerie-en-retz
+1656;gardonne;gardonne
+1657;bully-grenay;grenay
+1658;saône;saône
+1659;aurillac;aurillac
+1660;bruges;bruges
+1661;lavannes-caurel;caurel
+1662;verneuil-sur-avre;verneuil-sur-avre
+1663;joeuf;joeuf
+1664;fons-st-mamert;fons
+1665;carpentras;carpentras
+1666;abbaretz;abbaretz
+1667;avoudrey;avoudrey
+1668;lieusaint-moissy;lieusaint
+1669;la madeleine;madeleine (la )
+1670;st-pierre-le-viger-fontaine-le-dun;saint-pierre-le-viger
+1671;châteaubriant;chateaubriant
+1672;salindres;salindres
+1673;la bassée;la bassée
+1674;bréauté-beuzeville;bréauté
+1675;groisy-thorens-la-caille;groisy
+1676;st-antoine (mr);marseille
+1677;st-maurice-de-beynost;saint-maurice-de-beynost
+1678;laragne;laragne-montéglin
+1679;clermont-la pardieu;clermont-ferrand
+1680;givors;givors
+1681;campagnac-st-geniez;campagnac
+1682;thiviers;thiviers
+1683;boulogne-tintelleries;boulogne-sur-mer
+1684;st-blaise-la-roche-poutay;saint-blaise-la-roche
+1685;st-césaire;nimes
+1686;combs-la-ville-quincy;combs-la-ville
+1687;nieul;nieul
+1688;marquixanes;marquixanes
+1689;st-égrève-st-robert;saint-egreve
+1690;mouroux;mouroux
+1691;sully-sur-loire;sully-sur-loire
+1692;buzy (meuse);buzy-darmont
+1693;chantenay-st-imbert;chantenay-saint-imbert
+1694;sallaumines;sallaumines
+1695;juziers;juziers
+1696;clères;beautot
+1697;conflans-ste-honorine;conflans-sainte-honorine
+1698;brétigny;bretigny-sur-orge
+1699;aigrefeuille-le thou;le thou
+1700;roquesérière;buzet-sur-tarn
+1701;montrabé;montrabé
+1702;st-germain-en-laye-bel-air-fourqueux;saint-germain-en-laye
+1703;prissé-la-charrière;prissé-la-charrière
+1704;port-st-louis-du-rhône;port-saint-louis-du-rhone
+1705;survilliers-fosses;fosses
+1706;val-de-vesle;val-de-vesle
+1707;gravenchon-port-jérome;notre-dame-de-gravenchon
+1708;vias;vias
+1709;champagné;champagné
+1710;castelnau-d'estrétefonds;castelnau-d'estrétefonds
+1711;folligny;folligny
+1712;marly-les-valenciennes;marly
+1713;anor;anor
+1714;grand-quevilly;grand-quevilly (le )
+1715;vervins;vervins
+1716;fos-graveleau;fos-sur-mer
+1717;besançon-st-fergeux;besancon
+1718;terrenoire;saint-etienne
+1719;pihen;pihen-lès-guînes
+1720;bouilly-roncenay;roncenay
+1721;oloron-ste-marie;oloron-sainte-marie
+1722;laveline-devant-bruyères;laveline-devant-bruyères
+1723;villers-cotterêts;villers-cotterêts
+1724;dreux;dreux
+1725;loches;loches
+1726;us;us
+1727;rixheim;rixheim
+1728;st-étienne-le clapier;saint-etienne
+1729;presles-courcelles;presles
+1730;louhossoa;louhossoa
+1731;montmédy;montmédy
+1732;lourches;roeulx
+1733;commentry;commentry
+1734;abancourt;abancourt
+1735;marseille-st-charles;marseille
+1736;sommesous;sommesous
+1737;champagne-ardenne-tgv;bezannes
+1738;trogues;trogues
+1739;châtenois (bas-rhin);châtenois
+1740;st-clair-les-roches;saint-clair-du-rhône
+1741;prin-deyrançon;prin-deyrançon
+1742;chirac;chirac
+1743;sommery;sommery
+1744;chevillon;chevillon
+1745;nîmes-pont du gard;manduel
+1746;le plessis-chenet;le coudray-montceaux
+1747;chamousset;chamousset
+1748;azay-sur-cher;montlouis-sur-loire
+1749;razac;razac-sur-l'isle
+1750;liart;liart
+1751;leforest;leforest
+1752;hombourg-budange;hombourg-budange
+1753;stains-cerisaie tt;stains
+1754;la meyze;la meyze
+1755;st-louis-la-chaussée;saint-louis
+1756;st-julien-du-sault;saint-julien-du-sault
+1757;polisot;polisot
+1758;fontenay-le-comte;fontenay-le-comte
+1759;perrignier;perrignier
+1760;pierreville;pierreville
+1761;meung-sur-loire;meung-sur-loire
+1762;saulnes;saulnes
+1763;grenoble;grenoble
+1764;pau;pau
+1765;bonneville;bonneville
+1766;isles-armentières;isles-les-meldeuses
+1767;longjumeau;longjumeau
+1768;chauffailles;chauffailles
+1769;breteuil-ville;breteuil
+1770;mullerhof;urmatt
+1771;châtillon-sur-seine;châtillon-sur-seine
+1772;st-germain-des-fossés;saint-germain-des-fossés
+1773;échirolles;echirolles
+1774;lothiers;tendu
+1775;montferrand-thoraise;montferrand-le-château
+1776;école-valentin;école-valentin
+1777;caulnes;caulnes
+1778;jalons-les-vignes;jâlons
+1779;dorlisheim;dorlisheim
+1780;argentan;moulins-sur-orne
+1781;hirson;hirson
+1782;laboissière-le-déluge;laboissière-en-thelle
+1783;la seyne-six-fours;seyne-sur-mer (la )
+1784;montpellier-st-roch;montpellier
+1785;campagne;campagne-sur-aude
+1786;herrlisheim-près-colmar;herrlisheim-près-colmar
+1787;fontaines-mercurey;fontaines
+1788;montbrison;montbrison
+1789;pointe-de-grave;le verdon-sur-mer
+1790;domont;domont
+1791;la frette-montigny;la frette-sur-seine
+1792;bon-encontre;boé
+1793;st-rambert-d'albon;saint-rambert-d'albon
+1794;les martres-de-veyre;les martres-de-veyre
+1795;longueil-annel;longueil-annel
+1796;berthelming;berthelming
+1797;montoir-de-bretagne;montoir-de-bretagne
+1798;ker-lann;bruz
+1799;mertzwiller;mertzwiller
+1800;rixheim;rixheim
+1801;sceaux-boësse;boëssé-le-sec
+1802;le cailar;le cailar
+1803;veigné;veigné
+1804;culmont-chalindrey;chalindrey
+1805;st-macaire;saint-macaire
+1806;rosières-aux-salines;dombasle-sur-meurthe
+1807;fos-mériquette;fos-sur-mer
+1808;frontignan;frontignan
+1809;machilly;machilly
+1810;épouville;épouville
+1811;chasseneuil (vienne);chasseneuil-du-poitou
+1812;salaise;salaise-sur-sanne
+1813;roumazières-loubert;roumazières-loubert
+1814;st-julien-clénay;saint-julien
+1815;ogeu-les-bains;ogeu-les-bains
+1816;st-avre-la-chambre;saint-avre
+1817;jarnac;gondeville
+1818;masseret;masseret
+1819;pomas;pomas
+1820;hermes-berthecourt;hermes
+1821;vias;vias
+1822;mézériat;mézériat
+1823;auxy-juranville;auxy
+1824;pas-des-lanciers;marignane
+1825;monnaie;monnaie
+1826;nice-st-augustin;nice
+1827;auneau;roinville
+1828;aulnay-sous-bois;aulnay-sous-bois
+1829;théoule-sur-mer;théoule-sur-mer
+1830;garchizy;garchizy
+1831;st-sulpice;saint-sulpice
+1832;thiers;thiers
+1833;altkirch;altkirch
+1834;chavanges;chavanges
+1835;rassuen;istres
+1836;reichshoffen-usines;reichshoffen
+1837;geispolsheim;geispolsheim
+1838;praye-sous-vaudémont;praye
+1839;montescourt;montescourt-lizerolles
+1840;vif;vif
+1841;dirinon loperhet;loperhet
+1842;pleyber-christ;pleyber-christ
+1843;générac;générac
+1844;st-sulpice-auteuil;saint-sulpice
+1845;villers-les-pots;villers-les-pots
+1846;bagnac;bagnac-sur-célé
+1847;st-jean-pied-de-port;saint-jean-pied-de-port
+1848;champagne-sur-seine;champagne-sur-seine
+1849;malesherbes;malesherbes
+1850;loos-lez-lille;loos
+1851;moirans;moirans
+1852;bassens-appontements;lormont
+1853;sauto;sauto
+1854;saleux;saleux
+1855;brienon;brienon-sur-armançon
+1856;armentières;armentieres
+1857;farébersviller;farébersviller
+1858;maubeuge;maubeuge
+1859;épinay-villetaneuse;epinay-sur-seine
+1860;bazeilles;bazeilles
+1861;hayange;hayange
+1862;ax-les-thermes;ax-les-thermes
+1863;roye (somme);roye
+1864;st-chamond;saint-chamond
+1865;orly-ville;orly
+1866;les églisottes;les églisottes-et-chalaures
+1867;vougeot-gilly-lès-cîteaux;gilly-lès-cîteaux
+1868;ingrandes-sur-loire;ingrandes
+1869;lisieux;lisieux
+1870;charmant;charmant
+1871;bagnols-chadenet;chadenet
+1872;tgv haute-picardie;ablaincourt-pressoir
+1873;caffiers;caffiers
+1874;villeneuve-la-guyard;villeneuve-la-guyard
+1875;neuville-sur-sarthe;neuville-sur-sarthe
+1876;dinan;dinan
+1877;commercy;commercy
+1878;carnoules;carnoules
+1879;st-rambert-en-bugey;saint-rambert-en-bugey
+1880;hymont-mattaincourt;hymont
+1881;le lioran;laveissière
+1882;kalhausen;kalhausen
+1883;pontcharra-sur-breda-allevard;pontcharra
+1884;la haye-descartes;descartes
+1885;étampes;etampes
+1886;gignac-cressensac;gignac
+1887;bellegarde;bellegarde-sur-valserine
+1888;fréjus;frejus
+1889;rognac;rognac
+1890;gaillac;gaillac
+1891;villetaneuse-université tt;villetaneuse
+1892;st-sébastien-frêne-rond;saint-sebastien-sur-loire
+1893;montry-condé;montry
+1894;viaduc-ste-marie;les houches
+1895;guéret;gueret
+1896;pontailler-sur-saône;maxilly-sur-saône
+1897;montluçon-eau;montlucon
+1898;alençon;alencon
+1899;jonzac;jonzac
+1900;st-étienne-pont-de-l'âne;saint-etienne
+1901;vire;vire
+1902;javel;paris
+1903;asnières-lès-bourges;bourges
+1904;noizay;noizay
+1905;voves;voves
+1906;thiaville;thiaville-sur-meurthe
+1907;rémy;remy
+1908;boisset;boisset
+1909;ranchot;ranchot
+1910;st-germain-sur-meuse;saint-germain-sur-meuse
+1911;aiguebelette-le-lac;aiguebelette-le-lac
+1912;bazancourt;bazancourt
+1913;st-vit;saint-vit
+1914;le luc-et-le cannet;le cannet-des-maures
+1915;la ciotat;ciotat (la)
+1916;clamart;clamart
+1917;aumont-aubrac;aumont-aubrac
+1918;montierchaume;montierchaume
+1919;cergy-st-christophe;cergy
+1920;la norville-st-germain-lès-arpajon;la norville
+1921;lizy-sur-ourcq;lizy-sur-ourcq
+1922;baleycourt;verdun
+1923;la ferté-hauterive;la ferté-hauterive
+1924;fléré-la-rivière;fléré-la-rivière
+1925;mende;mende
+1926;loison-sous-lens;loison-sous-lens
+1927;tavaux-solvay;tavaux
+1928;luc;luc
+1929;viroflay-rive-gauche;viroflay
+1930;janville;le puiset
+1931;st-yrieix;saint-yrieix-la-perche
+1932;rolleville;rolleville
+1933;saillans;saillans
+1934;alixan-châteauneuf-d'isère;châteauneuf-sur-isère
+1935;kédange;kédange-sur-canner
+1936;esquelbecq;esquelbecq
+1937;les perrières;nevers
+1938;mantes-la-jolie;mantes-la-ville
+1939;andrésy;andresy
+1940;pertuis;pertuis
+1941;la chapelle-st-ursin-morthomiers;la chapelle-saint-ursin
+1942;leval;leval
+1943;belfort;danjoutin
+1944;dunkerque;dunkerque
+1945;sathonay-rillieux;rillieux-la-pape
+1946;pont-de-l'arche;alizay
+1947;lyon-gorge-de-loup;lyon
+1948;givors;givors
+1949;mirebeau-sur-bèze;mirebeau-sur-bèze
+1950;urçay;la perche
+1951;montfort-sur-meu;montfort-sur-meu
+1952;pont-de-sallaumines;sallaumines
+1953;hunspach;hunspach
+1954;montreuil-belfroi;montreuil-juigné
+1955;les mais;callac
+1956;aillevillers;corbenay
+1957;cessieu;cessieu
+1958;aubiat;aubiat
+1959;hesdigneul;hesdigneul-lès-boulogne
+1960;portet-st-simon;portet-sur-garonne
+1961;corbeil-essonnes;corbeil-essonnes
+1962;st-julien-montricher;saint-julien-mont-denis
+1963;abancourt;abancourt
+1964;mignaloux-nouaillé;mignaloux-beauvoir
+1965;is-sur-tille;marcilly-sur-tille
+1966;viévola;tende
+1967;espéraza;espéraza
+1968;cramoisy;cramoisy
+1969;kilstett;kilstett
+1970;st-martin-le-beau;saint-martin-le-beau
+1971;chalon-sur-saône;chalon-sur-saone
+1972;st-roch (somme);amiens
+1973;st-laurent-du-var;saint-laurent-du-var
+1974;montrouge-châtillon;chatillon
+1975;groslay;groslay
+1976;bègles;begles
+1977;niolon;le rove
+1978;léchelle (seine-et-marne);léchelle
+1979;st-pierre-du-vauvray;saint-pierre-du-vauvray
+1980;quiberon;quiberon
+1981;le pénity;duault
+1982;fontpédrouse-st-thomas-les-bains;fontpédrouse
+1983;noyelles-sur-mer;noyelles-sur-mer
+1984;moirans;moirans
+1985;blanc-misseron;crespin
+1986;st-nom-la-bretêche-forêt-de-marly;l'étang-la-ville
+1987;courville-sur-eure;courville-sur-eure
+1988;brens-virignin;brens
+1989;paris-nord-souterraine;paris
+1990;plougonver;plougonver
+1991;pontgouin;pontgouin
+1992;sévérac-le-château;sévérac-le-château
+1993;meyrargues;meyrargues
+1994;fellering;fellering
+1995;villeneuve-la-comtesse;villeneuve-la-comtesse
+1996;neuville-aux-bois;neuville-aux-bois
+1997;thann-centre;thann
+1998;hautmont;hautmont
+1999;neuves-maisons;neuves-maisons
+2000;tarascon-sur-ariège;tarascon-sur-ariège
+2001;selommes;selommes
+2002;laroque;laroque-timbaut
+2003;fontaine-le-port;fontaine-le-port
+2004;elne;elne
+2005;pont-de-veyle;crottet
+2006;grigny-centre;grigny
+2007;crépy-couvron;crépy
+2008;gazinet-cestas;cestas
+2009;alland'huy;alland'huy-et-sausseuil
+2010;rabastens-couffouleux;coufouleux
+2011;ennevelin;templeuve
+2012;marseille-prado;marseille
+2013;dole;dole
+2014;saincaize;saincaize-meauce
+2015;dieulouard;dieulouard
+2016;gourland;guingamp
+2017;vallorcine;vallorcine
+2018;bressuire;bressuire
+2019;issy-val-de-seine;issy-les-moulineaux
+2020;chouzy;chouzy-sur-cisse
+2021;paul-émile-victor;champagnole
+2022;st-laurent-de-la-prée;saint-laurent-de-la-prée
+2023;dommartin-lissieu;dommartin
+2024;montdidier;montdidier
+2025;vinay;vinay
+2026;lamarche;lamarche
+2027;pont-de-roide;pont-de-roide
+2028;tenay-hauteville;tenay
+2029;moreuil;moreuil
+2030;ugine;ugine
+2031;lurbe-st-christau;lurbe-saint-christau
+2032;bergerac;bergerac
+2033;st-sulpice-izon;saint-sulpice-et-cameyrac
+2034;st-loubès;saint-loubes
+2035;uzel;saint-hervé
+2036;breteuil;breteuil
+2037;la ferté-alais;la ferté-alais
+2038;boussay-la bruffière;boussay
+2039;châtelaudren-plouagat;plouagat
+2040;invalides;paris
+2041;eymoutiers-vassivière;eymoutiers
+2042;éguzon;éguzon-chantôme
+2043;banassac-la canourgue;banassac
+2044;coussac-bonneval;coussac-bonneval
+2045;thésée;thésée
+2046;siorac-en-périgord;siorac-en-périgord
+2047;peltre;peltre
+2048;kerhostin;saint-pierre-quiberon
+2049;chemillé;chemillé
+2050;labège-innopole;labège
+2051;cannes-marchandises;cannes
+2052;haguenau;schweighouse-sur-moder
+2053;liévin;lievin
+2054;elbeuf-st-aubin;saint-aubin-les-elbeuf
+2055;santeuil-le perchay;santeuil
+2056;sous-le-bois;maubeuge
+2057;la vancelle;kintzheim
+2058;dompierre-sur-mer;dompierre-sur-mer
+2059;chemin-d'antony;antony
+2060;varades-st-florent-le-vieil;varades
+2061;molinges;molinges
+2062;écouen-ézanville;ezanville
+2063;charleville-mézières;charleville-mezieres
+2064;meximieux-pérouges;meximieux
+2065;mennessis;mennessis
+2066;issoire;issoire
+2067;rouillé;rouillé
+2068;baccarat;baccarat
+2069;vichy;vichy
+2070;dambach-la-ville;dambach-la-ville
+2071;rethel;rethel
+2072;roissy-aéroport-charles-de-gaulle 2-tgv (rer);le mesnil-amelot
+2073;perpignan;perpignan
+2074;asnières-sur-seine;asnieres-sur-seine
+2075;bonson;bonson
+2076;thuès;thuès-entre-valls
+2077;strasbourg-ville;strasbourg
+2078;pontrieux-halte;pontrieux
+2079;calais-ville;calais
+2080;bailleul;bailleul
+2081;mantes-station;mantes-la-jolie
+2082;chamousset;chamousset
+2083;wattignies-templemars;templemars
+2084;metz-nord;metz
+2085;metz-chambière;metz
+2086;la chaux-des-crotenay;chaux-des-crotenay
+2087;st-aulaire;saint-aulaire
+2088;arbanats;arbanats
+2089;pont-audemer;pont-audemer
+2090;st-michel-sur-charente;angouleme
+2091;bigny;vallenay
+2092;gray;arc-lès-gray
+2093;anthéor-cap-roux;saint-raphael
+2094;ste-marthe-en-provence;marseille
+2095;valenciennes;valenciennes
+2096;étival-clairefontaine;étival-clairefontaine
+2097;montauban-de-bretagne;montauban-de-bretagne
+2098;vire;vire
+2099;castillon;castillon-la-bataille
+2100;port-st-père-st-mars;port-saint-père
+2101;sessenheim;sessenheim
+2102;pagny-sur-moselle;pagny-sur-moselle
+2103;jarville-la-malgrange;jarville-la-malgrange
+2104;jarville-la-malgrange;jarville-la-malgrange
+2105;st-cyr;saint-cyr-l'ecole
+2106;st-cyr;saint-cyr-l'ecole
+2107;landry;landry
+2108;chaponval;auvers-sur-oise
+2109;langogne;langogne
+2110;avrigny;avrigny
+2111;nort-sur-erdre;nort-sur-erdre
+2112;longueau;boves
+2113;st-éloy;saint-éloy-les-mines
+2114;muhlbach-sur-munster;muhlbach-sur-munster
+2115;argenteuil gc;argenteuil
+2116;zetting;zetting
+2117;villers-st-paul;villers-saint-paul
+2118;vitré;vitre
+2119;pont-ste-maxence;pont-sainte-maxence
+2120;aspres-sur-buëch;aspres-sur-buëch
+2121;suresnes-mont-valérien;suresnes
+2122;vallon;vallon-en-sully
+2123;limoges-montjovis;limoges
+2124;herrlisheim;herrlisheim
+2125;somain;somain
+2126;broye;saint-symphorien-de-marmagne
+2127;aubagne;aubagne
+2128;villereversure;villereversure
+2129;fumay;fumay
+2130;serqueux;serqueux
+2131;vauvert;vauvert
+2132;bedous;bedous
+2133;montlouis;montlouis-sur-loire
+2134;lumes;lumes
+2135;st-georges-de-reneins;saint-georges-de-reneins
+2136;coligny (marne);val-des-marais
+2137;monsempron-libos;monsempron-libos
+2138;sauveterre-la-lémance;sauveterre-la-lémance
+2139;gramat;gramat
+2140;fismes;fismes
+2141;bitche-camp;bitche
+2142;avenue-foch;paris
+2143;heilles-mouchy;heilles
+2144;grande-synthe;grande-synthe
+2145;étaples-le touquet;etaples
+2146;blanzy-poste;blanzy
+2147;monestier-de-clermont;monestier-de-clermont
+2148;breil-sur-roya;breil-sur-roya
+2149;bischwiller;bischwiller
+2150;fort-l'écluse-collonges;collonges
+2151;dissay;dissay
+2152;st-louis;saint-louis
+2153;hirson;hirson
+2154;lyon-guillotière;lyon
+2155;sarlat;sarlat-la-caneda
+2156;givors-canal;givors
+2157;le theil-la rouge;la rouge
+2158;thionville;thionville
+2159;trèbes;trèbes
+2160;royat-chamalières;chamalieres
+2161;durtol-nohanent;durtol
+2162;st-symphorien-de-marmagne;saint-symphorien-de-marmagne
+2163;lillers;lillers
+2164;iwuy;iwuy
+2165;metzeral;metzeral
+2166;antibes;antibes
+2167;billy-montigny;billy-montigny
+2168;nointel-mours;nointel
+2169;verdun;verdun
+2170;coulanges-sur-yonne;crain
+2171;le pallet;le pallet
+2172;cherbourg;cherbourg
+2173;amagne-lucquy;lucquy
+2174;courthézon;courthezon
+2175;longroy-gamaches;longroy
+2176;pontchâteau;pontchâteau
+2177;beaurepaire;beaurepaire
+2178;anvin;anvin
+2179;st-cloud;saint-cloud
+2180;melun;melun
+2181;morières-lès-avignon;morières-lès-avignon
+2182;fos-sur-mer;port-de-bouc
+2183;notre-dame-d'oé;notre-dame-d'oé
+2184;port-brillet;port-brillet
+2185;tournus;tournus
+2186;la chapelle-centre;chapelle-sur-erdre (la )
+2187;la jonchère;la jonchère-saint-maurice
+2188;conlie;conlie
+2189;lunel-viel;lunel-viel
+2190;peillon-ste-thècle;peillon
+2191;béna-fanes;enveitg
+2192;chaumont-en-vexin;chaumont-en-vexin
+2193;jacques-monod-la demi-lieue;montivilliers
+2194;l'isle-adam-parmain;parmain
+2195;beuvrages;beuvrages
+2196;la taye;saint-georges-sur-eure
+2197;solférino;solférino
+2198;bécon-les-bruyères;courbevoie
+2199;st-amarin;saint-amarin
+2200;solliès-pont;sollies-pont
+2201;marolles-en-hurepoix;marolles-en-hurepoix
+2202;penne;penne-d'agenais
+2203;avion;avion
+2204;étainhus-st-romain;étainhus
+2205;vaas;vaas
+2206;aubazine-st-hilaire;saint-hilaire-peyroux
+2207;bayeux;bayeux
+2208;fauga;le fauga
+2209;st-marcel-en-dombes;saint-marcel
+2210;lons-le-saunier;lons-le-saunier
+2211;cernay;ermont
+2212;lutzelbourg;lutzelbourg
+2213;bacouël;bacouel-sur-selle
+2214;oberhoffen-camp-de-haguenau;oberhoffen-sur-moder
+2215;pouxeux;pouxeux
+2216;jaunay-clan;jaunay-clan
+2217;banyuls-sur-mer;banyuls-sur-mer
+2218;héming;héming
+2219;bordeaux-st-jean;bordeaux
+2220;drap-cantaron;cantaron
+2221;st-lô;saint-lo
+2222;mareuil-sur-ourcq;mareuil-sur-ourcq
+2223;ormoy-villers;ormoy-villers
+2224;eu;eu
+2225;la baule-les-pins;baule-escoublac (la )
+2226;dieppe;dieppe
+2227;la loupe;la loupe
+2228;portets;portets
+2229;callac;callac
+2230;champ-de-courses-d'enghien;soisy-sous-montmorency
+2231;aix-en-provence-marchandises;aix-en-provence
+2232;morannes;morannes
+2233;ceilhes-roqueredonde;roqueredonde
+2234;labège-innopole;labège
+2235;briare;briare
+2236;châtillon-d'azergues;châtillon
+2237;les trillers;vaux
+2238;riom-châtel-guyon;riom
+2239;le creusot-montceau-montchanin;écuisses
+2240;villeneuve-lès-maguelone;villeneuve-lès-maguelone
+2241;st-martin-de-crau;saint-martin-de-crau
+2242;gommiers;terminiers
+2243;ars-sur-moselle;ars-sur-moselle
+2244;st-gaudens;saint-gaudens
+2245;st-agne;toulouse
+2246;orthez;orthez
+2247;chasseradès;chasseradès
+2248;bouzonville;bouzonville
+2249;strasbourg-neudorf;strasbourg
+2250;ste-christie;sainte-christie
+2251;bessines;bessines-sur-gartempe
+2252;pont-du-casse;pont-du-casse
+2253;ludres;ludres
+2254;futuroscope;chasseneuil-du-poitou
+2255;lesseux-frapelle;lusse
+2256;paris-nord;paris
+2257;azerailles;azerailles
+2258;brou;brou
+2259;marseille-blancarde;marseille
+2260;doulon;nantes
+2261;questembert;questembert
+2262;le teil;le teil
+2263;pléchâtel;pléchâtel
+2264;pringy;pringy
+2265;st-victurnien;saint-victurnien
+2266;les aubrais-orléans;fleury-les-aubrais
+2267;lutterbach (haut-rhin);lutterbach
+2268;peille;peille
+2269;rully;rully
+2270;roissy-aéroport-charles-de-gaulle 1;tremblay-en-france
+2271;paimpol;paimpol
+2272;autrey-lès-gray;autrey-lès-gray
+2273;la bouteille;la bouteille
+2274;poix-de-picardie;poix-de-picardie
+2275;coudekerque-branche;coudekerque-branche
+2276;chabris;chabris
+2277;virville-manneville;virville
+2278;le havre-graville;havre (le )
+2279;deuil-montmagny;deuil-la-barre
+2280;bollène-la-croisière;bollene
+2281;les arcs-draguignan;les arcs
+2282;brandérion;brandérion
+2283;lescar;lescar
+2284;mézidon;mézidon-canon
+2285;château-arnoux-st-auban;château-arnoux-saint-auban
+2286;château-arnoux-st-auban;château-arnoux-saint-auban
+2287;munster;munster
+2288;mulhouse-dornach;mulhouse
+2289;laignes;laignes
+2290;cap-martin-roquebrune;roquebrune-cap-martin
+2291;busseau-sur-creuse;ahun
+2292;pompadour-maisons-alfort;maisons-alfort
+2293;assat;assat
+2294;aime-la plagne;aime
+2295;la frayère;cannes
+2296;biot;antibes
+2297;vauxaillon;vauxaillon
+2298;île-napoléon-garage;sausheim
+2299;petit-couronne;petit-couronne
+2300;marle-sur-serre;marle
+2301;culoz;culoz
+2302;montfavet;avignon
+2303;loudun;loudun
+2304;rilly-la-montagne;rilly-la-montagne
+2305;st-gervais-les-bains-le fayet;saint-gervais-les-bains
+2306;dompierre;dompierre-sur-helpe
+2307;colombier-fontaine;colombier-fontaine
+2308;lempdes (haute-loire);lempdes-sur-allagnon
+2309;bourgoin-jallieu;bourgoin-jallieu
+2310;st-aignan-noyers;noyers-sur-cher
+2311;uchaud;uchaud
+2312;bayard;bayard-sur-marne
+2313;bandol;bandol
+2314;pouilly-sur-loire;pouilly-sur-loire
+2315;arbois;arbois
+2316;cases-de-pène;espira-de-l'agly
+2317;nantes;nantes
+2318;culmont-chalindrey;chalindrey
+2319;la penne-sur-huveaune;la penne-sur-huveaune
+2320;gannat;gannat
+2321;haluchère-batignolles;nantes
+2322;la chartre-sur-le-loir;la chartre-sur-le-loir
+2323;feuquières-broquiers;feuquières
+2324;amiens;amiens
+2325;labège-village;labège
+2326;lardy;lardy
+2327;le soler;le soler
+2328;l'estaque;marseille
+2329;pont-à-mousson;pont-a-mousson
+2330;les échets;miribel
+2331;villeneuve-le-roi;villeneuve-le-roi
+2332;uckange;uckange
+2333;brunémont;brunémont
+2334;arches;arches
+2335;calais-fréthun;fréthun
+2336;beillant;saint-sever-de-saintonge
+2337;st-denis-de-pile;saint-denis-de-pile
+2338;la courneuve-dugny;courneuve (la )
+2339;bouaye;bouaye
+2340;avignon-tgv;avignon
+2341;mervans;mervans
+2342;margut-fromy;margut
+2343;eu;eu
+2344;lapeyrouse;lapeyrouse
+2345;beslé;guémené-penfao
+2346;toul;toul
+2347;valognes;valognes
+2348;vouziers;vouziers
+2349;villeneuve-sur-yonne;villeneuve-sur-yonne
+2350;st-léonard;saint-léonard
+2351;germaine;germaine
+2352;coussey;coussey
+2353;frontenex;frontenex
+2354;villabé;villabé
+2355;st-georges-de-commiers;saint-georges-de-commiers
+2356;épinay-sur-seine tt;epinay-sur-seine
+2357;mont-dore;mont-dore
+2358;champagnole;champagnole
+2359;wavrin;wavrin
+2360;nanteuil-saâcy;saâcy-sur-marne
+2361;méricourt-ribemont;méricourt-l'abbé
+2362;vittel;vittel
+2363;aubigny-sur-nère;aubigny-sur-nère
+2364;la rochefoucauld;la rochefoucauld
+2365;murat;murat
+2366;toury;toury
+2367;carentan;carentan
+2368;gimont-cahuzac;gimont
+2369;picquigny;picquigny
+2370;montfort-le-gesnois;montfort-le-gesnois
+2371;montreuil-sur-mer;montreuil
+2372;st-masmes;saint-masmes
+2373;gevrey-chambertin;gevrey-chambertin
+2374;bellevue;meudon
+2375;st-piat;saint-piat
+2376;chenonceaux-chisseaux;chenonceaux
+2377;montrichard;montrichard
+2378;sarralbe;sarralbe
+2379;chécy-mardié;chécy
+2380;devecey;devecey
+2381;montreuil;versailles
+2382;orléans;orleans
+2383;onzain-chaumont-sur-loire;onzain
+2384;bersac;bersac-sur-rivalier
+2385;les ormes-sur-vienne;les ormes
+2386;le breuil-sur-couze;le breuil-sur-couze
+2387;thiennes;thiennes
+2388;écully-la-demi-lune;tassin-la-demi-lune
+2389;pontivy;pontivy
+2390;plounérin;plounérin
+2391;st-juéry;saint-juéry
+2392;la douzillère;joue-les-tours
+2393;le haut-banc;ferques
+2394;salon;salon-de-provence
+2395;magnette;audes
+2396;font-romeu-odeillo-via;font-romeu-odeillo-via
+2397;logelbach;wintzenheim
+2398;byans;byans-sur-doubs
+2399;ytrac;ytrac
+2400;flers;flers
+2401;la ville-gozet;montlucon
+2402;la charité-sur-loire;la charité-sur-loire
+2403;la hutte-coulombiers;coulombiers
+2404;nouan-le-fuzelier;nouan-le-fuzelier
+2405;lentilly;lentilly
+2406;épinal;epinal
+2407;joncherey;joncherey
+2408;gravigny-balizy;longjumeau
+2409;longwy;longwy
+2410;corbeil-essonnes;corbeil-essonnes
+2411;sillé-le-guillaume;sillé-le-guillaume
+2412;vidauban;vidauban
+2413;cercy-la-tour;cercy-la-tour
+2414;rémelfing;rémelfing
+2415;saillagouse;saillagouse
+2416;trie-château;trie-château
+2417;louhans;louhans
+2418;lunas;lunas
+2419;joncet;serdinya
+2420;vayrac;vayrac
+2421;cousance;cousance
+2422;mazières-verruyes;verruyes
+2423;bruz;bruz
+2424;dugny-la courneuve tt;courneuve (la )
+2425;breteil;saint-gilles
+2426;bonnard-bassou;bonnard
+2427;mourmelon-le-petit;mourmelon-le-petit
+2428;conches;conches-en-ouche
+2429;sélestat;selestat
+2430;bourth;bourth
+2431;nérondes;nérondes
+2432;civray-ville;civray
+2433;monsempron-libos;monsempron-libos
+2434;dol-de-bretagne;dol-de-bretagne
+2435;don-sainghin;sainghin-en-weppes
+2436;château-chinon;château-chinon(campagne)
+2437;st-jean-d'angély;saint-jean-d'angély
+2438;neuilly-sur-marne;neuilly-sur-marne
+2439;ourscamps;pimprez
+2440;dieupentale;dieupentale
+2441;villefranche-sur-mer;villefranche-sur-mer
+2442;aixe-sur-vienne;aixe-sur-vienne
+2443;wimille-wimereux;wimille
+2444;munster-badischhof;munster
+2445;baraqueville-carcenac-peyralès;baraqueville
+2446;martigné-ferchaud;martigné-ferchaud
+2447;colmar;colmar
+2448;beaune-la-rolande;beaune-la-rolande
+2449;st-erme;saint-erme-outre-et-ramecourt
+2450;mantes-station;mantes-la-ville
+2451;caudéran-mérignac;bordeaux
+2452;drefféac;drefféac
+2453;st-flour-chaudes-aigues;saint-flour
+2454;st-rambert-d'albon;saint-rambert-d'albon
+2455;vernon-giverny;vernon
+2456;montbéliard;montbeliard
+2457;mont-de-marsan;mont-de-marsan
+2458;noisy-le-sec;noisy-le-sec
+2459;montmorillon;montmorillon
+2460;laon;laon
+2461;auffay;auffay
+2462;lumbres;lumbres
+2463;la hume;gujan-mestras
+2464;blangy-sur-bresle;blangy-sur-bresle
+2465;roche-lez-beaupré;roche-lez-beaupré
+2466;chaville-vélizy;viroflay
+2467;woippy;woippy
+2468;nonant-le-pin;nonant-le-pin
+2469;le buet;vallorcine
+2470;gretz-armainvilliers;gretz-armainvilliers
+2471;coltainville;coltainville
+2472;agonac;agonac
+2473;le cheylas-la buissière;le cheylas
+2474;laveline-devant-bruyères;laveline-devant-bruyères
+2475;marvejols;marvejols
+2476;fougerolles;fougerolles
+2477;trégonneau-squiffiec;squiffiec
+2478;béziers;beziers
+2479;lille-st-sauveur;lille
+2480;landébia;landébia
+2481;louroux-de-bouble;louroux-de-bouble
+2482;bouray;lardy
+2483;lorient;lorient
+2484;courcelles-sur-nied;courcelles-sur-nied
+2485;aubie-st-antoine;aubie-et-espessas
+2486;bédarieux;bédarieux
+2487;alaï;tassin-la-demi-lune
+2488;la chapelle-la-reine;la chapelle-la-reine
+2489;audun-le-roman;audun-le-roman
+2490;thouaré;thouaré-sur-loire
+2491;gemeaux;gemeaux
+2492;pont-de-rungis-aéroport-d'orly;thiais
+2493;châteaubriant;chateaubriant
+2494;laroquebrou;laroquebrou
+2495;pont-de-lignon;beauzac
+2496;bainville-sur-madon;bainville-sur-madon
+2497;nogent-sur-vernisson;nogent-sur-vernisson
+2498;corcieux-vanémont;la houssière
+2499;planès;planès
+2500;surdon;le château-d'almenêches
+2501;valence-d'agen;valence
+2502;château-du-loir;château-du-loir
+2503;lourdes;lourdes
+2504;valleroy-moineville;valleroy
+2505;st-cyr-les-lècques-la cadière;saint-cyr-sur-mer
+2506;hirson-écoles;hirson
+2507;isbergues;isbergues
+2508;achiet;achiet-le-grand
+2509;magneux-courlandon;courlandon
+2510;bantzenheim;bantzenheim
+2511;crissey;sassenay
+2512;fromental;fromental
+2513;renescure;renescure
+2514;bessay;bessay-sur-allier
+2515;anizy-pinon;pinon
+2516;jarrie-vizille;jarrie
+2517;lille-porte-de-douai;lille
+2518;anor;anor
+2519;vieilleville;mourioux-vieilleville
+2520;pont-du-garigliano-hôpital-georges-pompidou;paris
+2521;chorges;chorges
+2522;st-hilaire-au-temple;saint-hilaire-au-temple
+2523;monnerville;monnerville
+2524;noirétable;noirétable
+2525;sin-le-noble;sin-le-noble
+2526;nouvion-sur-meuse;nouvion-sur-meuse
+2527;sannois;sannois
+2528;cluses;cluses
+2529;bagneaux-sur-loing;bagneaux-sur-loing
+2530;foëcy;foëcy
+2531;irigny-yvours;irigny
+2532;bussac;bussac-forêt
+2533;la poterie;rennes
+2534;auxonne;tillenay
+2535;cerizay;cerizay
+2536;paris-austerlitz;paris
+2537;homécourt;homécourt
+2538;sénas;sénas
+2539;villeneuve-st-georges;villeneuve-saint-georges
+2540;moulins-sur-allier;yzeure
+2541;st-priest-taurion;saint-priest-taurion
+2542;mundolsheim;mundolsheim
+2543;montières;amiens
+2544;mézin;mézin
+2545;alouette-france;pessac
+2546;molsheim;molsheim
+2547;aillevillers;corbenay
+2548;colmar;colmar
+2549;chessy;chessy
+2550;galliéni-cancéropole;toulouse
+2551;pont-cardinet;paris
+2552;lancey;villard-bonnot
+2553;les ramassiers;toulouse
+2554;st-patrice;saint-patrice
+2555;muret;muret
+2556;st-ouen-du-breuil;saint-ouen-du-breuil
+2557;bouy;bouy
+2558;rougemont-chanteloup;sevran
+2559;francheville;francheville
+2560;clermont-la rotonde;clermont-ferrand
+2561;recquignies;recquignies
+2562;lesquin;lesquin
+2563;artix;artix
+2564;carbonne;carbonne
+2565;la joux;chamonix-mont-blanc
+2566;le vieux-briollay;briollay
+2567;vions-chanaz;vions
+2568;crécy-la chapelle;crécy-la-chapelle
+2569;salbris;salbris
+2570;malaunay-le houlme;le houlme
+2571;st-pierre-d'albigny;saint-pierre-d'albigny
+2572;chevry;chevry
+2573;meroux;meroux
+2574;mutzig;mutzig
+2575;le verdon;le verdon-sur-mer
+2576;distroff;distroff
+2577;bernay;bernay
+2578;neuilly-lès-dijon;neuilly-lès-dijon
+2579;valenciennes;valenciennes
+2580;loos-en-gohelle;lens
+2581;thouars;thouars
+2582;marck;marck
+2583;la forest;la forest-landerneau
+2584;mouy-bury;mouy
+2585;lapradelle;puilaurens
+2586;provenchères-sur-fave;provenchères-sur-fave
+2587;chevaigné;chevaigné
+2588;keskastel;keskastel
+2589;lux;lux
+2590;lutzelhouse;muhlbach-sur-bruche
+2591;vertou;vertou
+2592;thann;thann
+2593;couhé-vérac;ceaux-en-couhé
+2594;franxault;franxault
+2595;pont-hébert;rampan
+2596;st-médard-d'eyrans;saint-médard-d'eyrans
+2597;gargenville;gargenville
+2598;massérac;massérac
+2599;vic-mireval;vic-la-gardiole
+2600;st-chély-d'apcher;saint-chély-d'apcher
+2601;l'étang-la-ville;l'étang-la-ville
+2602;niversac;saint-laurent-sur-manoire
+2603;le vert-de-maisons;maisons-alfort
+2604;arques-la-bataille;arques-la-bataille
+2605;zu-rhein;mulhouse
+2606;st-hilaire-st-nazaire;saint-hilaire-du-rosier
+2607;issoudun;issoudun
+2608;moûtiers-salins-brides-les-bains;moûtiers
+2609;corbigny;corbigny
+2610;le cateau;le cateau-cambrésis
+2611;frénouville-cagny;cagny
+2612;pontoise;saint-ouen-l'aumone
+2613;toul;toul
+2614;halte de fontanil-lycée de drap;drap
+2615;olette-canaveilles-les-bains;olette
+2616;oissel;oissel
+2617;évreux-embranchement;evreux
+2618;lamothe-montravel;lamothe-montravel
+2619;rountzenheim;auenheim
+2620;vézelise;vézelise
+2621;bondy;bondy
+2622;annappes;villeneuve-d'ascq
+2623;st-raphaël-valescure;saint-raphael
+2624;luchon;bagnères-de-luchon
+2625;épône-mézières;épône
+2626;mennecy;mennecy
+2627;corseul-languenan;languenan
+2628;esternay;esternay
+2629;raedersheim;raedersheim
+2630;st-denis-des-murs;saint-denis-des-murs
+2631;darcey (côte-d'or);darcey
+2632;feuquières-fressenneville;feuquières-en-vimeu
+2633;la croix-de-méan;trignac
+2634;le creusot;creusot (le )
+2635;versailles-matelots;versailles
+2636;osséja;osséja
+2637;pomblière-st-marcel;saint-marcel
+2638;ria;ria-sirach
+2639;leyment;leyment
+2640;tillières;tillières-sur-avre
+2641;barjac;barjac
+2642;laroche-migennes;migennes
+2643;tours;tours
+2644;grenoble-université-gières;gières
+2645;maroeuil;maroeuil
+2646;ambérieu;amberieu-en-bugey
+2647;sète;sete
+2648;cergy-le-haut;cergy
+2649;st-étienne-la terrasse;saint-etienne
+2650;beaugency;beaugency
+2651;voreppe;voreppe
+2652;igny;igny
+2653;poligny;poligny
+2654;la guierche;la guierche
+2655;st-martin-du-touch;toulouse
+2656;golfech;golfech
+2657;villedieu-les-poêles;villedieu-les-poêles
+2658;damblain;damblain
+2659;pont-à-vendin;vendin-le-vieil
+2660;route-de-launaguet;toulouse
+2661;bourg-madame;bourg-madame
+2662;jaux;jaux
+2663;vaires-torcy;vaires-sur-marne
+2664;ste-léocadie;sainte-léocadie
+2665;pont-à-vendin;vendin-le-vieil
+2666;versigny;versigny
+2667;barbentane-rognonas;barbentane
+2668;condat-le-lardin;le lardin-saint-lazare
+2669;beaurainville;beaurainville
+2670;paris-austerlitz-souterrain;paris
+2671;trilport;trilport
+2672;remiremont;remiremont
+2673;la coquille;la coquille
+2674;cambrai-annexe;cambrai
+2675;les moussoux;chamonix-mont-blanc
+2676;riedseltz;riedseltz
+2677;montluçon-ville;montlucon
+2678;orange;orange
+2679;capdenac;capdenac-gare
+2680;sète;sete
+2681;guéthary;guéthary
+2682;dives-cabourg;dives-sur-mer
+2683;vieux-thann zi;vieux-thann
+2684;courzieu-brussieu;courzieu
+2685;st-amour;saint-amour
+2686;loulay;loulay
+2687;aunay-tréon;tréon
+2688;raismes;raismes
+2689;conflans-jarny;jarny
+2690;nexon;nexon
+2691;batz-sur-mer;batz-sur-mer
+2692;les cabannes;les cabannes
+2693;obermodern;obermodern-zutzendorf
+2694;château-gontier;chateau-gontier
+2695;traou-nez;plourivo
+2696;santenay-les-bains;santenay
+2697;savenay;savenay
+2698;st-michel-sur-meurthe;saint-michel-sur-meurthe
+2699;poinçon;poinçon-lès-larrey
+2700;st-cloud;saint-cloud
+2701;villefranche-vernet-les-bains;villefranche-de-conflent
+2702;mayet;mayet
+2703;les fontinettes;calais
+2704;st-sauveur-châteauneuf;saint-sauveur-marville
+2705;st-malo;saint-malo
+2706;autun;autun
+2707;nuisement;nuisement-sur-coole
+2708;ambérieu;amberieu-en-bugey
+2709;oderen;oderen
+2710;cros-de-cagnes;cagnes-sur-mer
+2711;les coquetiers;villemomble
+2712;montville;montville
+2713;savennières-béhuard;savennières
+2714;livron;livron-sur-drôme
+2715;layrac;layrac
+2716;sarralbe;sarralbe
+2717;aigues-vives;aigues-vives
+2718;fos-mole-central;fos-sur-mer
+2719;frynaudour;plourivo
+2720;virieu-le-grand-belley;virieu-le-grand
+2721;bédarieux;bédarieux
+2722;dordives;dordives
+2723;beaumont-de-lomagne;beaumont-de-lomagne
+2724;la fontaine;wavrin
+2725;druye;druye
+2726;moret-veneux-les-sablons;veneux-les-sablons
+2727;aspres-sur-buëch;aspres-sur-buëch
+2728;le croisic;le croisic
+2729;braine;braine
+2730;bossey-veyrier;étrembières
+2731;paris-gare-de-lyon;paris
+2732;monthois;monthois
+2733;bougival;celle-saint-cloud (la )
+2734;changis-st-jean;changis-sur-marne
+2735;la ferté-bernard;ferte-bernard (la)
+2736;cransac;cransac
+2737;brion-sur-ource;brion-sur-ource
+2738;condé-sur-huisne;condé-sur-huisne
+2739;le burg;varetz
+2740;pontorson-mont-st-michel;pontorson
+2741;dettwiller;dettwiller
+2742;marseillan-plage;marseillan
+2743;brest;brest
+2744;dijon-ville;dijon
+2745;veuves-monteaux;veuves
+2746;raves-ban-de-laveline;raves
+2747;aillevillers;corbenay
+2748;origny-ste-benoite;origny-sainte-benoite
+2749;quincieux;quincieux
+2750;schopperten;schopperten
+2751;pont-de-briques;isques
+2752;la roche-maurice;la roche-maurice
+2753;dienville;dienville
+2754;villiers-montbarbin;crécy-la-chapelle
+2755;la rivière;la rivière-drugeon
+2756;xeuilley;xeuilley
+2757;st-sulpice;saint-sulpice
+2758;hatrize;hatrize
+2759;mirecourt;mirecourt
+2760;digoin;digoin
+2761;la réole;la réole
+2762;is-sur-tille;marcilly-sur-tille
+2763;prouvy-thiant;prouvy
+2764;joigny;joigny
+2765;st-pierre-quiberon;saint-pierre-quiberon
+2766;valmondois;butry-sur-oise
+2767;lachaud-curmilhac;vissac-auteyrac
+2768;savonnières;savonnières
+2769;colomiers;colomiers
+2770;auxerre-st-gervais;auxerre
+2771;bengy;bengy-sur-craon
+2772;beynost;beynost
+2773;briouze;briouze
+2774;st-médard-sur-ille;saint-médard-sur-ille
+2775;sathonay-rillieux;sathonay-camp
+2776;sélestat;selestat
+2777;haubourdin;haubourdin
+2778;vendôme;vendome
+2779;attigny (ardennes);attigny
+2780;weyersheim;weyersheim
+2781;bollwiller;bollwiller
+2782;messempré;pure
+2783;ancerville-guë;ancerville
+2784;lille-europe;lille
+2785;neau;neau
+2786;donchery;donchery
+2787;carquefou;carquefou
+2788;st-aunès;saint-aunès
+2789;rethondes;compiegne
+2790;mont-sur-meurthe;rehainviller
+2791;voujeaucourt;voujeaucourt
+2792;st-laurent (jura);saint-laurent-en-grandvaux
+2793;miniac;miniac-morvan
+2794;saillat-chassenon;saillat-sur-vienne
+2795;péreire-levallois;paris
+2796;solignac-le vigen;solignac
+2797;monts;monts
+2798;corbeil-essonnes;corbeil-essonnes
+2799;tassin;tassin-la-demi-lune
+2800;st-pierre-la-cour;saint-pierre-la-cour
+2801;montsoult-maffliers;montsoult
+2802;laguépie;laguépie
+2803;bas-monistrol;bas-en-basset
+2804;lomme (min);lille
+2805;siorac-en-périgord;siorac-en-périgord
+2806;lutterbach-tram-train;lutterbach
+2807;épinal;epinal
+2808;modane;modane
+2809;retiers;retiers
+2810;st-hilaire-au-temple;saint-hilaire-au-temple
+2811;nozières-brignon;boucoiran-et-nozières
+2812;st-germain-st-rémy;saint-germain-sur-avre
+2813;le grand-lemps;le grand-lemps
+2814;épinay-sur-orge;epinay-sur-orge
+2815;espira-de-l'agly;espira-de-l'agly
+2816;cordemais;cordemais
+2817;clères;clères
+2818;melun;melun
+2819;brélidy-plouëc;plouëc-du-trieux
+2820;l'isle-d'abeau;isle-d'abeau (l')
+2821;tarascon;tarascon
+2822;aytré;aytré
+2823;virieu-sur-bourbre;panissage
+2824;champs-st-bris;champs-sur-yonne
+2825;prémery;prémery
+2826;étigny-véron;étigny
+2827;mouchard;mouchard
+2828;freinville-sevran;sevran
+2829;la fouillouse;la fouillouse
+2830;haguenau;haguenau
+2831;sucé-sur-erdre;sucé-sur-erdre
+2832;esbly;esbly
+2833;fécamp;fecamp
+2834;st-fons;saint-fons
+2835;st-hilaire-de-chaléons;saint-hilaire-de-chaléons
+2836;jardres;jardres
+2837;leucate-la-franqui;leucate
+2838;noisy-le-roi;noisy-le-roi
+2839;givors-canal;givors
+2840;elbeuf-ville;elbeuf
+2841;st-mammès;saint-mammès
+2842;st-julien-en-genevois;saint-julien-en-genevois
+2843;corgoloin;corgoloin
+2844;sèvres-rive-gauche;sevres
+2845;montchanin;montchanin
+2846;fouquereuil;fouquereuil
+2847;buire-sur-l'ancre;buire-sur-l'ancre
+2848;maurs;maurs
+2849;vénissieux;venissieux
+2850;st-louis-les-aygalades;marseille
+2851;l'ariane;trinite (la )
+2852;montauban-ville-bourbon;montauban
+2853;verzeille;leuc
+2854;crest;crest
+2855;moulins-sur-yèvre;moulins-sur-yèvre
+2856;cuinchy;cuinchy
+2857;st-nom-la-bretêche-forêt-de-marly;l'étang-la-ville
+2858;villeherviers;villeherviers
+2859;schweighouse-sur-moder;schweighouse-sur-moder
+2860;avignon-fontcouverte;avignon
+2861;vosves;dammarie-les-lys
+2862;seugy;seugy
+2863;garnay;garnay
+2864;besançon-viotte;besancon
+2865;labergement-ste-marie;labergement-sainte-marie
+2866;magenta;paris
+2867;angerville;angerville
+2868;ste-pazanne;sainte-pazanne
+2869;airvault-gare;airvault
+2870;les vallées;colombes
+2871;st-aubin-du-vieil-évreux;le vieil-évreux
+2872;douai;douai
+2873;audruicq;audruicq
+2874;marignier;marignier
+2875;ossès-st-martin-d'arrossa;saint-martin-d'arrossa
+2876;chaville-rive-gauche;chaville
+2877;fleurville-pont-de-vaux;fleurville
+2878;nice-riquier;nice
+2879;cheilly-lès-maranges;cheilly-lès-maranges
+2880;parsac-gouzon;parsac
+2881;chaulnes;chaulnes
+2882;puybrun;puybrun
+2883;paris-st-lazare;paris
+2884;villars-les-dombes;villars-les-dombes
+2885;écouflant;écouflant
+2886;crissé;crissé
+2887;la bastide-st-laurent-les-bains;la bastide-puylaurent
+2888;nurieux;nurieux-volognat
+2889;carcassonne;carcassonne
+2890;belleville;belleville
+2891;carantilly-marigny;carantilly
+2892;roubaix-wattrelos;roubaix
+2893;roubaix-wattrelos;roubaix
+2894;avrechy;avrechy
+2895;st-julien-écuisses;saint-julien-sur-dheune
+2896;rouffach;rouffach
+2897;st-louis-la-chaussée;saint-louis
+2898;villenave-d'ornon;villenave-d'ornon
+2899;lasserre;moncrabeau
+2900;dardilly-le-jubin;dardilly
+2901;chagny;chagny
+2902;nîmes;nimes
+2903;villepreux-les-clayes;clayes-sous-bois (les)
+2904;versailles-chantiers;versailles
+2905;ménil-flin;flin
+2906;réaumont-st-cassien;saint-cassien
+2907;elne;elne
+2908;st-léonard-de-noblat;saint-léonard-de-noblat
+2909;vic-sur-cère;vic-sur-cère
+2910;st-sébastien;saint-sébastien
+2911;vernouillet-verneuil;verneuil-sur-seine
+2912;luant;luant
+2913;st-martin-du-vivier;saint-martin-du-vivier
+2914;massy-verrières;massy
+2915;guillerval;guillerval
+2916;die;die
+2917;la barre-ormesson;deuil-la-barre
+2918;combourg;combourg
+2919;mâcon-port-fluvial;macon
+2920;granville;granville
+2921;sèvres-ville-d'avray;sevres
+2922;vernaison;vernaison
+2923;sous-le-bois;maubeuge
+2924;le stade;colombes
+2925;lomme;lille
+2926;vrigne-meuse;vrigne-meuse
+2927;paray-le-monial;paray-le-monial
+2928;guimiliau;guimiliau
+2929;bonnières;bonnières-sur-seine
+2930;mont-de-terre;lille
+2931;colmar-st-joseph;colmar
+2932;varangéville-st-nicolas;varangéville
+2933;stephansfeld;brumath
+2934;hellemmes;lille
+2935;nérac;nérac
+2936;rivarennes;rivarennes
+2937;rungis (min);rungis
+2938;rothau;rothau
+2939;rodez;rodez
+2940;aubigny-en-artois;aubigny-en-artois
+2941;cormeilles-en-parisis;cormeilles-en-parisis
+2942;les eyzies;les eyzies-de-tayac-sireuil
+2943;port-sec-de-pacy;pacy-sur-armançon
+2944;st-seurin-sur-l'isle;saint-seurin-sur-l'isle
+2945;le cellier;le cellier
+2946;st-avold;valmont
+2947;houilles-carrières-sur-seine;houilles
+2948;mommenheim;mommenheim
+2949;cysoing;cysoing
+2950;calais-fréthun;fréthun
+2951;domblans-voiteur;domblans
+2952;nantes;nantes
+2953;mauzé;mauzé-sur-le-mignon
+2954;tonneins;tonneins
+2955;tullins-fures;tullins
+2956;achères-grand-cormier;saint-germain-en-laye
+2957;joigny-sur-meuse;joigny-sur-meuse
+2958;herblay;herblay
+2959;massiac;massiac
+2960;richwiller;richwiller
+2961;xertigny;xertigny
+2962;st-sébastien-pas-enchantés;saint-sebastien-sur-loire
+2963;marlieux-châtillon;marlieux
+2964;chaponost;chaponost
+2965;meulan-hardricourt;hardricourt
+2966;hochfelden;hochfelden
+2967;chambéry-challes-les-eaux;chambery
+2968;commentry;commentry
+2969;argentan;argentan
+2970;colomiers-lycée-international;colomiers
+2971;bas-évette;évette-salbert
+2972;rochy-condé;rochy-condé
+2973;plaisir-les clayes;plaisir
+2974;lyon-part-dieu;lyon
+2975;èze;èze
+2976;buno-gironville;buno-bonnevaux
+2977;pont-d'ain;pont-d'ain
+2978;attin-garage;attin
+2979;st-michel-notre-dame;paris
+2980;gundershoffen;gundershoffen
+2981;estissac;estissac
+2982;pierre-buffière;pierre-buffière
+2983;gragnague;gragnague
+2984;mortcerf;mortcerf
+2985;onville;onville
+2986;beynes;beynes
+2987;dijon-porte-neuve;dijon
+2988;neuville-sur-saône;neuville-sur-saône
+2989;bellenaves;bellenaves
+2990;hoenheim-tram;hoenheim
+2991;ermont-eaubonne;ermont
+2992;diemeringen;diemeringen
+2993;lunéville;luneville
+2994;archignat;archignat
+2995;veynes-dévoluy;veynes
+2996;haybes;haybes
+2997;amboise;amboise
+2998;miserey-salines;miserey-salines
+2999;lexos;varen
+3000;laissey;laissey
+3001;villers-st-sépulcre;villers-saint-sépulcre
+3002;châteauneuf-sur-charente;châteauneuf-sur-charente
+3003;châteauroux;chateauroux
+3004;vireux-molhain;vireux-molhain
+3005;forbach;forbach
+3006;pontgibaud;pontgibaud
+3007;voutré;voutré
+3008;cassis;cassis
+3009;boulouris-sur-mer;saint-raphael
+3010;grésy-sur-aix;grésy-sur-aix
+3011;harfleur;harfleur
+3012;beaucaire-marchandises;beaucaire
+3013;villiers-st-georges;villiers-saint-georges
+3014;st-vincent-de-tyrosse;saint-vincent-de-tyrosse
+3015;saujon;saujon
+3016;ingrandes-sur-vienne;ingrandes
+3017;st-leu-la-forêt;saint-leu-la-foret
+3018;parthenay;parthenay
+3019;vierzy;vierzy
+3020;st-vincent-le-château;saint-vincent
+3021;felletin;felletin
+3022;villeneuve-sur-allier;villeneuve-sur-allier
+3023;l'isthme;saint-pierre-quiberon
+3024;froncles;froncles
+3025;luc-en-diois;luc-en-diois
+3026;nortkerque;nortkerque
+3027;chavenon;chavenon
+3028;menton-garavan;menton
+3029;st-paul-de-fenouillet;saint-paul-de-fenouillet
+3030;roanne;roanne
+3031;simandre-sur-suran;simandre-sur-suran
+3032;sillery;sillery
+3033;is-sur-tille;marcilly-sur-tille
+3034;montrond-les-bains;montrond-les-bains
+3035;guérigny;guérigny
+3036;wizernes;wizernes
+3037;boulainvilliers;paris
+3038;mont-notre-dame;mont-notre-dame
+3039;rochefort;rochefort
+3040;vitry-le-françois;vitry-le-francois
+3041;gien;gien
+3042;gisors;gisors
+3043;serqueux;serqueux
+3044;pont-d'ardres;ardres
+3045;ruffey;ruffey-lès-echirey
+3046;clion-sur-indre;clion
+3047;tamnay-châtillon;tamnay-en-bazois
+3048;marseille-st-charles;marseille
+3049;pommevic;pommevic
+3050;st-pierre-des-corps;saint-pierre-des-corps
+3051;dugny;dugny-sur-meuse
+3052;epfig;epfig
+3053;mouzon;mouzon
+3054;l'hôpital-du-grosbois;l'hôpital-du-grosbois
+3055;halsou-larressore;halsou
+3056;volvic;volvic
+3057;rozières-sur-mouzon;rozières-sur-mouzon
+3058;feuquerolles;feuquières-en-vimeu
+3059;roeux;roeux
+3060;flez-cuzy-tannay;tannay
+3061;aimargues;aimargues
+3062;eurville-bienville;eurville-bienville
+3063;cercottes;cercottes
+3064;bois-d'oingt-légny;légny
+3065;l'estaque;marseille
+3066;laval;laval
+3067;bourganeuf;bourganeuf
+3068;merrey;merrey
+3069;fépin;fépin
+3070;miraumont;miraumont
+3071;arnèke;arnèke
+3072;loudéac;loudéac
+3073;dirinon loperhet;loperhet
+3074;triel-sur-seine;triel-sur-seine
+3075;vierzon-forges;vierzon
+3076;st-léon-sur-l'isle;saint-léon-sur-l'isle
+3077;objat;objat
+3078;arleux;arleux
+3079;champagne-ardenne-tgv;bezannes
+3080;caudiès;caudiès-de-fenouillèdes
+3081;chabenet;le pont-chrétien-chabenet
+3082;haussmann-st-lazare;paris
+3083;soulac-sur-mer;soulac-sur-mer
+3084;le theil-de-bretagne;le theil-de-bretagne
+3085;cap-d'ail;cap-d'ail
+3086;jussey;jussey
+3087;moosch;moosch
+3088;krimmeri-meinau;strasbourg
+3089;vergèze-codognan;vergèze
+3090;walbach;wintzenheim
+3091;obernai;obernai
+3092;vermenton;vermenton
+3093;luttenbach-près-munster;luttenbach-près-munster
+3094;la mothe-achard;la mothe-achard
+3095;comines;comines
+3096;bordeaux-bastide;bordeaux
+3097;la bonneville-sur-iton;la bonneville-sur-iton
+3098;vannes;vannes
+3099;beaucaire-marchandises;beaucaire
+3100;mauves-sur-loire;mauves-sur-loire
+3101;laillé;guichen
+3102;longpont;longpont
+3103;landivisiau;landivisiau
+3104;dercy-mortiers;mortiers
+3105;arras;arras
+3106;st-chéron;saint-chéron
+3107;baillargues;baillargues
+3108;lépanges;lépanges-sur-vologne
+3109;woincourt;woincourt
+3110;le coteau;le coteau
+3111;moulin-neuf (oise);chambly
+3112;florensac;saint-thibéry
+3113;st-denis;saint-denis
+3114;étalans;étalans
+3115;bretteville-norrey;saint-manvieu-norrey
+3116;dercy-froidmont;dercy
+3117;trois-puits;trois-puits
+3118;malansac;malansac
+3119;conflans-jarny;jarny
+3120;le boucau;boucau
+3121;lingolsheim;lingolsheim
+3122;serquigny;serquigny
+3123;reuilly;reuilly
+3124;la clayette-baudemont;baudemont
+3125;mauzac;mauzac-et-grand-castang
+3126;messein;messein
+3127;la barque-fuveau;fuveau
+3128;pierrefite-stains tt;pierrefitte-sur-seine
+3129;nomain-ouvignies;nomain
+3130;ste-colombe-sur-seine;sainte-colombe-sur-seine
+3131;châteauneuf-sur-cher;châteauneuf-sur-cher
+3132;capvern;capvern
+3133;darsac;vernassal
+3134;landaul-mendon;landaul
+3135;belloy-st-martin;belloy-en-france
+3136;aiguillon;aiguillon
+3137;andelot;andelot-en-montagne
+3138;champ-de-mars-tour-eiffel;paris
+3139;gertwiller;gertwiller
+3140;wisches;wisches
+3141;caen;caen
+3142;mailly-le-camp;mailly-le-camp
+3143;st-ouen-l'aumône;saint-ouen-l'aumone
+3144;lyon-jean-macé;lyon
+3145;dégagnac;dégagnac
+3146;la tricherie;beaumont
+3147;urmatt;urmatt
+3148;st-médard-de-guizières;saint-médard-de-guizières
+3149;nançois-tronville;nançois-sur-ornain
+3150;bussy-lettrée-vatry;bussy-lettrée
+3151;ychoux;ychoux
+3152;lamothe-landerron;lamothe-landerron
+3153;st-marcel;marseille
+3154;couilly-st-germain;saint-germain-sur-morin
+3155;sains-du-nord;sains-du-nord
+3156;varennes-sur-allier;varennes-sur-allier
+3157;cintegabelle;cintegabelle
+3158;revin;revin
+3159;écouché;écouché
+3160;hettange-grande;hettange-grande
+3161;st-dié-des-vosges;saint-die
+3162;biarritz;biarritz
+3163;montargis;montargis
+3164;amilly-ouerray;amilly
+3165;albi;albi
+3166;gauriaguet;gauriaguet
+3167;l'estaque;marseille
+3168;st-valéry-en-caux;saint-valery-en-caux
+3169;villefranque;villefranque
+3170;neuillé-pont-pierre;neuillé-pont-pierre
+3171;castelnaudary;castelnaudary
+3172;fère-champenoise;fère-champenoise
+3173;roncq;roncq
+3174;st-priest;saint-priest
+3175;montlaur;montlaur
+3176;valenton;valenton
+3177;st-aigulin-la roche-chalais;saint-aigulin
+3178;chamonix-mont-blanc;chamonix-mont-blanc
+3179;morcenx;morcenx
+3180;la chapelle-d'ambès;ambès
+3181;vieux-thann;vieux-thann
+3182;roppenheim;roppenheim
+3183;arnage;arnage
+3184;lunery;lunery
+3185;chabanais;chabanais
+3186;langeais;langeais
+3187;châteauneuf-bujaleuf;neuvic-entier
+3188;soissons;soissons
+3189;beuzeville (eure);beuzeville
+3190;malaunay-le houlme;le houlme
+3191;la chapelle-aulnay;chapelle-sur-erdre (la )
+3192;dangé;dangé-saint-romain
+3193;bordeaux-st-jean;bordeaux
+3194;ossès-st-martin-d'arrossa;saint-martin-d'arrossa
+3195;lamanon;lamanon
+3196;aubiet;aubiet
+3197;pont-l'évêque;pont-l'évêque
+3198;fresnoy-le-grand;fresnoy-le-grand
+3199;baigts-de-béarn;baigts-de-béarn
+3200;aillevillers;corbenay
+3201;couze;lalinde
+3202;glos-montfort;glos-sur-risle
+3203;l'isle-fontaine-de-vaucluse;isle-sur-la-sorgue (l' )
+3204;paris-gare-de-lyon;paris
+3205;st-gildas-des-bois;saint-gildas-des-bois
+3206;coudray-montceaux;le coudray-montceaux
+3207;staffelfelden;staffelfelden
+3208;armentières;armentieres
+3209;cosne-sur-loire;cosne-cours-sur-loire
+3210;bayonne;bayonne
+3211;flavy-le-martel;flavy-le-martel
+3212;morbier;morbier
+3213;st-hilaire;saint-hilaire-sur-helpe
+3214;haguenau;haguenau
+3215;st-jean-pla-de-corts;saint-jean-pla-de-corts
+3216;gresswiller;gresswiller
+3217;tricot;tricot
+3218;l'argentière-les-écrins;l'argentière-la-bessée
+3219;arcis-sur-aube;villette-sur-aube
+3220;pontarlier;pontarlier
+3221;lure;lure
+3222;sens;sens
+3223;bouvines;cysoing
+3224;lavaur;lavaur
+3225;lagny-thorigny;thorigny-sur-marne
+3226;franois;franois
+3227;bueil;bueil
+3228;ponthierry-pringy;saint-fargeau-ponthierry
+3229;villefort;villefort
+3230;coat-guégan;pont-melvez
+3231;st-fargeau;saint-fargeau-ponthierry
+3232;marly-le-roi;marly-le-roi
+3233;vivonne;vivonne
+3234;dannes-camiers;camiers
+3235;saumur;saumur
+3236;landrecies;landrecies
+3237;lacourtensourt;toulouse
+3238;st-clément-laronxe;saint-clément
+3239;sisteron;sisteron
+3240;le quesnoy;le quesnoy
+3241;koenigsmacker;koenigsmacker
+3242;lille chr;lille
+3243;st-étienne-du-rouvray;saint-etienne-du-rouvray
+3244;lavoûte-sur-loire;lavoûte-sur-loire
+3245;chaville-rive-droite;chaville
+3246;loivre;loivre
+3247;vauzelles;varennes-vauzelles
+3248;vaulry;vaulry
+3249;fourchambault;fourchambault
+3250;grenade-sur-l'adour;grenade-sur-l'adour
+3251;st-mathurin;saint-mathurin-sur-loire
+3252;sérézin;sérézin-du-rhône
+3253;seclin;seclin
+3254;villiers-le-bel-gonesse-arnouville;arnouville-les-gonesse
+3255;lyon-perrache;lyon
+3256;ondres;ondres
+3257;hagondange;hagondange
+3258;grésy-sur-isère;grésy-sur-isère
+3259;paris-st-lazare;paris
+3260;montoire-sur-le-loir;montoire-sur-le-loir
+3261;erdre-active;chapelle-sur-erdre (la )
+3262;pagny-sur-moselle;pagny-sur-moselle
+3263;angoulins-sur-mer;angoulins
+3264;libercourt;libercourt
+3265;mantes-la-jolie;mantes-la-ville
+3266;nemours-st-pierre;saint-pierre-lès-nemours
+3267;notre-dame-de-briançon;la léchère
+3268;habsheim;habsheim
+3269;la varenne-chennevières;saint-maur-des-fosses
+3270;la baule-escoublac;baule-escoublac (la )
+3271;brumath;brumath
+3272;barsac;barsac
+3273;biache-st-vaast;biache-saint-vaast
+3274;chapeauroux;saint-bonnet-de-montauroux
+3275;vénerque-le-vernet;vernet
+3276;bassens;bassens
+3277;gunsbach-griesbach;griesbach-au-val
+3278;mer;mer
+3279;escaudoeuvres;escaudoeuvres
+3280;ris-orangis;ris-orangis
+3281;st-genouph;saint-genouph
+3282;cruas;cruas
+3283;ossun;ossun
+3284;pignans;pignans
+3285;chasseneuil-sur-bonnieure;chasseneuil-sur-bonnieure
+3286;roeschwoog;roeschwoog
+3287;st-andré-de-cubzac;saint-andré-de-cubzac
+3288;mantes-la-jolie;mantes-la-jolie
+3289;brunoy;brunoy
+3290;reichstett;reichstett
+3291;athis-mons;athis-mons
+3292;le trayas;saint-raphael
+3293;la ménitré;la ménitré
+3294;ronchin;ronchin
+3295;longué;longué-jumelles
+3296;chinon;chinon
+3297;charmont;charmont-sous-barbuise
+3298;le grau-du-roi;le grau-du-roi
+3299;saales;saales
+3300;roumazières-loubert;roumazières-loubert
+3301;lucé;luce
+3302;val-de-reuil;val-de-reuil
+3303;gazeran;gazeran
+3304;saintes;saintes
+3305;louvres;louvres
+3306;labarthe-avezac;avezac-prat-lahitte
+3307;breuillet-bruyères-le-châtel;breuillet
+3308;viry-châtillon;viry-chatillon
+3309;beaune;beaune
+3310;fère-champenoise;fère-champenoise
+3311;égly;égly
+3312;ambérieu;amberieu-en-bugey
+3313;magalas;magalas
+3314;rezé-pont-rousseau;reze
+3315;arc-et-senans;arc-et-senans
+3316;hargicourt-pierrepont;hargicourt
+3317;ascq;villeneuve-d'ascq
+3318;rives;rives
+3319;pougues-les-eaux;pougues-les-eaux
+3320;cannes;cannes
+3321;sedan;sedan
+3322;laluque;laluque
+3323;taconnaz;les houches
+3324;st-pol-de-léon;saint-pol-de-léon
+3325;acheux-franleu;chépy
+3326;aguilcourt-variscourt;aguilcourt
+3327;thézy-glimont;thézy-glimont
+3328;corrèze;saint-priest-de-gimel
+3329;l'aigle;aigle (l')
+3330;st-sulpice-laurière;saint-sulpice-laurière
+3331;st-hilaire-de-chaléons;saint-hilaire-de-chaléons
+3332;montfort-l'amaury-mère;méré
+3333;colmar;colmar
+3334;st-roch (somme);amiens
+3335;st-yorre;saint-yorre
+3336;harfleur-halte;harfleur
+3337;longueville-sur-scie;longueville-sur-scie
+3338;marles-en-brie;la houssaye-en-brie
+3339;cérons;cérons
+3340;fegersheim-lipsheim;lipsheim
+3341;houlgate;houlgate
+3342;villefranche-de-lauragais;villefranche-de-lauragais
+3343;valençay;valençay
+3344;tourcoing;tourcoing
+3345;gerzat;gerzat
+3346;villiers-neauphle-pontchartrain;villiers-saint-fréderic
+3347;ste-maure-noyant;noyant-de-touraine
+3348;bolbec-nointot;bolbec
+3349;péronne-la-chapelette;péronne
+3350;lathus;lathus-saint-rémy
+3351;château-du-loir;château-du-loir
+3352;thédirac-peyrilles;peyrilles
+3353;castres;castres
+3354;st-andré-le-gaz;saint-andré-le-gaz
+3355;sierck-les-bains;sierck-les-bains
+3356;st-varent;saint-varent
+3357;veuxhaulles;veuxhaulles-sur-aube
+3358;gondrecourt-le-château;gondrecourt-le-château
+3359;mazingarbe;mazingarbe
+3360;pont-remy;pont-remy
+3361;montabard;montabard
+3362;balagny-st-épin;balagny-sur-thérain
+3363;neuvic;neuvic
+3364;ranspach;ranspach
+3365;bantzenheim;bantzenheim
+3366;porté-puymorens;porta
+3367;maisons-laffitte;maisons-laffitte
+3368;donjeux;donjeux
+3369;lamotte-breuil;trosly-breuil
+3370;chaulnes;chaulnes
+3371;véretz-montlouis;montlouis-sur-loire
+3372;tournay;tournay
+3373;benfeld;benfeld
+3374;albigny-neuville;albigny-sur-saône
+3375;montluçon-rimard;montlucon
+3376;courcay-tauxigny;courçay
+3377;lannion;lannion
+3378;steenbecque;steenbecque
+3379;auch;auch
+3380;st-saturnin-d'avignon;saint-saturnin-lès-avignon
+3381;le rouget;le rouget
+3382;duppigheim;duppigheim
+3383;beauvoisin;beauvoisin
+3384;verneuil-sur-serre;verneuil-sur-serre
+3385;bidos;bidos
+3386;montbartier;montbartier
+3387;chenevières;chenevières
+3388;la hisse;saint-samson-sur-rance
+3389;croix-sainte;martigues
+3390;pouzauges;la meilleraie-tillay
+3391;belvès;belvès
+3392;aytré-plage;aytré
+3393;maillé;maillé
+3394;roquefort (landes);roquefort
+3395;haubourdin;haubourdin
+3396;suippes;suippes
+3397;florange;florange
+3398;frévin-capelle;frévin-capelle
+3399;courtalain-st-pellerin;saint-pellerin
+3400;ors;ors
+3401;cazères-sur-garonne;cazères
+3402;nézel-aulnay;nézel
+3403;arcachon;arcachon
+3404;jatxou;ustaritz
+3405;chemin-peseux;peseux
+3406;tarbes;tarbes
+3407;lannemezan;lannemezan
+3408;le pouzin;le pouzin
+3409;einvaux;einvaux
+3410;port-d'atelier-amance;faverney
+3411;laigné-st-gervais;saint-gervais-en-belin
+3412;oyonnax;oyonnax
+3413;wilwisheim;wilwisheim
+3414;port-édouard-herriot;lyon
+3415;messac-guipry;messac
+3416;macau;macau
+3417;lavilletertre;lavilletertre
+3418;albias;albias
+3419;obermodern;obermodern-zutzendorf
+3420;chalandray;chalandray
+3421;fréteval-morée;fréteval
+3422;pontchaillou;rennes
+3423;st-denis-jargeau;saint-denis-de-l'hôtel
+3424;gien;gien
+3425;aubigny-au-bac;aubigny-au-bac
+3426;huriel;huriel
+3427;grandvilliers;grandvilliers
+3428;neuville-université;neuville-sur-oise
+3429;croix-l'allumette;croix
+3430;clonas;clonas-sur-varèze
+3431;plancoët;plancoët
+3432;bourron-marlotte-grez;bourron-marlotte
+3433;pontoise;pontoise
+3434;castelsarrasin;castelsarrasin
+3435;le genest;le genest-saint-isle
+3436;montereau;montereau-fault-yonne
+3437;loire;loire-sur-rhône
+3438;redon;redon
+3439;st-geours;saint-geours-de-maremne
+3440;sarcelles-st-brice;saint-brice-sous-foret
+3441;ciry-le-noble;ciry-le-noble
+3442;montereau;varennes-sur-seine
+3443;issy;issy-les-moulineaux
+3444;bitschwiller (haut-rhin);bitschwiller-lès-thann
+3445;villeneuve-loubet-plage;villeneuve-loubet
+3446;walbourg;walbourg
+3447;bains-les-bains;le clerjus
+3448;thann-st-jacques;thann
+3449;diarville;diarville
+3450;noyon;noyon
+3451;montbazon;montbazon
+3452;les mureaux;mureaux (les)
+3453;mandelieu-la-napoule;mandelieu-la-napoule
+3454;port-ste-marie;port-sainte-marie
+3455;gannes;gannes
+3456;mâcon-loché-tgv;macon
+3457;mézidon;mézidon-canon
+3458;belleville-vendée;belleville-sur-vie
+3459;héricourt;hericourt
+3460;vandières;vandières
+3461;longpré-les-corps-saints;longpré-les-corps-saints
+3462;surdon;le château-d'almenêches
+3463;gilley;gilley
+3464;château-thierry;étampes-sur-marne
+3465;verrey;verrey-sous-salmaise
+3466;ste-bazeille;sainte-bazeille
+3467;cantin;cantin
+3468;pauillac;pauillac
+3469;lecelles;lecelles
+3470;baud;languidic
+3471;athis-mons;athis-mons
+3472;lozanne;lozanne
+3473;trentels-ladignac;trentels
+3474;lyon-vaise;lyon
+3475;angoulême;angouleme
+3476;sarreguemines;sarreguemines
+3477;strasbourg-ville;strasbourg
+3478;mionnay;mionnay
+3479;bretigny-norges;bretigny
+3480;boran-sur-oise;boran-sur-oise
+3481;arles;arles
+3482;cavaillon (min);cavaillon
+3483;montréjeau-gourdan-polignan;gourdan-polignan
+3484;st-hilaire-de-riez;saint-hilaire-de-riez
+3485;bricon;bricon
+3486;réhon;réhon
+3487;niederbronn-les-bains;niederbronn-les-bains
+3488;thenon;thenon
+3489;dammartin-juilly-st-mard;saint-mard
+3490;tassin;tassin-la-demi-lune
+3491;breteuil-embranchement;bacouël
+3492;penthièvre;saint-pierre-quiberon
+3493;les fontinettes;calais
+3494;terrasson;terrasson-lailledieu
+3495;appilly;appilly
+3496;lestrem;lestrem
+3497;st-pierre-du-vauvray;saint-pierre-du-vauvray
+3498;st-mars-la-brière;saint-mars-la-brière
+3499;hachette;locquignol
+3500;motteville;motteville
+3501;bénestroff;bénestroff
+3502;meymac;meymac
+3503;fouilloy;fouilloy
+3504;coursan;coursan
+3505;valence-tgv;alixan
+3506;bar-le-duc;bar-le-duc
+3507;plénée-jugon;plénée-jugon
+3508;nerpuy;naintré
+3509;peyrehorade;peyrehorade
+3510;blangy-sur-ternoise;blangy-sur-ternoise
+3511;oermingen;oermingen
+3512;la chapelle-sur-loire;la chapelle-sur-loire
+3513;st-ay;saint-ay
+3514;fontan-saorge;fontan
+3515;strasbourg-roethig;lingolsheim
+3516;blaisy-bas;blaisy-bas
+3517;bassens-appontements;bassens
+3518;le douhet-écoyeux;le douhet
+3519;lison;sainte-marguerite-d'elle
+3520;bohain;bohain-en-vermandois
+3521;montereau;varennes-sur-seine
+3522;villennes-sur-seine;villennes-sur-seine
+3523;voiron;voiron
+3524;sury-le-comtal;sury-le-comtal
+3525;savy-berlette;savy-berlette
+3526;rang-du-fliers-verton;rang-du-fliers
+3527;livry-sur-seine;livry-sur-seine
+3528;dompierre-sept-fons;dompierre-sur-besbre
+3529;petit-vaux;epinay-sur-orge
+3530;mothern;mothern
+3531;aubrives;aubrives
+3532;montivilliers;montivilliers
+3533;watten-éperlecques;éperlecques
+3534;collioure;collioure
+3535;donzère;donzère
+3536;dijon-ville;dijon
+3537;bonneval;bonneval
+3538;grasse;grasse
+3539;nice-pont-michel;nice
+3540;genlis;genlis
+3541;le valdahon;valdahon
+3542;la celle-corrèze;lacelle
+3543;tarascon;tarascon
+3544;épernon;épernon
+3545;albens;albens
+3546;tergnier;tergnier
+3547;abancourt;abancourt
+3548;hoerdt;hoerdt
+3549;amifontaine;amifontaine
+3550;gardanne;gardanne
+3551;vendôme;vendome
+3552;cavaillon;cavaillon
+3553;st-omer-en-chaussée;saint-omer-en-chaussée
+3554;neuves-maisons;neuves-maisons
+3555;wingen-sur-moder;wingen-sur-moder
+3556;égletons;égletons
+3557;aigueperse;aigueperse
+3558;badan;grigny
+3559;peyrilhac-st-jouvent;peyrilhac
+3560;puget-ville;puget-ville
+3561;nuits-sous-ravières;nuits
+3562;aubusson;aubusson
+3563;podensac;podensac
+3564;connantre;connantre
+3565;st-gervais-les-bains-le fayet;saint-gervais-les-bains
+3566;rosporden;rosporden
+3567;argenteuil;argenteuil
+3568;cerbère;cerbère
+3569;douzillac;douzillac
+3570;bourg-en-bresse;bourg-en-bresse
+3571;pont-de-dore;peschadoires
+3572;cavignac;cavignac
+3573;st-martin-d'étampes;etampes
+3574;sanry-sur-nied;sanry-sur-nied
+3575;cassel;oxelaëre
+3576;neufchâteau;neufchâteau
+3577;maisse;maisse
+3578;rambouillet;rambouillet
+3579;foix;foix
+3580;couiza-montazels;montazels
+3581;st-pierre-en-faucigny;saint-pierre-en-faucigny
+3582;la bohalle;la bohalle
+3583;boussy-st-antoine;boussy-saint-antoine
+3584;rennes;rennes
+3585;jeandelize;jeandelize
+3586;luçon;luçon
+3587;joué-lès-tours;joue-les-tours
+3588;mailly-la-ville;mailly-la-ville
+3589;oullins;oullins
+3590;asnières-sur-seine;asnieres-sur-seine
+3591;ceyzériat;ceyzériat
+3592;cambrai;cambrai
+3593;paris-gare-de-lyon-souterrain;paris
+3594;lancerf;plourivo
+3595;la levade;grand-combe (la)
+3596;nogent-le-rotrou;nogent-le-rotrou
+3597;lamballe;lamballe
+3598;russ-hersbach;wisches
+3599;orry-la-ville-coye;orry-la-ville
+3600;pamiers;pamiers
+3601;st-laurent-gainneville;saint-laurent-de-brèvedent
+3602;tergnier;tergnier
+3603;cocheren;cocheren
+3604;lalinde;lalinde
+3605;hesdin;hesdin
+3606;bourgneuf-en-retz;bourgneuf-en-retz
+3607;marseille-en-beauvaisis;marseille-en-beauvaisis
+3608;wacquemoulin;wacquemoulin
+3609;bourg-en-bresse;bourg-en-bresse
+3610;aubin;aubin
+3611;niort;niort
+3612;st-pourçain-sur-sioule;saint-pourçain-sur-sioule
+3613;nantiat;nantiat
+3614;moissac;moissac
+3615;st-christophe;saint-christophe-vallon
+3616;viviez-decazeville;viviez
+3617;villers-sur-mer;villers-sur-mer
+3618;grand-bourg;ris-orangis
+3619;béthune-rivage;bethune
+3620;maresquel;maresquel-ecquemicourt
+3621;gujan-mestras;gujan-mestras
+3622;langon;langon
+3623;orangis-bois-de-l'épine;ris-orangis
+3624;vierzon-ville;vierzon
+3625;viam;viam
+3626;simiane;simiane-collongue
+3627;crouy-sur-ourcq;crouy-sur-ourcq
+3628;paris-vaugirard;paris
+3629;compiègne;margny-lès-compiègne
+3630;breuillet-village;breuillet
+3631;guillaucourt;guillaucourt
+3632;st-junien;saint-junien
+3633;brazey-en-plaine;brazey-en-plaine
+3634;champtocé-sur-loire;champtocé-sur-loire
+3635;franconville-plessis-bouchard;franconville
+3636;marignac-st-béat;marignac
+3637;le perray;le perray-en-yvelines
+3638;saverdun;saverdun
+3639;voyenne;voyenne
+3640;le monastier;le monastier-pin-moriès
+3641;colmar-mésanges;colmar
+3642;les abrets-fitilieu;fitilieu
+3643;strasbourg-port-du-rhin;strasbourg
+3644;plerguer;plerguer
+3645;escalquens;escalquens
+3646;st-pol-sur-ternoise;saint-pol-sur-ternoise
+3647;denain;denain
+3648;péreire-levallois;paris
+3649;la brigue;la brigue
+3650;blainville-damelevières;damelevières
+3651;chissay-en-touraine;chissay-en-touraine
+3652;teting;teting-sur-nied
+3653;frasne;frasne
+3654;is-sur-tille;marcilly-sur-tille
+3655;cergy-préfecture;cergy
+3656;oissel;tourville-la-rivière
+3657;st-amand-les-eaux;saint-amand-les-eaux
+3658;reims;reims
+3659;plaisir-grignon;plaisir
+3660;empalot;toulouse
+3661;la fresnais;la fresnais
+3662;mézy;mézy-moulins
+3663;ste-geneviève-des-bois;sainte-genevieve-des-bois
+3664;château-renault;château-renault
+3665;vern;vern-sur-seiche
+3666;apach;apach
+3667;pornichet;pornichet
+3668;buzy-en-béarn;buzy
+3669;vendeuvre-jort;vendeuvre
+3670;dijon-porte-d'ouche-perrigny;dijon
+3671;bassens;bassens
+3672;la barasse;marseille
+3673;corps-nuds;corps-nuds
+3674;lézignan-la-cèbe;lézignan-la-cèbe
+3675;st-quentin-en-yvelines;montigny-le-bretonneux
+3676;lus-la-croix-haute;lus-la-croix-haute
+3677;la gouesnière-cancale;saint-méloir-des-ondes
+3678;cornil;cornil
+3679;annecy;annecy
+3680;fère-en-tardenois;fère-en-tardenois
+3681;st-rambert-d'albon;saint-rambert-d'albon
+3682;ermont-eaubonne;eaubonne
+3683;ermont-eaubonne (psl);ermont
+3684;wissembourg;wissembourg
+3685;bellignat;bellignat
+3686;le dorat;le dorat
+3687;toul;toul
+3688;dourdan-la-forêt;dourdan
+3689;martigues;martigues
+3690;montbard;montbard
+3691;magland;magland
+3692;dieppe;dieppe
+3693;bazoches;bazoches-sur-vesles
+3694;ygos;ygos-saint-saturnin
+3695;châteaubriant tram-train;chateaubriant
+3696;entressen;istres
+3697;la cave;marsac-sur-l'isle
+3698;tessonnières;gaillac
+3699;goncelin;goncelin
+3700;novillars;novillars
+3701;angers-st-serge;écouflant
+3702;latour-de-carol-enveitg;enveitg
+3703;boën;boën
+3704;versailles-matelots;versailles
+3705;chepy-valines;chépy
+3706;mehun-sur-yèvre;mehun-sur-yèvre
+3707;origny-en-thiérache;origny-en-thiérache
+3708;trémolat;trémolat
+3709;la rochelle-ville;rochelle (la )
+3710;saverne;saverne
+3711;la verrière;verriere (la )
+3712;le boulou-perthus;le boulou
+3713;petit-jouy-les loges;les loges-en-josas
+3714;hombourg-haut;hombourg-haut
+3715;st-andré-de-corcy;saint-andré-de-corcy
+3716;buzançais;buzançais
+3717;le teil;le teil
+3718;strazeele;strazeele
+3719;alet-les-bains;alet-les-bains
+3720;laroche-migennes;migennes
+3721;urt;urt
+3722;wallers;wallers
+3723;aurec;aurec-sur-loire
+3724;chilly-mazarin;chilly-mazarin
+3725;desvres;desvres
+3726;st-victor;saint-maclou-de-folleville
+3727;gravelines;gravelines
+3728;pont-de-la-deûle;flers-en-escrebieux
+3729;longuerue-vieux-manoir;vieux-manoir
+3730;st-pierre-sur-dives;saint-pierre-sur-dives
+3731;cuers-pierrefeu;cuers
+3732;aéroport-charles-de-gaulle 2-tgv;tremblay-en-france
+3733;saincaize;saincaize-meauce
+3734;valergues-lansargues;valergues
+3735;ingwiller;ingwiller
+3736;conflans-fin-d'oise;conflans-sainte-honorine
+3737;jonchery-sur-vesle;jonchery-sur-vesle
+3738;vic-sur-aisne;ressons-le-long
+3739;le buisson;le buisson-de-cadouin
+3740;la ricamarie;ricamarie (la )
+3741;la brohinière;montauban-de-bretagne
+3742;épluches;saint-ouen-l'aumone
+3743;les cauquillous;lavaur
+3744;les deux jumeaux;hendaye
+3745;sarrebourg;sarrebourg
+3746;châlons-en-champagne;chalons-en-champagne
+3747;argenteuil;argenteuil
+3748;agay;saint-raphael
+3749;artenay;artenay
+3750;sorgues-châteauneuf-du-pape;sorgues
+3751;longages-noé;longages
+3752;châteaudun;chateaudun
+3753;la méaugon;la méaugon
+3754;épehy;épehy
+3755;mâlain;mâlain
+3756;metz-ville;metz
+3757;bon-encontre;boé
+3758;achères-ville;acheres
+3759;pavillons-sous-bois;pavillons-sous-bois (les)
+3760;yvetot;yvetot
+3761;romorantin (voie étroite);romorantin-lanthenay
+3762;docelles-cheniménil;cheniménil
+3763;tanus;tanus
+3764;freistroff;freistroff
+3765;marsac;marsac
+3766;port-de-bouc;port-de-bouc
+3767;fenouillet;fenouillet
+3768;suèvres;suèvres
+3769;plestan;plestan
+3770;vaux-sous-aubigny;vaux-sous-aubigny
+3771;juvisy;juvisy-sur-orge
+3772;namps-quevauvillers;namps-maisnil
+3773;garges-sarcelles;garges-les-gonesse
+3774;boisseaux;boisseaux
+3775;genech;genech
+3776;st-brieuc;saint-brieuc
+3777;figeac;figeac
+3778;cercy-la-tour;cercy-la-tour
+3779;le pouliguen;le pouliguen
+3780;vorey;vorey
+3781;basse-ham;basse-ham
+3782;quédillac;quédillac
+3783;seurre;seurre
+3784;martres-tolosane;martres-tolosane
+3785;bénestroff;bénestroff
+3786;limay;limay
+3787;la motte-ste-rosseline;la motte
+3788;chantenay;nantes
+3789;château-l'évêque;château-l'évêque
+3790;frouard;frouard
+3791;bourg-bruche;bourg-bruche
+3792;vert-galant;villepinte
+3793;hyères;hyeres
+3794;port-fluvial-de-chalon-sur-saône;chalon-sur-saone
+3795;base aérienne;gièvres
+3796;rougebarre;marcq-en-baroeul
+3797;landas;landas
+3798;st-armel;saint-armel
+3799;xertigny;xertigny
+3800;issé;issé
+3801;la valbonne;béligneux
+3802;st-pierre-le-moûtier;saint-pierre-le-moûtier
+3803;puyoô;puyoô
+3804;mouans-sartoux;mouans-sartoux
+3805;le bosquet;cannes
+3806;savigny-sur-orge;savigny-sur-orge
+3807;st-léger-sur-dheune;saint-léger-sur-dheune
+3808;st-amand-de-vendôme;saint-amand-longpré
+3809;huningue;huningue
+3810;anzeling;anzeling
+3811;clacy-mons;clacy-et-thierret
+3812;compans;compans
+3813;arras;arras
+3814;charmes;charmes
+3815;ham-en-artois;ham-en-artois
+3816;goxwiller;goxwiller
+3817;la chaussée-st-victor;la chaussée-saint-victor
+3818;mommenheim;mommenheim
