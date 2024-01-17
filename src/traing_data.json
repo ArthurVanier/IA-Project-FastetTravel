@@ -1,0 +1,20 @@
+[
+    {"text": "Je veux voyager de Paris à Lyon.", "entities": [{"start": 17, "end": 22, "label": "FROM"}, {"start": 26, "end": 30, "label": "TO"}]},
+    {"text": "Le train de Nice à Marseille est en retard.", "entities": [{"start": 10, "end": 14, "label": "FROM"}, {"start": 18, "end": 26, "label": "TO"}]},
+    {"text": "J'habite à Bordeaux depuis plusieurs années.", "entities": [{"start": 10, "end": 18, "label": "TO"}]},
+    {"text": "La ville de Toulouse est magnifique.", "entities": [{"start": 10, "end": 18, "label": "FROM"}]},
+    {"text": "Le voyage de Lyon à Grenoble est court.", "entities": [{"start": 12, "end": 16, "label": "FROM"}, {"start": 20, "end": 28, "label": "TO"}]},
+    {"text": "J'aimes les pommes de Startsbourg, je veux y allez depuis Paris.", "entities": [{"start": 22, "end": 33, "label": "TO"}, {"start": 58, "end": 63, "label": "TO"}]},
+    {"text": "Le train partira de Lyon à destination de Paris et passera par Bruxelles.", "entities": [{"start": 21, "end": 25, "label": "FROM"}, {"start": 36, "end": 41, "label": "TO"}]},
+    {"text": "Nous avons visité la ville de Marseille et découvert de charmants endroits à Lisbonne.", "entities": [{"start": 19, "end": 27, "label": "FROM"}]},
+    {"text": "Je prendrai le vol de Nice pour aller à Londres, puis je reviendrai à Lyon avant de visiter Berlin.", "entities": [{"start": 17, "end": 21, "label": "FROM"}, {"start": 35, "end": 41, "label": "TO"}, {"start": 57, "end": 61, "label": "TO"}]},
+    {"text": "Bordeaux est une belle ville. J'irai à Strasbourg bientôt et peut-être à Vienne aussi.", "entities": [{"start": 0, "end": 7, "label": "FROM"}, {"start": 27, "end": 36, "label": "TO"}]},
+    {"text": "Le train de Lyon à Paris est souvent bondé, mais le trajet vaut la peine. Ensuite, je passerai par Genève.", "entities": [{"start": 13, "end": 17, "label": "FROM"}, {"start": 21, "end": 26, "label": "TO"}]},
+    {"text": "Nice est une destination touristique populaire. Je reviens à Toulouse demain et prévois de visiter Madrid la semaine prochaine.", "entities": [{"start": 0, "end": 4, "label": "FROM"}, {"start": 30, "end": 37, "label": "TO"}]},
+    {"text": "Le départ sera de Paris à destination de Rome. Ensuite, je ferai escale à Barcelone.", "entities": [{"start": 19, "end": 24, "label": "FROM"}, {"start": 38, "end": 43, "label": "TO"}]},
+    {"text": "J'ai réservé un vol de Lyon à Istanbul pour le mois prochain. Plus tard, je visiterai Prague.", "entities": [{"start": 22, "end": 26, "label": "FROM"}, {"start": 32, "end": 39, "label": "TO"}]},
+    {"text": "Strasbourg est connue pour sa cathédrale. Je vais à Amsterdam ce week-end, puis à Zurich.", "entities": [{"start": 0, "end": 9, "label": "FROM"}, {"start": 24, "end": 31, "label": "TO"}]},
+    {"text": "Le train direct de Marseille à Genève est très pratique. Après, je passerai par Milan.", "entities": [{"start": 21, "end": 27, "label": "FROM"}, {"start": 40, "end": 45, "label": "TO"}]},
+    {"text": "Nice est une ville ensoleillée. Je vais à Lisbonne et ensuite à Madrid.", "entities": [{"start": 0, "end": 4, "label": "FROM"}, {"start": 26, "end": 33, "label": "TO"}]}
+    
+]
